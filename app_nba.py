@@ -32,7 +32,7 @@ from sqlalchemy import create_engine
 #####
 # Database Setup
 
-MySQL_root_PW = "19880812xy"
+MySQL_root_PW = "PASSWORD"
 MySQL_db = 'nba'
 
 MySQL_engine = create_engine("mysql://root:"+MySQL_root_PW+"@localhost/"+MySQL_db)
