@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>NBA_draft_and_NAB_player</title>
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+</head>
+
+<body>
+  <div class="container-fluid">
+    <div class="jumbotron text-center">
+      <h1>Visit the...</h1>
+      <p>The draftee's rank may not determine his real-time perfomance in game!</p>
+      <p><a class="btn btn-primary btn-lg" href="/" role="button">Get Data!</a></p>
+      <img src="https://amp.businessinsider.com/images/5c0a7d8c293b71152a268269-750-375.jpg" alt ="LeBron James draft day">
+    </div>
+      
+    <h2>The draftee table</h2>
+    <table class="table table-striped table-dark">
+     <thead>
+      <tr>
+        <th scope="col">#</th>
+        <th scope="col">Firstname</th>
+        <th scope="col">Lastname</th> 
+        <th scope="col">Year</th>
+        <th scope="col">Round</th>
+        <th scope="col">Peak#</th>
+        <th scope="col">DraftPosition</th>
+        <th scope="col">School</th>
+      </tr>
+     </thead>
+        
+     <tbody>    
+      <tr>
+        <th scope="row">1</th>
+        <td>{{draftee_short.first_name}}</td>
+        <td>{{draftee_short.last_name}}</td>
+        <td>{{draftee_short.year}}</td>
+        <td>{{draftee_short.round}}</td>
+        <td>{{draftee_short.pick}}</td>
+        <td>{{draftee_short.position}}</td>
+        <td>{{draftee_short.school}}</td>
+      </tr>
+     </tbody> 
+    </table>
+    
+    <br/>
+    <br/>
+      
+      
+    <h2>The player table</h2>    
+    <table class="table table-striped"> 
+     <thead>
+      <tr> 
+        <th scope="col">#</th>
+        <th>Firstname</th>
+        <th>Lastname</th> 
+        <th>Number_in_Team</th>
+        <th>Team</th>
+      </tr>
+     </thead>
+        
+     <tbody>     
+      <tr>
+        <th scope="row">1</th>
+        <td>{{player_short.first_name}}</td>
+        <td>{{player_short.last_name}}</td>
+        <td>{{player_short.number_in_team}}</td>
+        <td>{{player_short.team}}</td>
+      </tr>
+     </tbody> 
+    </table>
+      
+    <h2> The two tables show a draftee and his placement in 2019</h2>
+    <h3> Future work:<br/>
+         1) more detailed infomation about players (such as the placement from 1989 until 2019) need to be collected about <br/>
+         2) some players' first name and last name are swaped, I need more time to fix it. *_* 
+    </h3>  
+
+  </div>
+</body>
+
+</html>

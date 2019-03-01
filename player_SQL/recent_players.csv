@@ -1,491 +1,492 @@
-,number_in_team,team,headshot_src,lastName,firstName
-0,10,Hawks,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629121.png,Adams, Jaylen
-1,12,Thunder,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203500.png,Adams, Steven
-2,13,Heat,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628389.png,Adebayo, Bam
-3,32,Cavaliers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629061.png,Adel, Deng
-4,12,Spurs,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/200746.png,Aldridge, LaMarcus
-5,20,Bulls,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628959.png,Alkins, Rawle
-6,24,Jazz,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628960.png,Allen, Grayson
-7,31,Nets,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628386.png,Allen, Jarrett
-8,0,Knicks,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628443.png,Allen, Kadeem
-9,8,Trail Blazers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202329.png,Aminu, Al-Farouq
-10,1,Hawks,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626147.png,Anderson, Justin
-11,1,Grizzlies,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203937.png,Anderson, Kyle
-12,31,Heat,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201583.png,Anderson, Ryan
-13,34,Bucks,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203507.png,Antetokounmpo, Giannis
-14,37,Mavericks,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628961.png,Antetokounmpo, Kostas
-15,3,Raptors,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628384.png,Anunoby, OG
-16,51,Bulls,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627853.png,Arcidiacono, Ryan
-17,1,Wizards,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/2772.png,Ariza, Trevor
-18,14,Magic,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201571.png,Augustin, D.J.
-19,22,Suns,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629028.png,Ayton, Deandre
-20,7,Hornets,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628407.png,Bacon, Dwayne
-21,35,Kings,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628963.png,Bagley III, Marvin
-22,2,Lakers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628366.png,Ball, Lonzo
-23,5,Magic,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628964.png,Bamba, Mo
-24,5,Mavericks,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/200826.png,Barea, J.J.
-25,40,Kings,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203084.png,Barnes, Harrison
-26,5,Nuggets,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203115.png,Barton, Will
-27,31,Timberwolves,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628966.png,Bates-Diop, Keita
-28,5,Hornets,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201587.png,Batum, Nicolas
-29,8,Timberwolves,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201573.png,Bayless, Jerryd
-30,46,Celtics,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203382.png,Baynes, Aron
-31,24,Hawks,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203145.png,Bazemore, Kent
-32,3,Wizards,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203078.png,Beal, Bradley
-33,25,Nuggets,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627736.png,Beasley, Malik
-34,18,Spurs,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201158.png,Belinelli, Marco
-35,2,Warriors,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628395.png,Bell, Jordan
-36,95,Hawks,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627761.png,Bembry, DeAndre'
-37,35,Suns,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627733.png,Bender, Dragan
-38,42,Spurs,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202722.png,Bertans, Davis
-39,21,Clippers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201976.png,Beverley, Patrick
-40,24,Magic,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203920.png,Birch, Khem
-41,8,Hornets,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202687.png,Biyombo, Bismack
-42,88,Kings,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202357.png,Bjelica, Nemanja
-43,9,Bulls,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628469.png,Blakeney, Antonio
-44,6,Bucks,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202339.png,Bledsoe, Eric
-45,4,Cavaliers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628417.png,Blossomgame, Jaron
-46,5,Pelicans,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629129.png,Bluiett, Trevon
-47,8,Kings,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203992.png,Bogdanovic, Bogdan
-48,44,Pacers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202711.png,Bogdanovic, Bojan
-49,43,76ers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628413.png,Bolden, Jonah
-50,17,Lakers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629067.png,Bonga, Isaac
-51,1,Suns,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626164.png,Booker, Devin
-52,25,Raptors,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628449.png,Boucher, Chris
-53,0,Grizzlies,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202340.png,Bradley, Avery
-54,13,Jazz,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628396.png,Bradley, Tony
-55,33,Kings,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201147.png,Brewer, Corey
-56,25,Suns,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628969.png,Bridges, Mikal
-57,0,Hornets,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628970.png,Bridges, Miles
-58,13,Magic,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628515.png,Briscoe, Isaiah
-59,45,Mavericks,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629151.png,Broekhoff, Ryan
-60,13,Bucks,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627763.png,Brogdon, Malcolm
-61,24,Grizzlies,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628415.png,Brooks, Dillon
-62,6,Wizards,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628972.png,Brown Jr., Troy
-63,6,Pistons,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628971.png,Brown, Bruce
-64,7,Celtics,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627759.png,Brown, Jaylen
-65,23,Bucks,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628425.png,Brown, Sterling
-66,13,Mavericks,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628973.png,Brunson, Jalen
-67,13,Wizards,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628418.png,Bryant, Thomas
-68,35,Lakers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203493.png,Bullock, Reggie
-69,23,Mavericks,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203504.png,Burke, Trey
-70,13,Kings,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202692.png,Burks, Alec
-71,30,Thunder,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629126.png,Burton, Deonte
-72,23,76ers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202710.png,Butler, Jimmy
-73,5,Grizzlies,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203998.png,Caboclo, Bruno
-74,81,Pistons,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/101181.png,Calderon, Jose
-75,1,Lakers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203484.png,Caldwell-Pope, Kentavious
-76,7,Bucks,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203477.png,Canaan, Isaiah
-77,15,Rockets,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203991.png,Capela, Clint
-78,9,Nets,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201960.png,Carroll, DeMarre
-79,34,Bulls,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628976.png,Carter Jr., Wendell
-80,3,Grizzlies,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628975.png,Carter, Jevon
-81,15,Hawks,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1713.png,Carter, Vince
-82,4,Lakers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627936.png,Caruso, Alex
-83,00,Kings,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626161.png,Cauley-Stein, Willie
-84,3,Magic,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628505.png,Caupain, Troy
-85,34,Jazz,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628463.png,Cavanaugh, Tyler
-86,5,Lakers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/2199.png,Chandler, Tyson
-87,22,Clippers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201163.png,Chandler, Wilson
-88,31,Hornets,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629147.png,Chealey, Joe
-89,2,Rockets,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629185.png,Chiozza, Chris
-90,3,Cavaliers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627737.png,Chriss, Marquese
-91,6,Rockets,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629109.png,Clark, Gary
-92,2,Pelicans,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203546.png,Clark, Ian
-93,8,Cavaliers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203903.png,Clarkson, Jordan
-94,20,Hawks,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628381.png,Collins, John
-95,33,Trail Blazers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628380.png,Collins, Zach
-96,2,Pacers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201954.png,Collison, Darren
-97,50,Bucks,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629045.png,Colson, Bonzie
-98,11,Grizzlies,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201144.png,Conley, Mike
-99,24,Bucks,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626192.png,Connaughton, Pat
-100,4,Warriors,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626188.png,Cook, Quinn
-101,0,Warriors,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202326.png,Cousins, DeMarcus
-102,33,Timberwolves,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203496.png,Covington, Robert
-103,33,Nets,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203459.png,Crabbe, Allen
-104,3,Nuggets,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628470.png,Craig, Torrey
-105,11,Suns,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/2037.png,Crawford, Jamal
-106,99,Jazz,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203109.png,Crowder, Jae
-107,33,Spurs,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201967.png,Cunningham, Dante
-108,31,Trail Blazers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203552.png,Curry, Seth
-109,30,Warriors,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201939.png,Curry, Stephen
-110,30,Suns,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203584.png,Daniels, Troy
-111,23,Pelicans,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203076.png,Davis, Anthony
-112,17,Nets,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202334.png,Davis, Ed
-113,14,Hawks,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203473.png,Dedmon, Dewayne
-114,8,Wizards,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626155.png,Dekker, Sam
-115,31,Clippers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629116.png,Delgado, Angel
-116,18,Cavaliers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203521.png,Dellavedova, Matthew
-117,9,Timberwolves,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/2736.png,Deng, Luol
-118,10,Spurs,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201942.png,DeRozan, DeMar
-119,32,Warriors,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629094.png,Derrickson, Marcus
-120,13,Pelicans,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627767.png,Diallo, Cheick
-121,6,Thunder,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628977.png,Diallo, Hamidou
-122,5,Timberwolves,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203476.png,Dieng, Gorgui
-123,8,Nets,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203915.png,Dinwiddie, Spencer
-124,9,Bucks,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628978.png,DiVincenzo, Donte
-125,77,Mavericks,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629029.png,Doncic, Luka
-126,22,Grizzlies,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628416.png,Dorsey, Tyler
-127,21,Knicks,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628422.png,Dotson, Damyean
-128,50,Celtics,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628408.png,Dozier, PJ
-129,7,Heat,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201609.png,Dragic, Goran
-130,0,Pistons,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203083.png,Drummond, Andre
-131,6,Nets,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201162.png,Dudley, Jared
-132,32,Bulls,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627739.png,Dunn, Kris
-133,35,Warriors,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201142.png,Durant, Kevin
-134,0,Bucks,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628979.png,Duval, Trevon
-135,12,Rockets,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629053.png,Edwards, Vincent
-136,13,Knicks,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627740.png,Ellenson, Henry
-137,20,Pistons,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201961.png,Ellington, Wayne
-138,21,76ers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203954.png,Embiid, Joel
-139,11,76ers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203516.png,Ennis III, James
-140,14,Spurs,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629234.png,Eubanks, Drew
-141,10,Warriors,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628980.png,Evans, Jacob
-142,0,Suns,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628393.png,Evans, Jawun
-143,12,Pacers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201936.png,Evans, Tyreke
-144,11,Jazz,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203957.png,Exum, Dante
-145,35,Rockets,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202702.png,Faried, Kenneth
-146,15,Jazz,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202324.png,Favors, Derrick
-147,6,Bulls,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626245.png,Felicio, Cristiano
-148,2,Thunder,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/101109.png,Felton, Raymond
-149,23,Thunder,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628390.png,Ferguson, Terrance
-150,3,Kings,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627812.png,Ferrell, Yogi
-151,10,Mavericks,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627827.png,Finney-Smith, Dorian
-152,11,Spurs,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627854.png,Forbes, Bryn
-153,10,Magic,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203095.png,Fournier, Evan
-154,5,Kings,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628368.png,Fox, De'Aaron
-155,35,Magic,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628982.png,Frazier Jr., Melvin
-156,10,Pelicans,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/204025.png,Frazier, Tim
-157,9,Cavaliers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/101112.png,Frye, Channing
-158,20,Magic,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628365.png,Fultz, Markelle
-159,32,Kings,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629117.png,Gabriel, Wenyen
-160,8,Clippers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201568.png,Gallinari, Danilo
-161,9,Pistons,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/204038.png,Galloway, Langston
-162,33,Raptors,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201188.png,Gasol, Marc
-163,16,Spurs,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/2200.png,Gasol, Pau
-164,22,Spurs,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/200752.png,Gay, Rudy
-165,13,Thunder,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202331.png,George, Paul
-166,67,Timberwolves,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201959.png,Gibson, Taj
-167,20,Kings,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628385.png,Giles III, Harry
-168,2,Clippers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628983.png,Gilgeous-Alexander, Shai
-169,27,Jazz,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203497.png,Gobert, Rudy
-170,6,Nuggets,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629164.png,Goodwin, Brandon
-171,00,Magic,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203932.png,Gordon, Aaron
-172,10,Rockets,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201569.png,Gordon, Eric
-173,4,Hornets,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628984.png,Graham, Devonte'
-174,21,Nets,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626203.png,Graham, Treveon
-175,15,Thunder,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629055.png,Grantham, Donte
-176,9,Thunder,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203924.png,Grant, Jerami
-177,22,Magic,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626170.png,Grant, Jerian
-178,14,Raptors,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201980.png,Green, Danny
-179,23,Warriors,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203110.png,Green, Draymond
-180,14,Rockets,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/101123.png,Green, Gerald
-181,4,Clippers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203210.png,Green, JaMychal
-182,32,Wizards,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201145.png,Green, Jeff
-183,23,Pistons,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201933.png,Griffin, Blake
-184,11,Mavericks,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203501.png,Hardaway Jr., Tim
-185,13,Rockets,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201935.png,Harden, James
-186,4,Trail Blazers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203090.png,Harkless, Maurice
-187,5,Clippers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626149.png,Harrell, Montrezl
-188,34,Mavericks,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/2734.png,Harris, Devin
-189,14,Nuggets,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203914.png,Harris, Gary
-190,12,Nets,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203925.png,Harris, Joe
-191,3,Bulls,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627885.png,Harrison, Shaquille
-192,33,76ers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202699.png,Harris, Tobias
-193,55,Rockets,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628392.png,Hartenstein, Isaiah
-194,3,Lakers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628404.png,Hart, Josh
-195,40,Heat,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/2617.png,Haslem, Udonis
-196,20,Celtics,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202330.png,Hayward, Gordon
-197,31,Cavaliers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203089.png,Henson, John
-198,41,Nuggets,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627823.png,Hernangomez, Juancho
-199,41,Hornets,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626195.png,Hernangomez, Willy
-200,8,Knicks,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626209.png,Hezonja, Mario
-201,4,Knicks,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628439.png,Hicks, Isaiah
-202,24,Kings,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627741.png,Hield, Buddy
-203,7,76ers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629312.png,Highsmith, Haywood
-204,3,Bucks,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201588.png,Hill, George
-205,44,Pelicans,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203524.png,Hill, Solomon
-206,3,Pacers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628988.png,Holiday, Aaron
-207,11,Pelicans,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201950.png,Holiday, Jrue
-208,7,Grizzlies,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203200.png,Holiday, Justin
-209,24,Nets,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626178.png,Hollis-Jefferson, Rondae
-210,21,Suns,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626158.png,Holmes, Richaun
-211,5,Trail Blazers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203918.png,Hood, Rodney
-212,22,Thunder,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203816.png,Hopson, Scotty
-213,42,Celtics,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201143.png,Horford, Al
-214,4,Rockets,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627863.png,House Jr., Danuel
-215,21,Wizards,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/2730.png,Howard, Dwight
-216,3,Hawks,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628989.png,Huerter, Kevin
-217,28,Celtics,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626154.png,Hunter, RJ
-218,15,Bulls,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628990.png,Hutchison, Chandler
-219,9,Raptors,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201586.png,Ibaka, Serge
-220,9,Warriors,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/2738.png,Iguodala, Andre
-221,77,Bucks,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/101141.png,Ilyasova, Ersan
-222,2,Jazz,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/204060.png,Ingles, Joe
-223,14,Lakers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627742.png,Ingram, Brandon
-224,11,Celtics,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202681.png,Irving, Kyrie
-225,1,Magic,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628371.png,Isaac, Jonathan
-226,25,Magic,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628411.png,Iwundu, Wes
-227,13,Grizzlies,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628991.png,Jackson Jr., Jaren
-228,15,Pelicans,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628402.png,Jackson, Frank
-229,20,Suns,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628367.png,Jackson, Josh
-230,44,Mavericks,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628382.png,Jackson, Justin
-231,1,Pistons,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202704.png,Jackson, Reggie
-232,23,Lakers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/2544.png,James, LeBron
-233,11,Magic,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628518.png,Jefferson, Amile
-234,30,Knicks,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203098.png,Jenkins, John
-235,21,Warriors,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201973.png,Jerebko, Jonas
-236,24,Pacers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628993.png,Johnson, Alize
-237,5,76ers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/101161.png,Johnson, Amir
-238,16,Heat,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201949.png,Johnson, James
-239,3,Pelicans,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626169.png,Johnson, Stanley
-240,16,Suns,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/204020.png,Johnson, Tyler
-241,4,Wizards,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202325.png,Johnson, Wesley
-242,15,Nuggets,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203999.png,Jokic, Nikola
-243,5,Heat,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627884.png,Jones Jr., Derrick
-244,15,Warriors,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627745.png,Jones, Damian
-245,9,Rockets,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203093.png,Jones, Terrence
-246,1,Timberwolves,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626145.png,Jones, Tyus
-247,6,Knicks,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201599.png,Jordan, DeAndre
-248,6,Pacers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202709.png,Joseph, Cory
-249,44,Hornets,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626163.png,Kaminsky, Frank
-250,00,Trail Blazers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202683.png,Kanter, Enes
-251,5,Pistons,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628379.png,Kennard, Luke
-252,14,Hornets,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203077.png,Kidd-Gilchrist, Michael
-253,8,Suns,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628994.png,King, George
-254,42,Mavericks,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628467.png,Kleber, Maxi
-255,20,Cavaliers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202688.png,Knight, Brandon
-256,20,Knicks,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628995.png,Knox, Kevin
-257,30,76ers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627788.png,Korkmaz, Furkan
-258,2,Knicks,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628436.png,Kornet, Luke
-259,26,Jazz,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/2594.png,Korver, Kyle
-260,41,Kings,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201585.png,Koufos, Kosta
-261,00,Nets,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629066.png,Kurucs, Rodions
-262,0,Lakers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628398.png,Kuzma, Kyle
-263,17,Trail Blazers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627746.png,Labissiere, Skal
-264,3,Hornets,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203087.png,Lamb, Jeremy
-265,8,Bulls,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203897.png,LaVine, Zach
-266,10,Trail Blazers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627774.png,Layman, Jake
-267,22,Pacers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628388.png,Leaf, TJ
-268,1,Mavericks,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201584.png,Lee, Courtney
-269,1,Warriors,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627814.png,Lee, Damion
-270,25,Hawks,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203458.png,Len, Alex
-271,2,Raptors,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202695.png,Leonard, Kawhi
-272,11,Trail Blazers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203086.png,Leonard, Meyers
-273,30,Pistons,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202720.png,Leuer, Jon
-274,22,Nets,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627747.png,LeVert, Caris
-275,0,Trail Blazers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203081.png,Lillard, Damian
-276,17,Raptors,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202391.png,Lin, Jeremy
-277,34,Warriors,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/2733.png,Livingston, Shaun
-278,5,Warriors,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626172.png,Looney, Kevon
-279,11,Bucks,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201572.png,Lopez, Brook
-280,42,Bulls,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201577.png,Lopez, Robin
-281,0,Cavaliers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201567.png,Love, Kevin
-282,7,Raptors,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/200768.png,Lowry, Kyle
-283,8,Raptors,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628070.png,Loyd, Jordan
-284,24,Pistons,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203564.png,Lucas, Kalin
-285,7,Bulls,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627789.png,Luwawu-Cabarrot, Timothe
-286,20,Nuggets,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628399.png,Lydon, Tyler
-287,7,Nuggets,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626168.png,Lyles, Trey
-288,6,Hornets,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202714.png,Mack, Shelvin
-289,3,Mavericks,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629133.png,Macon, Daryl
-290,55,Hornets,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629122.png,Macura, J.P.
-291,28,Wizards,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/101133.png,Mahinmi, Ian
-292,7,Pistons,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627748.png,Maker, Thon
-293,51,76ers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626246.png,Marjanovic, Boban
-294,24,Bulls,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628374.png,Markkanen, Lauri
-295,2,Magic,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626185.png,Martin, Jarell
-296,10,Kings,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628412.png,Mason, Frank
-297,00,Heat,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628999.png,Maten, Yante
-298,23,Pacers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202083.png,Matthews, Wesley
-299,12,Clippers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201601.png,Mbah a Moute, Luc
-300,1,Raptors,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627775.png,McCaw, Patrick
-301,3,Trail Blazers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203468.png,McCollum, CJ
-302,12,76ers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/204456.png,McConnell, T.J.
-303,20,Pacers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203926.png,McDermott, Doug
-304,7,Lakers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201580.png,McGee, JaVale
-305,17,Heat,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203585.png,McGruder, Rodney
-306,28,Warriors,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628035.png,McKinnie, Alfonzo
-307,52,Wizards,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203895.png,McRae, Jordan
-308,20,Raptors,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201975.png,Meeks, Jodie
-309,50,Mavericks,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626257.png,Mejri, Salah
-310,14,Suns,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629001.png,Melton, De'Anthony
-311,7,Spurs,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629002.png,Metu, Chimezie
-312,22,Bucks,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203114.png,Middleton, Khris
-313,6,Grizzlies,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/101139.png,Miles, CJ
-314,21,Pelicans,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203121.png,Miller, Darius
-315,13,Raptors,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626259.png,Miller, Malcolm
-316,4,Nuggets,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/200794.png,Millsap, Paul
-317,8,Spurs,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201988.png,Mills, Patty
-318,18,76ers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629003.png,Milton, Shake
-319,41,Bucks,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202703.png,Mirotic, Nikola
-320,45,Jazz,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628378.png,Mitchell, Donovan
-321,30,Jazz,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628513.png,Mitrou-Long, Naz
-322,1,Hornets,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628370.png,Monk, Malik
-323,26,Spurs,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628500.png,Moore, Ben
-324,55,Pelicans,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202734.png,Moore, E'Twaun
-325,30,Bucks,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628537.png,Morris, Jaylen
-326,13,Celtics,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202694.png,Morris, Marcus
-327,5,Thunder,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202693.png,Morris, Markieff
-328,11,Nuggets,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628420.png,Morris, Monte
-329,15,Clippers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628405.png,Motley, Johnathan
-330,21,Magic,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202389.png,Mozgov, Timofey
-331,1,Knicks,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626144.png,Mudiay, Emmanuel
-332,5,Spurs,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627749.png,Murray, Dejounte
-333,27,Nuggets,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627750.png,Murray, Jamal
-334,30,Nets,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629058.png,Musa, Dzanan
-335,31,Lakers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203488.png,Muscala, Mike
-336,19,Pistons,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629004.png,Mykhailiuk, Svi
-337,11,Thunder,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627846.png,Nader, Abdel
-338,22,Cavaliers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626204.png,Nance Jr., Larry
-339,13,Nets,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203894.png,Napier, Shabazz
-340,42,Rockets,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/2403.png,Nene,
-341,25,Jazz,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203526.png,Neto, Raul
-342,31,Jazz,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627777.png,Niang, Georges
-343,55,Grizzlies,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201149.png,Noah, Joakim
-344,3,Thunder,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203457.png,Noel, Nerlens
-345,41,Mavericks,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1717.png,Nowitzki, Dirk
-346,11,Knicks,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628373.png,Ntilikina, Frank
-347,27,Trail Blazers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203994.png,Nurkic, Jusuf
-348,12,Cavaliers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628021.png,Nwaba, David
-349,23,Jazz,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626220.png,O'Neale, Royce
-350,10,Pacers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203124.png,O'Quinn, Kyle
-351,37,Celtics,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628400.png,Ojeleye, Semi
-352,8,Pelicans,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626143.png,Okafor, Jahlil
-353,2,Suns,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629059.png,Okobo, Elie
-354,20,Timberwolves,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629006.png,Okogie, Josh
-355,4,Pacers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203506.png,Oladipo, Victor
-356,9,Heat,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203482.png,Olynyk, Kelly
-357,16,Cavaliers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626224.png,Osman, Cedi
-358,3,Suns,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626162.png,Oubre Jr., Kelly
-359,27,Pistons,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/2585.png,Pachulia, Zaza
-360,12,Wizards,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203953.png,Parker, Jabari
-361,9,Hornets,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/2225.png,Parker, Tony
-362,25,Grizzlies,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202718.png,Parsons, Chandler
-363,54,Thunder,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202335.png,Patterson, Patrick
-364,0,76ers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628383.png,Patton, Justin
-365,3,Rockets,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/101108.png,Paul, Chris
-366,4,Pelicans,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203901.png,Payton, Elfrid
-367,10,Nets,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629033.png,Pinson, Theo
-368,24,Nuggets,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203486.png,Plumlee, Mason
-369,18,Hawks,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203101.png,Plumlee, Miles
-370,25,Spurs,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627751.png,Poeltl, Jakob
-371,3,Spurs,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202347.png,Pondexter, Quincy
-372,1,Nuggets,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629008.png,Porter Jr., Michael
-373,22,Bulls,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203490.png,Porter Jr., Otto
-374,5,Wizards,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626171.png,Portis, Bobby
-375,6,Mavericks,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/204001.png,Porzingis, Kristaps
-376,7,Mavericks,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203939.png,Powell, Dwight
-377,24,Raptors,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626181.png,Powell, Norman
-378,22,Hawks,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627816.png,Poythress, Alex
-379,12,Hawks,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627752.png,Prince, Taurean
-380,10,Grizzlies,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628397.png,Rabb, Ivan
-381,9,Wizards,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626184.png,Randle, Chasson
-382,30,Pelicans,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203944.png,Randle, Julius
-383,17,76ers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/200755.png,Redick, JJ
-384,32,Pacers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628432.png,Reed, Davon
-385,0,Heat,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626196.png,Richardson, Josh
-386,25,Rockets,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203085.png,Rivers, Austin
-387,21,Thunder,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203460.png,Roberson, Andre
-388,22,Pistons,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203922.png,Robinson III, Glenn
-389,7,Wizards,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628421.png,Robinson, Devin
-390,55,Heat,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629130.png,Robinson, Duncan
-391,10,Clippers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629010.png,Robinson, Jerome
-392,26,Knicks,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629011.png,Robinson, Mitchell
-393,9,Lakers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/200765.png,Rondo, Rajon
-394,25,Timberwolves,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201565.png,Rose, Derrick
-395,31,Magic,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203082.png,Ross, Terrence
-396,12,Celtics,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626179.png,Rozier, Terry
-397,3,Jazz,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201937.png,Rubio, Ricky
-398,1,Nets,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626156.png,Russell, D'Angelo
-399,11,Pacers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627734.png,Sabonis, Domantas
-400,44,Bulls,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629102.png,Sampson, Brandon
-401,36,Timberwolves,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203967.png,Saric, Dario
-402,31,Wizards,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203107.png,Satoransky, Tomas
-403,17,Thunder,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203471.png,Schroder, Dennis
-404,1,76ers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203118.png,Scott, Mike
-405,22,Jazz,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/200757.png,Sefolosha, Thabo
-406,14,Bulls,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627782.png,Selden, Wayne
-407,2,Cavaliers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629012.png,Sexton, Collin
-408,20,Clippers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629013.png,Shamet, Landry
-409,1,Rockets,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202697.png,Shumpert, Iman
-410,43,Raptors,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627783.png,Siakam, Pascal
-411,8,Hawks,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626296.png,Sibert, Jordan
-412,25,76ers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627732.png,Simmons, Ben
-413,14,76ers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203613.png,Simmons, Jonathon
-414,24,Trail Blazers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629014.png,Simons, Anfernee
-415,36,Celtics,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203935.png,Smart, Marcus
-416,5,Knicks,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628372.png,Smith Jr., Dennis
-417,14,Pistons,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202397.png,Smith, Ish
-418,20,Pelicans,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201160.png,Smith, Jason
-419,5,Cavaliers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/2747.png,Smith, JR
-420,8,76ers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629015.png,Smith, Zhaire
-421,21,Bucks,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203503.png,Snell, Tony
-422,8,Thunder,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/204076.png,Solomon, Richard
-423,26,Suns,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629034.png,Spalding, Ray
-424,6,Hawks,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629016.png,Spellman, Omari
-425,1,Cavaliers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203917.png,Stauskas, Nik
-426,6,Lakers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202362.png,Stephenson, Lance
-427,5,Pacers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628410.png,Sumner, Edmond
-428,50,Kings,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628403.png,Swanigan, Caleb
-429,0,Celtics,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628369.png,Tatum, Jayson
-430,0,Timberwolves,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201952.png,Teague, Jeff
-431,17,Clippers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202066.png,Temple, Garrett
-432,3,Timberwolves,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629123.png,Terrell, Jared
-433,12,Heat,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629150.png,Terry, Emanuel
-434,27,Celtics,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628464.png,Theis, Daniel
-435,0,Nuggets,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202738.png,Thomas, Isaiah
-436,13,Pistons,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629017.png,Thomas, Khyri
-437,42,Knicks,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202498.png,Thomas, Lance
-438,11,Warriors,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202691.png,Thompson, Klay
-439,13,Cavaliers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202684.png,Thompson, Tristan
-440,0,Clippers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628414.png,Thornwell, Sindarius
-441,43,Timberwolves,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201229.png,Tolliver, Anthony
-442,32,Timberwolves,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626157.png,Towns, Karl-Anthony
-443,9,Trail Blazers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629018.png,Trent Jr., Gary
-444,14,Knicks,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629019.png,Trier, Allonzo
-445,17,Rockets,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/200782.png,Tucker, PJ
-446,1,Trail Blazers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202323.png,Turner, Evan
-447,33,Pacers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626167.png,Turner, Myles
-448,33,Jazz,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202327.png,Udoh, Ekpe
-449,17,Grizzlies,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202685.png,Valanciunas, Jonas
-450,45,Bulls,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627756.png,Valentine, Denzel
-451,8,Nuggets,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629020.png,Vanderbilt, Jarred
-452,23,Raptors,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627832.png,VanVleet, Fred
-453,32,Knicks,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203943.png,Vonleh, Noah
-454,9,Magic,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202696.png,Vucevic, Nikola
-455,3,Heat,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/2548.png,Wade, Dwyane
-456,15,Lakers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629021.png,Wagner, Moritz
-457,11,Heat,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203079.png,Waiters, Dion
-458,1,Spurs,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629022.png,Walker IV, Lonnie
-459,15,Hornets,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202689.png,Walker, Kemba
-460,9,Clippers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627820.png,Wallace, Tyrone
-461,2,Wizards,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202322.png,Wall, John
-462,9,Celtics,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202954.png,Wanamaker, Brad
-463,12,Suns,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203933.png,Warren, T.J.
-464,4,Grizzlies,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627395.png,Washburn, Julian
-465,12,Grizzlies,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629139.png,Watanabe, Yuta
-466,45,Nuggets,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629118.png,Welsh, Thomas
-467,0,Thunder,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201566.png,Westbrook, Russell
-468,4,Spurs,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628401.png,White, Derrick
-469,12,Pistons,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627785.png,Whitehead, Isaiah
-470,21,Heat,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202355.png,Whiteside, Hassan
-471,22,Timberwolves,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203952.png,Wiggins, Andrew
-472,44,Celtics,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629057.png,Williams III, Robert
-473,15,Nets,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626210.png,Williams, Alan
-474,12,Timberwolves,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203710.png,Williams, C.J.
-475,19,Lakers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629140.png,Williams, Johnathan
-476,34,Pelicans,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629026.png,Williams, Kenrich
-477,23,Clippers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/101150.png,Williams, Lou
-478,2,Hornets,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/101107.png,Williams, Marvin
-479,19,Kings,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627786.png,Williams, Troy
-480,5,Bucks,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628391.png,Wilson, D.J.
-481,20,Heat,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626159.png,Winslow, Justise
-482,35,Bucks,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626174.png,Wood, Christian
-483,2,Grizzlies,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626153.png,Wright, Delon
-484,30,Celtics,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627824.png,Yabusele, Guerschon
-485,21,Pacers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201152.png,Young, Thaddeus
-486,11,Hawks,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629027.png,Young, Trae
-487,40,Hornets,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203469.png,Zeller, Cody
-488,41,Cavaliers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627790.png,Zizic, Ante
-489,40,Clippers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627826.png,Zubac, Ivica
+,number_in_team,team,headshot_src,lastName,firstName,id
+0,10,Hawks,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629121.png,Adams,Jaylen,0
+1,12,Thunder,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203500.png,Adams,Steven,1
+2,13,Heat,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628389.png,Adebayo,Bam,2
+3,32,Cavaliers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629061.png,Adel,Deng,3
+4,12,Spurs,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/200746.png,Aldridge,LaMarcus,4
+5,20,Bulls,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628959.png,Alkins,Rawle,5
+6,24,Jazz,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628960.png,Allen,Grayson,6
+7,31,Nets,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628386.png,Allen,Jarrett,7
+8,0,Knicks,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628443.png,Allen,Kadeem,8
+9,8,Trail Blazers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202329.png,Aminu,Al-Farouq,9
+10,1,Hawks,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626147.png,Anderson,Justin,10
+11,1,Grizzlies,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203937.png,Anderson,Kyle,11
+12,31,Heat,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201583.png,Anderson,Ryan,12
+13,34,Bucks,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203507.png,Antetokounmpo,Giannis,13
+14,37,Mavericks,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628961.png,Antetokounmpo,Kostas,14
+15,3,Raptors,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628384.png,Anunoby,OG,15
+16,51,Bulls,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627853.png,Arcidiacono,Ryan,16
+17,1,Wizards,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/2772.png,Ariza,Trevor,17
+18,14,Magic,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201571.png,Augustin,D.J.,18
+19,22,Suns,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629028.png,Ayton,Deandre,19
+20,7,Hornets,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628407.png,Bacon,Dwayne,20
+21,35,Kings,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628963.png,Bagley III,Marvin,21
+22,2,Lakers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628366.png,Ball,Lonzo,22
+23,5,Magic,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628964.png,Bamba,Mo,23
+24,5,Mavericks,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/200826.png,Barea,J.J.,24
+25,40,Kings,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203084.png,Barnes,Harrison,25
+26,5,Nuggets,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203115.png,Barton,Will,26
+27,31,Timberwolves,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628966.png,Bates-Diop,Keita,27
+28,5,Hornets,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201587.png,Batum,Nicolas,28
+29,8,Timberwolves,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201573.png,Bayless,Jerryd,29
+30,46,Celtics,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203382.png,Baynes,Aron,30
+31,24,Hawks,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203145.png,Bazemore,Kent,31
+32,3,Wizards,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203078.png,Beal,Bradley,32
+33,25,Nuggets,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627736.png,Beasley,Malik,33
+34,18,Spurs,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201158.png,Belinelli,Marco,34
+35,2,Warriors,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628395.png,Bell,Jordan,35
+36,95,Hawks,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627761.png,Bembry,DeAndre',36
+37,35,Suns,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627733.png,Bender,Dragan,37
+38,42,Spurs,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202722.png,Bertans,Davis,38
+39,21,Clippers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201976.png,Beverley,Patrick,39
+40,24,Magic,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203920.png,Birch,Khem,40
+41,8,Hornets,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202687.png,Biyombo,Bismack,41
+42,88,Kings,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202357.png,Bjelica,Nemanja,42
+43,9,Bulls,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628469.png,Blakeney,Antonio,43
+44,6,Bucks,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202339.png,Bledsoe,Eric,44
+45,4,Cavaliers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628417.png,Blossomgame,Jaron,45
+46,5,Pelicans,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629129.png,Bluiett,Trevon,46
+47,8,Kings,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203992.png,Bogdanovic,Bogdan,47
+48,44,Pacers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202711.png,Bogdanovic,Bojan,48
+49,43,76ers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628413.png,Bolden,Jonah,49
+50,17,Lakers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629067.png,Bonga,Isaac,50
+51,1,Suns,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626164.png,Booker,Devin,51
+52,25,Raptors,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628449.png,Boucher,Chris,52
+53,0,Grizzlies,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202340.png,Bradley,Avery,53
+54,13,Jazz,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628396.png,Bradley,Tony,54
+55,33,Kings,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201147.png,Brewer,Corey,55
+56,25,Suns,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628969.png,Bridges,Mikal,56
+57,0,Hornets,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628970.png,Bridges,Miles,57
+58,13,Magic,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628515.png,Briscoe,Isaiah,58
+59,45,Mavericks,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629151.png,Broekhoff,Ryan,59
+60,13,Bucks,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627763.png,Brogdon,Malcolm,60
+61,24,Grizzlies,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628415.png,Brooks,Dillon,61
+62,6,Wizards,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628972.png,Brown Jr.,Troy,62
+63,6,Pistons,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628971.png,Brown,Bruce,63
+64,7,Celtics,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627759.png,Brown,Jaylen,64
+65,23,Bucks,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628425.png,Brown,Sterling,65
+66,13,Mavericks,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628973.png,Brunson,Jalen,66
+67,13,Wizards,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628418.png,Bryant,Thomas,67
+68,35,Lakers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203493.png,Bullock,Reggie,68
+69,23,Mavericks,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203504.png,Burke,Trey,69
+70,13,Kings,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202692.png,Burks,Alec,70
+71,30,Thunder,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629126.png,Burton,Deonte,71
+72,23,76ers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202710.png,Butler,Jimmy,72
+73,5,Grizzlies,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203998.png,Caboclo,Bruno,73
+74,81,Pistons,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/101181.png,Calderon,Jose,74
+75,1,Lakers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203484.png,Caldwell-Pope,Kentavious,75
+76,7,Bucks,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203477.png,Canaan,Isaiah,76
+77,15,Rockets,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203991.png,Capela,Clint,77
+78,9,Nets,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201960.png,Carroll,DeMarre,78
+79,34,Bulls,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628976.png,Carter Jr.,Wendell,79
+80,3,Grizzlies,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628975.png,Carter,Jevon,80
+81,15,Hawks,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1713.png,Carter,Vince,81
+82,4,Lakers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627936.png,Caruso,Alex,82
+83,00,Kings,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626161.png,Cauley-Stein,Willie,83
+84,3,Magic,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628505.png,Caupain,Troy,84
+85,34,Jazz,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628463.png,Cavanaugh,Tyler,85
+86,5,Lakers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/2199.png,Chandler,Tyson,86
+87,22,Clippers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201163.png,Chandler,Wilson,87
+88,31,Hornets,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629147.png,Chealey,Joe,88
+89,2,Rockets,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629185.png,Chiozza,Chris,89
+90,3,Cavaliers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627737.png,Chriss,Marquese,90
+91,6,Rockets,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629109.png,Clark,Gary,91
+92,2,Pelicans,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203546.png,Clark,Ian,92
+93,8,Cavaliers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203903.png,Clarkson,Jordan,93
+94,20,Hawks,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628381.png,Collins,John,94
+95,33,Trail Blazers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628380.png,Collins,Zach,95
+96,2,Pacers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201954.png,Collison,Darren,96
+97,50,Bucks,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629045.png,Colson,Bonzie,97
+98,11,Grizzlies,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201144.png,Conley,Mike,98
+99,24,Bucks,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626192.png,Connaughton,Pat,99
+100,4,Warriors,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626188.png,Cook,Quinn,100
+101,0,Warriors,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202326.png,Cousins,DeMarcus,101
+102,33,Timberwolves,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203496.png,Covington,Robert,102
+103,33,Nets,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203459.png,Crabbe,Allen,103
+104,3,Nuggets,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628470.png,Craig,Torrey,104
+105,11,Suns,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/2037.png,Crawford,Jamal,105
+106,99,Jazz,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203109.png,Crowder,Jae,106
+107,33,Spurs,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201967.png,Cunningham,Dante,107
+108,31,Trail Blazers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203552.png,Curry,Seth,108
+109,30,Warriors,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201939.png,Curry,Stephen,109
+110,30,Suns,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203584.png,Daniels,Troy,110
+111,23,Pelicans,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203076.png,Davis,Anthony,111
+112,17,Nets,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202334.png,Davis,Ed,112
+113,14,Hawks,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203473.png,Dedmon,Dewayne,113
+114,8,Wizards,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626155.png,Dekker,Sam,114
+115,31,Clippers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629116.png,Delgado,Angel,115
+116,18,Cavaliers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203521.png,Dellavedova,Matthew,116
+117,9,Timberwolves,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/2736.png,Deng,Luol,117
+118,10,Spurs,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201942.png,DeRozan,DeMar,118
+119,32,Warriors,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629094.png,Derrickson,Marcus,119
+120,13,Pelicans,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627767.png,Diallo,Cheick,120
+121,6,Thunder,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628977.png,Diallo,Hamidou,121
+122,5,Timberwolves,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203476.png,Dieng,Gorgui,122
+123,8,Nets,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203915.png,Dinwiddie,Spencer,123
+124,9,Bucks,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628978.png,DiVincenzo,Donte,124
+125,77,Mavericks,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629029.png,Doncic,Luka,125
+126,22,Grizzlies,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628416.png,Dorsey,Tyler,126
+127,21,Knicks,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628422.png,Dotson,Damyean,127
+128,50,Celtics,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628408.png,Dozier,PJ,128
+129,7,Heat,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201609.png,Dragic,Goran,129
+130,0,Pistons,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203083.png,Drummond,Andre,130
+131,6,Nets,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201162.png,Dudley,Jared,131
+132,32,Bulls,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627739.png,Dunn,Kris,132
+133,35,Warriors,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201142.png,Durant,Kevin,133
+134,0,Bucks,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628979.png,Duval,Trevon,134
+135,12,Rockets,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629053.png,Edwards,Vincent,135
+136,13,Knicks,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627740.png,Ellenson,Henry,136
+137,20,Pistons,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201961.png,Ellington,Wayne,137
+138,21,76ers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203954.png,Embiid,Joel,138
+139,11,76ers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203516.png,Ennis III,James,139
+140,14,Spurs,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629234.png,Eubanks,Drew,140
+141,10,Warriors,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628980.png,Evans,Jacob,141
+142,0,Suns,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628393.png,Evans,Jawun,142
+143,12,Pacers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201936.png,Evans,Tyreke,143
+144,11,Jazz,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203957.png,Exum,Dante,144
+145,35,Rockets,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202702.png,Faried,Kenneth,145
+146,15,Jazz,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202324.png,Favors,Derrick,146
+147,6,Bulls,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626245.png,Felicio,Cristiano,147
+148,2,Thunder,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/101109.png,Felton,Raymond,148
+149,23,Thunder,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628390.png,Ferguson,Terrance,149
+150,3,Kings,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627812.png,Ferrell,Yogi,150
+151,10,Mavericks,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627827.png,Finney-Smith,Dorian,151
+152,11,Spurs,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627854.png,Forbes,Bryn,152
+153,10,Magic,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203095.png,Fournier,Evan,153
+154,5,Kings,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628368.png,Fox,De'Aaron,154
+155,35,Magic,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628982.png,Frazier Jr.,Melvin,155
+156,10,Pelicans,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/204025.png,Frazier,Tim,156
+157,9,Cavaliers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/101112.png,Frye,Channing,157
+158,20,Magic,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628365.png,Fultz,Markelle,158
+159,32,Kings,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629117.png,Gabriel,Wenyen,159
+160,8,Clippers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201568.png,Gallinari,Danilo,160
+161,9,Pistons,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/204038.png,Galloway,Langston,161
+162,33,Raptors,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201188.png,Gasol,Marc,162
+163,16,Spurs,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/2200.png,Gasol,Pau,163
+164,22,Spurs,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/200752.png,Gay,Rudy,164
+165,13,Thunder,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202331.png,George,Paul,165
+166,67,Timberwolves,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201959.png,Gibson,Taj,166
+167,20,Kings,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628385.png,Giles III,Harry,167
+168,2,Clippers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628983.png,Gilgeous-Alexander,Shai,168
+169,27,Jazz,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203497.png,Gobert,Rudy,169
+170,6,Nuggets,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629164.png,Goodwin,Brandon,170
+171,00,Magic,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203932.png,Gordon,Aaron,171
+172,10,Rockets,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201569.png,Gordon,Eric,172
+173,4,Hornets,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628984.png,Graham,Devonte',173
+174,21,Nets,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626203.png,Graham,Treveon,174
+175,15,Thunder,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629055.png,Grantham,Donte,175
+176,9,Thunder,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203924.png,Grant,Jerami,176
+177,22,Magic,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626170.png,Grant,Jerian,177
+178,14,Raptors,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201980.png,Green,Danny,178
+179,23,Warriors,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203110.png,Green,Draymond,179
+180,14,Rockets,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/101123.png,Green,Gerald,180
+181,4,Clippers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203210.png,Green,JaMychal,181
+182,32,Wizards,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201145.png,Green,Jeff,182
+183,23,Pistons,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201933.png,Griffin,Blake,183
+184,11,Mavericks,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203501.png,Hardaway Jr.,Tim,184
+185,13,Rockets,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201935.png,Harden,James,185
+186,4,Trail Blazers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203090.png,Harkless,Maurice,186
+187,5,Clippers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626149.png,Harrell,Montrezl,187
+188,34,Mavericks,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/2734.png,Harris,Devin,188
+189,14,Nuggets,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203914.png,Harris,Gary,189
+190,12,Nets,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203925.png,Harris,Joe,190
+191,3,Bulls,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627885.png,Harrison,Shaquille,191
+192,33,76ers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202699.png,Harris,Tobias,192
+193,55,Rockets,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628392.png,Hartenstein,Isaiah,193
+194,3,Lakers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628404.png,Hart,Josh,194
+195,40,Heat,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/2617.png,Haslem,Udonis,195
+196,20,Celtics,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202330.png,Hayward,Gordon,196
+197,31,Cavaliers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203089.png,Henson,John,197
+198,41,Nuggets,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627823.png,Hernangomez,Juancho,198
+199,41,Hornets,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626195.png,Hernangomez,Willy,199
+200,8,Knicks,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626209.png,Hezonja,Mario,200
+201,4,Knicks,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628439.png,Hicks,Isaiah,201
+202,24,Kings,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627741.png,Hield,Buddy,202
+203,7,76ers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629312.png,Highsmith,Haywood,203
+204,3,Bucks,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201588.png,Hill,George,204
+205,44,Pelicans,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203524.png,Hill,Solomon,205
+206,3,Pacers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628988.png,Holiday,Aaron,206
+207,11,Pelicans,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201950.png,Holiday,Jrue,207
+208,7,Grizzlies,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203200.png,Holiday,Justin,208
+209,24,Nets,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626178.png,Hollis-Jefferson,Rondae,209
+210,21,Suns,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626158.png,Holmes,Richaun,210
+211,5,Trail Blazers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203918.png,Hood,Rodney,211
+212,22,Thunder,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203816.png,Hopson,Scotty,212
+213,42,Celtics,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201143.png,Horford,Al,213
+214,4,Rockets,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627863.png,House Jr.,Danuel,214
+215,21,Wizards,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/2730.png,Howard,Dwight,215
+216,3,Hawks,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628989.png,Huerter,Kevin,216
+217,28,Celtics,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626154.png,Hunter,RJ,217
+218,15,Bulls,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628990.png,Hutchison,Chandler,218
+219,9,Raptors,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201586.png,Ibaka,Serge,219
+220,9,Warriors,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/2738.png,Iguodala,Andre,220
+221,77,Bucks,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/101141.png,Ilyasova,Ersan,221
+222,2,Jazz,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/204060.png,Ingles,Joe,222
+223,14,Lakers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627742.png,Ingram,Brandon,223
+224,11,Celtics,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202681.png,Irving,Kyrie,224
+225,1,Magic,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628371.png,Isaac,Jonathan,225
+226,25,Magic,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628411.png,Iwundu,Wes,226
+227,13,Grizzlies,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628991.png,Jackson Jr.,Jaren,227
+228,15,Pelicans,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628402.png,Jackson,Frank,228
+229,20,Suns,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628367.png,Jackson,Josh,229
+230,44,Mavericks,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628382.png,Jackson,Justin,230
+231,1,Pistons,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202704.png,Jackson,Reggie,231
+232,23,Lakers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/2544.png,James,LeBron,232
+233,11,Magic,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628518.png,Jefferson,Amile,233
+234,30,Knicks,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203098.png,Jenkins,John,234
+235,21,Warriors,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201973.png,Jerebko,Jonas,235
+236,24,Pacers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628993.png,Johnson,Alize,236
+237,5,76ers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/101161.png,Johnson,Amir,237
+238,16,Heat,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201949.png,Johnson,James,238
+239,3,Pelicans,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626169.png,Johnson,Stanley,239
+240,16,Suns,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/204020.png,Johnson,Tyler,240
+241,4,Wizards,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202325.png,Johnson,Wesley,241
+242,15,Nuggets,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203999.png,Jokic,Nikola,242
+243,5,Heat,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627884.png,Jones Jr.,Derrick,243
+244,15,Warriors,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627745.png,Jones,Damian,244
+245,9,Rockets,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203093.png,Jones,Terrence,245
+246,1,Timberwolves,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626145.png,Jones,Tyus,246
+247,6,Knicks,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201599.png,Jordan,DeAndre,247
+248,6,Pacers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202709.png,Joseph,Cory,248
+249,44,Hornets,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626163.png,Kaminsky,Frank,249
+250,00,Trail Blazers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202683.png,Kanter,Enes,250
+251,5,Pistons,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628379.png,Kennard,Luke,251
+252,14,Hornets,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203077.png,Kidd-Gilchrist,Michael,252
+253,8,Suns,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628994.png,King,George,253
+254,42,Mavericks,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628467.png,Kleber,Maxi,254
+255,20,Cavaliers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202688.png,Knight,Brandon,255
+256,20,Knicks,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628995.png,Knox,Kevin,256
+257,30,76ers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627788.png,Korkmaz,Furkan,257
+258,2,Knicks,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628436.png,Kornet,Luke,258
+259,26,Jazz,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/2594.png,Korver,Kyle,259
+260,41,Kings,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201585.png,Koufos,Kosta,260
+261,00,Nets,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629066.png,Kurucs,Rodions,261
+262,0,Lakers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628398.png,Kuzma,Kyle,262
+263,17,Trail Blazers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627746.png,Labissiere,Skal,263
+264,3,Hornets,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203087.png,Lamb,Jeremy,264
+265,8,Bulls,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203897.png,LaVine,Zach,265
+266,10,Trail Blazers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627774.png,Layman,Jake,266
+267,22,Pacers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628388.png,Leaf,TJ,267
+268,1,Mavericks,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201584.png,Lee,Courtney,268
+269,1,Warriors,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627814.png,Lee,Damion,269
+270,25,Hawks,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203458.png,Len,Alex,270
+271,2,Raptors,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202695.png,Leonard,Kawhi,271
+272,11,Trail Blazers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203086.png,Leonard,Meyers,272
+273,30,Pistons,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202720.png,Leuer,Jon,273
+274,22,Nets,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627747.png,LeVert,Caris,274
+275,0,Trail Blazers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203081.png,Lillard,Damian,275
+276,17,Raptors,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202391.png,Lin,Jeremy,276
+277,34,Warriors,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/2733.png,Livingston,Shaun,277
+278,5,Warriors,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626172.png,Looney,Kevon,278
+279,11,Bucks,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201572.png,Lopez,Brook,279
+280,42,Bulls,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201577.png,Lopez,Robin,280
+281,0,Cavaliers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201567.png,Love,Kevin,281
+282,7,Raptors,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/200768.png,Lowry,Kyle,282
+283,8,Raptors,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628070.png,Loyd,Jordan,283
+284,24,Pistons,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203564.png,Lucas,Kalin,284
+285,7,Bulls,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627789.png,Luwawu-Cabarrot,Timothe,285
+286,20,Nuggets,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628399.png,Lydon,Tyler,286
+287,7,Nuggets,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626168.png,Lyles,Trey,287
+288,6,Hornets,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202714.png,Mack,Shelvin,288
+289,3,Mavericks,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629133.png,Macon,Daryl,289
+290,55,Hornets,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629122.png,Macura,J.P.,290
+291,28,Wizards,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/101133.png,Mahinmi,Ian,291
+292,7,Pistons,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627748.png,Maker,Thon,292
+293,51,76ers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626246.png,Marjanovic,Boban,293
+294,24,Bulls,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628374.png,Markkanen,Lauri,294
+295,2,Magic,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626185.png,Martin,Jarell,295
+296,10,Kings,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628412.png,Mason,Frank,296
+297,00,Heat,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628999.png,Maten,Yante,297
+298,23,Pacers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202083.png,Matthews,Wesley,298
+299,12,Clippers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201601.png,Mbah a Moute,Luc,299
+300,0,Nets,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628769.png,McCall,Tahjere,300
+301,1,Raptors,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627775.png,McCaw,Patrick,301
+302,3,Trail Blazers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203468.png,McCollum,CJ,302
+303,12,76ers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/204456.png,McConnell,T.J.,303
+304,20,Pacers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203926.png,McDermott,Doug,304
+305,7,Lakers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201580.png,McGee,JaVale,305
+306,17,Heat,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203585.png,McGruder,Rodney,306
+307,28,Warriors,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628035.png,McKinnie,Alfonzo,307
+308,52,Wizards,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203895.png,McRae,Jordan,308
+309,20,Raptors,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201975.png,Meeks,Jodie,309
+310,50,Mavericks,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626257.png,Mejri,Salah,310
+311,14,Suns,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629001.png,Melton,De'Anthony,311
+312,7,Spurs,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629002.png,Metu,Chimezie,312
+313,22,Bucks,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203114.png,Middleton,Khris,313
+314,6,Grizzlies,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/101139.png,Miles,CJ,314
+315,21,Pelicans,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203121.png,Miller,Darius,315
+316,13,Raptors,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626259.png,Miller,Malcolm,316
+317,4,Nuggets,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/200794.png,Millsap,Paul,317
+318,8,Spurs,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201988.png,Mills,Patty,318
+319,18,76ers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629003.png,Milton,Shake,319
+320,41,Bucks,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202703.png,Mirotic,Nikola,320
+321,45,Jazz,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628378.png,Mitchell,Donovan,321
+322,30,Jazz,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628513.png,Mitrou-Long,Naz,322
+323,1,Hornets,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628370.png,Monk,Malik,323
+324,26,Spurs,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628500.png,Moore,Ben,324
+325,55,Pelicans,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202734.png,Moore,E'Twaun,325
+326,30,Bucks,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628537.png,Morris,Jaylen,326
+327,13,Celtics,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202694.png,Morris,Marcus,327
+328,5,Thunder,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202693.png,Morris,Markieff,328
+329,11,Nuggets,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628420.png,Morris,Monte,329
+330,15,Clippers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628405.png,Motley,Johnathan,330
+331,21,Magic,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202389.png,Mozgov,Timofey,331
+332,1,Knicks,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626144.png,Mudiay,Emmanuel,332
+333,5,Spurs,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627749.png,Murray,Dejounte,333
+334,27,Nuggets,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627750.png,Murray,Jamal,334
+335,30,Nets,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629058.png,Musa,Dzanan,335
+336,31,Lakers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203488.png,Muscala,Mike,336
+337,19,Pistons,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629004.png,Mykhailiuk,Svi,337
+338,11,Thunder,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627846.png,Nader,Abdel,338
+339,22,Cavaliers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626204.png,Nance Jr.,Larry,339
+340,13,Nets,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203894.png,Napier,Shabazz,340
+341,42,Rockets,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/2403.png,Nene,,341
+342,25,Jazz,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203526.png,Neto,Raul,342
+343,31,Jazz,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627777.png,Niang,Georges,343
+344,55,Grizzlies,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201149.png,Noah,Joakim,344
+345,3,Thunder,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203457.png,Noel,Nerlens,345
+346,41,Mavericks,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1717.png,Nowitzki,Dirk,346
+347,11,Knicks,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628373.png,Ntilikina,Frank,347
+348,27,Trail Blazers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203994.png,Nurkic,Jusuf,348
+349,12,Cavaliers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628021.png,Nwaba,David,349
+350,23,Jazz,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626220.png,O'Neale,Royce,350
+351,10,Pacers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203124.png,O'Quinn,Kyle,351
+352,37,Celtics,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628400.png,Ojeleye,Semi,352
+353,8,Pelicans,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626143.png,Okafor,Jahlil,353
+354,2,Suns,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629059.png,Okobo,Elie,354
+355,20,Timberwolves,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629006.png,Okogie,Josh,355
+356,4,Pacers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203506.png,Oladipo,Victor,356
+357,9,Heat,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203482.png,Olynyk,Kelly,357
+358,16,Cavaliers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626224.png,Osman,Cedi,358
+359,3,Suns,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626162.png,Oubre Jr.,Kelly,359
+360,27,Pistons,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/2585.png,Pachulia,Zaza,360
+361,12,Wizards,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203953.png,Parker,Jabari,361
+362,9,Hornets,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/2225.png,Parker,Tony,362
+363,25,Grizzlies,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202718.png,Parsons,Chandler,363
+364,54,Thunder,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202335.png,Patterson,Patrick,364
+365,0,76ers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628383.png,Patton,Justin,365
+366,3,Rockets,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/101108.png,Paul,Chris,366
+367,4,Pelicans,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203901.png,Payton,Elfrid,367
+368,10,Nets,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629033.png,Pinson,Theo,368
+369,24,Nuggets,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203486.png,Plumlee,Mason,369
+370,18,Hawks,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203101.png,Plumlee,Miles,370
+371,25,Spurs,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627751.png,Poeltl,Jakob,371
+372,3,Spurs,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202347.png,Pondexter,Quincy,372
+373,1,Nuggets,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629008.png,Porter Jr.,Michael,373
+374,22,Bulls,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203490.png,Porter Jr.,Otto,374
+375,5,Wizards,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626171.png,Portis,Bobby,375
+376,6,Mavericks,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/204001.png,Porzingis,Kristaps,376
+377,7,Mavericks,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203939.png,Powell,Dwight,377
+378,24,Raptors,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626181.png,Powell,Norman,378
+379,22,Hawks,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627816.png,Poythress,Alex,379
+380,12,Hawks,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627752.png,Prince,Taurean,380
+381,10,Grizzlies,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628397.png,Rabb,Ivan,381
+382,9,Wizards,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626184.png,Randle,Chasson,382
+383,30,Pelicans,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203944.png,Randle,Julius,383
+384,17,76ers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/200755.png,Redick,JJ,384
+385,32,Pacers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628432.png,Reed,Davon,385
+386,0,Heat,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626196.png,Richardson,Josh,386
+387,25,Rockets,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203085.png,Rivers,Austin,387
+388,21,Thunder,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203460.png,Roberson,Andre,388
+389,22,Pistons,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203922.png,Robinson III,Glenn,389
+390,7,Wizards,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628421.png,Robinson,Devin,390
+391,55,Heat,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629130.png,Robinson,Duncan,391
+392,10,Clippers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629010.png,Robinson,Jerome,392
+393,26,Knicks,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629011.png,Robinson,Mitchell,393
+394,9,Lakers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/200765.png,Rondo,Rajon,394
+395,25,Timberwolves,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201565.png,Rose,Derrick,395
+396,31,Magic,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203082.png,Ross,Terrence,396
+397,12,Celtics,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626179.png,Rozier,Terry,397
+398,3,Jazz,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201937.png,Rubio,Ricky,398
+399,1,Nets,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626156.png,Russell,D'Angelo,399
+400,11,Pacers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627734.png,Sabonis,Domantas,400
+401,44,Bulls,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629102.png,Sampson,Brandon,401
+402,36,Timberwolves,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203967.png,Saric,Dario,402
+403,31,Wizards,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203107.png,Satoransky,Tomas,403
+404,17,Thunder,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203471.png,Schroder,Dennis,404
+405,1,76ers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203118.png,Scott,Mike,405
+406,22,Jazz,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/200757.png,Sefolosha,Thabo,406
+407,14,Bulls,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627782.png,Selden,Wayne,407
+408,2,Cavaliers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629012.png,Sexton,Collin,408
+409,20,Clippers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629013.png,Shamet,Landry,409
+410,1,Rockets,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202697.png,Shumpert,Iman,410
+411,43,Raptors,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627783.png,Siakam,Pascal,411
+412,8,Hawks,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626296.png,Sibert,Jordan,412
+413,25,76ers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627732.png,Simmons,Ben,413
+414,14,76ers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203613.png,Simmons,Jonathon,414
+415,24,Trail Blazers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629014.png,Simons,Anfernee,415
+416,36,Celtics,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203935.png,Smart,Marcus,416
+417,5,Knicks,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628372.png,Smith Jr.,Dennis,417
+418,14,Pistons,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202397.png,Smith,Ish,418
+419,20,Pelicans,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201160.png,Smith,Jason,419
+420,5,Cavaliers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/2747.png,Smith,JR,420
+421,8,76ers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629015.png,Smith,Zhaire,421
+422,21,Bucks,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203503.png,Snell,Tony,422
+423,8,Thunder,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/204076.png,Solomon,Richard,423
+424,26,Suns,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629034.png,Spalding,Ray,424
+425,6,Hawks,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629016.png,Spellman,Omari,425
+426,1,Cavaliers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203917.png,Stauskas,Nik,426
+427,6,Lakers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202362.png,Stephenson,Lance,427
+428,5,Pacers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628410.png,Sumner,Edmond,428
+429,50,Kings,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628403.png,Swanigan,Caleb,429
+430,0,Celtics,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628369.png,Tatum,Jayson,430
+431,0,Timberwolves,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201952.png,Teague,Jeff,431
+432,17,Clippers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202066.png,Temple,Garrett,432
+433,3,Timberwolves,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629123.png,Terrell,Jared,433
+434,12,Heat,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629150.png,Terry,Emanuel,434
+435,27,Celtics,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628464.png,Theis,Daniel,435
+436,0,Nuggets,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202738.png,Thomas,Isaiah,436
+437,13,Pistons,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629017.png,Thomas,Khyri,437
+438,42,Knicks,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202498.png,Thomas,Lance,438
+439,11,Warriors,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202691.png,Thompson,Klay,439
+440,13,Cavaliers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202684.png,Thompson,Tristan,440
+441,0,Clippers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628414.png,Thornwell,Sindarius,441
+442,43,Timberwolves,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201229.png,Tolliver,Anthony,442
+443,32,Timberwolves,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626157.png,Towns,Karl-Anthony,443
+444,9,Trail Blazers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629018.png,Trent Jr.,Gary,444
+445,14,Knicks,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629019.png,Trier,Allonzo,445
+446,17,Rockets,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/200782.png,Tucker,PJ,446
+447,1,Trail Blazers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202323.png,Turner,Evan,447
+448,33,Pacers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626167.png,Turner,Myles,448
+449,33,Jazz,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202327.png,Udoh,Ekpe,449
+450,17,Grizzlies,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202685.png,Valanciunas,Jonas,450
+451,45,Bulls,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627756.png,Valentine,Denzel,451
+452,8,Nuggets,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629020.png,Vanderbilt,Jarred,452
+453,23,Raptors,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627832.png,VanVleet,Fred,453
+454,32,Knicks,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203943.png,Vonleh,Noah,454
+455,9,Magic,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202696.png,Vucevic,Nikola,455
+456,3,Heat,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/2548.png,Wade,Dwyane,456
+457,15,Lakers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629021.png,Wagner,Moritz,457
+458,11,Heat,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203079.png,Waiters,Dion,458
+459,1,Spurs,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629022.png,Walker IV,Lonnie,459
+460,15,Hornets,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202689.png,Walker,Kemba,460
+461,9,Clippers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627820.png,Wallace,Tyrone,461
+462,2,Wizards,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202322.png,Wall,John,462
+463,9,Celtics,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202954.png,Wanamaker,Brad,463
+464,12,Suns,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203933.png,Warren,T.J.,464
+465,4,Grizzlies,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627395.png,Washburn,Julian,465
+466,12,Grizzlies,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629139.png,Watanabe,Yuta,466
+467,45,Nuggets,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629118.png,Welsh,Thomas,467
+468,0,Thunder,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201566.png,Westbrook,Russell,468
+469,4,Spurs,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628401.png,White,Derrick,469
+470,12,Pistons,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627785.png,Whitehead,Isaiah,470
+471,21,Heat,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202355.png,Whiteside,Hassan,471
+472,22,Timberwolves,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203952.png,Wiggins,Andrew,472
+473,44,Celtics,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629057.png,Williams III,Robert,473
+474,15,Nets,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626210.png,Williams,Alan,474
+475,12,Timberwolves,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203710.png,Williams,C.J.,475
+476,19,Lakers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629140.png,Williams,Johnathan,476
+477,34,Pelicans,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629026.png,Williams,Kenrich,477
+478,23,Clippers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/101150.png,Williams,Lou,478
+479,2,Hornets,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/101107.png,Williams,Marvin,479
+480,19,Kings,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627786.png,Williams,Troy,480
+481,5,Bucks,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628391.png,Wilson,D.J.,481
+482,20,Heat,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626159.png,Winslow,Justise,482
+483,35,Bucks,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626174.png,Wood,Christian,483
+484,2,Grizzlies,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626153.png,Wright,Delon,484
+485,30,Celtics,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627824.png,Yabusele,Guerschon,485
+486,21,Pacers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201152.png,Young,Thaddeus,486
+487,11,Hawks,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629027.png,Young,Trae,487
+488,40,Hornets,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203469.png,Zeller,Cody,488
+489,41,Cavaliers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627790.png,Zizic,Ante,489
+490,40,Clippers,http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627826.png,Zubac,Ivica,490
