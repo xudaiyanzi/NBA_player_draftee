@@ -215,577 +215,577 @@
 213,1992,2,52,F,Michigan State,Matt,Steigenga
 214,1992,2,53,PG,Richmond,Curtis,Blair
 215,1992,2,54,SF,Morehead State,Brett,Roberts
-216,1993,1,1,PF/C,Michigan,Webber,Chris
-217,1993,1,2,C,BYU,Bradley,Shawn
-218,1993,1,3,PG/SG,Memphis State,Hardaway,Penny
-219,1993,1,4,SF,Kentucky,Mashburn,Jamal
-220,1993,1,5,SG,UNLV,Rider,Isaiah
-221,1993,1,6,SG/SF,Indiana,Cheaney,Calbert
-222,1993,1,7,PG,Duke,Hurley,Bobby
-223,1993,1,8,PF,Hartford,Baker,Vin
-224,1993,1,9,PF,Wake Forest,Rogers,Rodney
-225,1993,1,10,PG,Jackson State,Hunter,Lindsey
-226,1993,1,11,SG,Tennessee,Houston,Allan
-227,1993,1,12,SF,North Carolina,Lynch,George
-228,1993,1,13,SG,Seton Hall,Dehere,Terry
-229,1993,1,14,PF,Oregon State,Haskin,Scott
-230,1993,1,15,SF,Florida State,Edwards,Doug
-231,1993,1,16,SG,Kansas,Walters,Rex
-232,1993,1,17,SG,Indiana,Graham,Greg
-233,1993,1,18,C,Seton Hall,Wright,Luther
-234,1993,1,19,C,Iowa,Earl,Acie
-235,1993,1,20,SF,Connecticut,Burrell,Scott
-236,1993,1,21,SG,Alabama,Robinson,James
-237,1993,1,22,SF,Arizona,Mills,Chris
-238,1993,1,23,C,New Orleans,Johnson,Ervin
-239,1993,1,24,PG,Florida State,Cassell,Sam
-240,1993,1,25,PF,Cincinnati,Blount,Corie
-241,1993,1,26,C,LSU,Hammink,Geert
-242,1993,1,27,PF,Georgia Tech,Mackey,Malcolm
-243,1993,2,28,PG,Long Beach State,Harris,Lucious
-244,1993,2,29,F/C,VCU,Mills,Sherron
-245,1993,2,30,C,Pau-Orthez,Mureșan,Gheorghe
-246,1993,2,31,F,Maryland,Burns,Evers
-247,1993,2,32,SG,Mississippi Valley State,Ford,Alphonso
-248,1993,2,33,C,Michigan,Riley,Eric
-249,1993,2,34,SG,Western Kentucky,Mee,Darnell
-250,1993,2,35,C,Arizona,Stokes,Ed
-251,1993,2,36,F/C,Tennessee Tech,Best,John
-252,1993,2,37,PG,Cincinnati,Van,"Exel, Nick"
-253,1993,2,38,PF,Syracuse,McRae,Conrad
-254,1993,2,39,SG/SF,Duke,Hill,Thomas
-255,1993,2,40,C,Washington,Manning,Rich
-256,1993,2,41,F,Tulane,Reed,Anthony
-257,1993,2,42,PG,Kansas,Jordan,Adonis
-258,1993,2,43,PF,Utah,Grant,Josh
-259,1993,2,44,C,Baylor,Holcombe,Alex
-260,1993,2,45,SF,Long Beach State,Russell,Bryon
-261,1993,2,46,C,UCLA,Petruška,Richard
-262,1993,2,47,PG,Clemson,Whitney,Chris
-263,1993,2,48,C,NC State,Thompson,Kevin
-264,1993,2,49,C,Mississippi Valley State,Buford,Mark
-265,1993,2,50,PF,Taugres,Nicola,Marcelo
-266,1993,2,51,C,Delaware,Dunkley,Spencer
-267,1993,2,52,C,Michigan State,Peplowski,Mike
-268,1993,2,53,F,Southern,White,Leonard
-269,1993,2,54,SG/SF,Utah,Wilson,Byron
-270,1994,1,1,SF,Purdue,Robinson,Glenn
-271,1994,1,2,PG,California,Kidd,Jason
-272,1994,1,3,SF,Duke,Hill,Grant
-273,1994,1,4,SF,Connecticut,Marshall,Donyell
-274,1994,1,5,PF,Michigan,Howard,Juwan
-275,1994,1,6,PF/C,Clemson,Wright,Sharone
-276,1994,1,7,SF,California,Murray,Lamond
-277,1994,1,8,PF,Xavier,Grant,Brian
-278,1994,1,9,C,North Carolina,Montross,Eric
-279,1994,1,10,SG,Temple,Jones,Eddie
-280,1994,1,11,SF,Tennessee State,Rogers,Carlos
-281,1994,1,12,PG,Arizona,Reeves,Khalid
-282,1994,1,13,G/F,Michigan,Rose,Jalen
-283,1994,1,14,C,George Washington,Dare,Yinka
-284,1994,1,15,SG,Nebraska,Piatkowski,Eric
-285,1994,1,16,PF,Louisville,Rozier,Clifford
-286,1994,1,17,SG,Temple,McKie,Aaron
-287,1994,1,18,PF,Pittsburgh,Mobley,Eric
-288,1994,1,19,SG,UMKC,Dumas,Tony
-289,1994,1,20,PG,Texas,Tyler,B.J.
-290,1994,1,21,PF,Providence,Simpkins,Dickey
-291,1994,1,22,PF,Boston College,Curley,Bill
-292,1994,1,23,SG,Auburn,Person,Wesley
-293,1994,1,24,SF,Notre Dame,Williams,Monty
-294,1994,1,25,SG,Louisville,Minor,Greg
-295,1994,1,26,PG,Florida State,Ward,Charlie
-296,1994,1,27,PG,Oklahoma State,Thompson,Brooks
-297,1994,2,28,F/C,Illinois,Thomas,Deon
-298,1994,2,29,F/G,Duke,Lang,Antonio
-299,1994,2,30,PG,Boston College,Eisley,Howard
-300,1994,2,31,F/C,Kentucky,Dent,Rodney
-301,1994,2,32,C,Marquette,McIlvaine,Jim
-302,1994,2,33,F,Duquesne,Alston,Derrick
-303,1994,2,34,G,Northwestern Oklahoma State,Nickerson,Gaylon
-304,1994,2,35,F,Providence,Smith,Michael
-305,1994,2,36,F,Forum Valladolid,Fetisov,Andrei
-306,1994,2,37,F,Cincinnati,Wingfield,Dontonio
-307,1994,2,38,G/F,Kansas,Hancock,Darrin
-308,1994,2,39,F,Michigan State,Miller,Anthony
-309,1994,2,40,F,Oklahoma,Webster,Jeff
-310,1994,2,41,PF,St. Mary's (Canada),Njoku,William
-311,1994,2,42,SF,Tulsa,Collier,Gary
-312,1994,2,43,C,St. John's,Scott,Shawnelle
-313,1994,2,44,G,Indiana,Bailey,Damon
-314,1994,2,45,F,Louisville,Morton,Dwayne
-315,1994,2,46,SG,Minnesota,Lenard,Voshon
-316,1994,2,47,F,South Carolina,Watson,Jamie
-317,1994,2,48,F/C,Missouri,Crudup,Jevon
-318,1994,2,49,SF,Benedict,Bruton,Kris
-319,1994,2,50,C,Georgia,Claxton,Charles
-320,1994,2,51,PF,Ohio State,Funderburke,Lawrence
-321,1994,2,52,PG,Houston,Goldwire,Anthony
-322,1994,2,53,PF,Texas,Burditt,Albert
-323,1994,2,54,C,KK Partizan,Rebrača,Željko
-324,1995,1,1,PF,Maryland,Smith,Joe
-325,1995,1,2,PF,Alabama,McDyess,Antonio
-326,1995,1,3,SG,North Carolina,Stackhouse,Jerry
-327,1995,1,4,PF,North Carolina,Wallace,Rasheed
-328,1995,1,5,PF,Farragut Academy HS,Garnett,Kevin
-329,1995,1,6,C,Oklahoma State,Reeves,Bryant
-330,1995,1,7,PG,Arizona,Stoudamire,Damon
-331,1995,1,8,SG,Michigan State,Respert,Shawn
-332,1995,1,9,SF,UCLA,O'Bannon,Ed
-333,1995,1,10,PF/C,TCU,Thomas,Kurt
-334,1995,1,11,PF,Ohio,Trent,Gary
-335,1995,1,12,C,Duke,Parks,Cherokee
-336,1995,1,13,PF,Arkansas,Williamson,Corliss
-337,1995,1,14,SF,Providence,Williams,Eric
-338,1995,1,15,SG,Oregon State,Barry,Brent
-339,1995,1,16,PF,Indiana,Henderson,Alan
-340,1995,1,17,SG,Florida State,Sura,Bob
-341,1995,1,18,PF/C,Wyoming,Ratliff,Theo
-342,1995,1,19,PG,Wake Forest,Childress,Randolph
-343,1995,1,20,PF,Alabama,Caffey,Jason
-344,1995,1,21,SF/SG,Wisconsin,Finley,Michael
-345,1995,1,22,C,UCLA,Zidek,George
-346,1995,1,23,PG,Georgia Tech,Best,Travis
-347,1995,1,24,PF,Iowa State,Meyer,Loren
-348,1995,1,25,PF/C,Memphis,Vaughn,David
-349,1995,1,26,PF,UIC,Ford,Sherell
-350,1995,1,27,PF,Arizona State,Bennett,Mario
-351,1995,1,28,C,Kansas,Ostertag,Greg
-352,1995,1,29,PG,Virginia,Alexander,Cory
-353,1995,2,30,F,UMass,Roe,Lou
-354,1995,2,31,C,Olympiakos,Tarlać,Dragan
-355,1995,2,32,G,Texas,Rencher,Terrence
-356,1995,2,33,F,Virginia,Burrough,Junior
-357,1995,2,34,PF/C,Florida,DeClercq,Andrew
-358,1995,2,35,G,Michigan,King,Jimmy
-359,1995,2,36,G,Syracuse,Moten,Lawrence
-360,1995,2,37,G,Western Carolina,King,Frankie
-361,1995,2,38,C,Wisconsin,Griffith,Rashard
-362,1995,2,39,F,Connecticut,Marshall,Donny
-363,1995,2,40,F,Jackson State,Whitfield,Dwayne
-364,1995,2,41,C,Duke,Meek,Erik
-365,1995,2,42,G,Colorado,Boyce,Donnie
-366,1995,2,43,PG,Michigan State,Snow,Eric
-367,1995,2,44,C,Fresno State,Pelle,Anthony
-368,1995,2,45,F/C,Providence,Brown,Troy
-369,1995,2,46,F,UTEP,Banks,George
-370,1995,2,47,PG,UCLA,Edney,Tyus
-371,1995,2,48,G/F,Texas Tech,Davis,Mark
-372,1995,2,49,G,Pennsylvania,Allen,Jerome
-373,1995,2,50,F,Seward County,Lewis,Martin
-374,1995,2,51,SF,Olimpia (Stefanel) Milano,Bodiroga,Dejan
-375,1995,2,52,SG,Iowa State,Hoiberg,Fred
-376,1995,2,53,C,Miami (Florida),Popa,Constantin
-377,1995,2,54,C,Neptūnas Klaipėda,Zukauskas,Eurelijus
-378,1995,2,55,C,New Orleans,McDonald,Michael
-379,1995,2,56,G,Southern Illinois,Carr,Chris
-380,1995,2,57,G/F,Purdue,Martin,Cuonzo
-381,1995,2,58,F,Georgetown,Reid,Don
-382,1996,1,1,G,Georgetown,Iverson,Allen
-383,1996,1,2,C,Massachusetts,Camby,Marcus
-384,1996,1,3,F,California,Abdur-Rahim,Shareef
-385,1996,1,4,G,Georgia Tech,Marbury,Stephon
-386,1996,1,5,G,Connecticut,Allen,Ray
-387,1996,1,6,F,Kentucky,Walker,Antoine
-388,1996,1,7,C,Memphis,Wright,Lorenzen
-389,1996,1,8,G,Villanova,Kittles,Kerry
-390,1996,1,9,F,Louisville,Walker,Samaki
-391,1996,1,10,C,Mississippi State,Dampier,Erick
-392,1996,1,11,C,NC State,Fuller,Todd
-393,1996,1,12,C,Wright State,Potapenko,Vitaly
-394,1996,1,13,G,Lower Merion HS,Bryant,Kobe
-395,1996,1,14,F,PAOK,Stojaković,Peja
-396,1996,1,15,G,Santa Clara,Nash,Steve
-397,1996,1,16,G,Kentucky,Delk,Tony
-398,1996,1,17,F/C,Eau Claire HS ,O'Neal,Jermaine
-399,1996,1,18,F,Syracuse,Wallace,John
-400,1996,1,19,F,Kentucky,McCarty,Walter
-401,1996,1,20,C,Atletas Kaunas,Ilgauskas,Žydrūnas
-402,1996,1,21,F,Mississippi State,Jones,Dontae
-403,1996,1,22,F,Alabama,Rogers,Roy
-404,1996,1,23,C,PAOK,Rentzias,Efthimios
-405,1996,1,24,G,Arkansas-Little Rock,Fisher,Derek
-406,1996,1,25,F,Tallinna Kalev,Müürsepp,Martin
-407,1996,1,26,F,Georgetown,Williams,Jerome
-408,1996,1,27,F,Indiana,Evans,Brian
-409,1996,1,28,C,Peristeri,Lauderdale,Priest
-410,1996,1,29,C,Connecticut,Knight,Travis
-411,1996,2,30,F/C,Georgetown,Harrington,Othella
-412,1996,2,31,G,Washington State,Hendrickson,Mark
-413,1996,2,32,G,Oklahoma,Minor,Ryan
-414,1996,2,33,G,West Florida,Norris,Moochie
-415,1996,2,34,G,West Virginia State,Harvey,Shawn
-416,1996,2,35,C,Arizona,Blair,Joseph
-417,1996,2,36,G,Connecticut,Sheffer,Doron
-418,1996,2,37,G,North Carolina,McInnis,Jeff
-419,1996,2,38,C,Tennessee,Hamer,Steve
-420,1996,2,39,F,Iowa,Millard,Russ
-421,1996,2,40,F,Mississippi Valley State,Mann,Marcus
-422,1996,2,41,F,Texas Tech,Sasser,Jason
-423,1996,2,42,G,LSU,Livingston,Randy
-424,1996,2,43,F,Arizona,Davis,Ben
-425,1996,2,44,F,Drexel,Rose,Malik
-426,1996,2,45,C,Colorado State,Vogel,Joe
-427,1996,2,46,G,Murray State,Brown,Marcus
-428,1996,2,47,G/F,Arizona State,Riley,Ron
-429,1996,2,48,F,Michigan State,Feick,Jamie
-430,1996,2,49,C,Marquette,McCaskill,Amal
-431,1996,2,50,C,Georgia,Bell,Terrell
-432,1996,2,51,G,Western Kentucky,Robinson,Chris
-433,1996,2,52,F,Kentucky,Pope,Mark
-434,1996,2,53,F,Wisconsin–Green Bay,Nordgaard,Jeff
-435,1996,2,54,F,Georgia,Anderson,Shandon
-436,1996,2,55,G,LSU,Henderson,Ronnie
-437,1996,2,56,G,Arizona,Geary,Reggie
-438,1996,2,57,G,Georgia Tech,Barry,Drew
-439,1996,2,58,F,Arkansas,Robinson,Darnell
-440,1997,1,1,PF/C,Wake Forest,Tim,Duncan
-441,1997,1,2,PF,Utah,Van,"Horn, Keith"
-442,1997,1,3,PG,Colorado,Billups,Chauncey
-443,1997,1,4,PG,Bowling Green,Daniels,Antonio
-444,1997,1,5,C/F,Texas Tech,Battie,Tony
-445,1997,1,6,SF,Kentucky,Mercer,Ron
-446,1997,1,7,SF,Villanova,Thomas,Tim
-447,1997,1,8,C,Colgate,Foyle,Adonal
-448,1997,1,9,SG/SF,Mt. Zion Christian Academy,McGrady,Tracy
-449,1997,1,10,PF,Cincinnati,Fortson,Danny
-450,1997,1,11,SF,San Jose State,Abdul-Wahad,Tariq
-451,1997,1,12,PF,Providence,Croshere,Austin
-452,1997,1,13,SG,Kentucky,Anderson,Derek
-453,1997,1,14,PF,Michigan,Taylor,Maurice
-454,1997,1,15,C,Iowa State,Cato,Kelvin
-455,1997,1,16,PG,Stanford,Knight,Brevin
-456,1997,1,17,PF,Chattanooga,Taylor,Johnny
-457,1997,1,18,PF,SE Melbourne Magic,Anstey,Chris
-458,1997,1,19,C,Kansas,Pollard,Scot
-459,1997,1,20,C,Wisconsin,Grant,Paul
-460,1997,1,21,SG,Bradley,Parker,Anthony
-461,1997,1,22,PG/SG,California,Gray,Ed
-462,1997,1,23,PG,Minnesota,Jackson,Bobby
-463,1997,1,24,SG,USC,Rhodes,Rodrick
-464,1997,1,25,C,Minnesota,Thomas,John
-465,1997,1,26,SG,New Mexico,Smith,Charles
-466,1997,1,27,PG,Kansas,Vaughn,Jacque
-467,1997,1,28,SF,Maryland,Booth,Keith
-468,1997,2,29,C,North Carolina,Zwikker,Serge
-469,1997,2,30,SF/PF,Washington,Sanford,Mark
-470,1997,2,31,PG,UCLA,O'Bannon,Charles
-471,1997,2,32,SF,Long Beach State,Cotton,James
-472,1997,2,33,PG/SG,Smelt Olimpija,Milič,Marko
-473,1997,2,34,SF/PF,Austin Peay,Wells,Bubba
-474,1997,2,35,SF/PF,Cal State Bakersfield,Stewart,Kebu
-475,1997,2,36,PG/SG,Florida State,Collins,James
-476,1997,2,37,SF/PF,Temple,Jackson,Marc
-477,1997,2,38,PF,Tulane,Honeycutt,Jerald
-478,1997,2,39,PG/SG,College of Charleston,Johnson,Anthony
-479,1997,2,40,SF,Georgia Tech,Elisma,Ed
-480,1997,2,41,C,Villanova,Lawson,Jason
-481,1997,2,42,SG,Butler CC,Jackson,Stephen
-482,1997,2,43,SF,West Virginia,Malone,Gordon
-483,1997,2,44,PF,Memphis,Henderson,Cedric
-484,1997,2,45,PG,Providence,Shammgod,God
-485,1997,2,46,SG,Alabama,Washington,Eric
-486,1997,2,47,PG,Villanova,Williams,Alvin
-487,1997,2,48,C,KK Partizan,Drobnjak,Predrag
-488,1997,2,49,SG,ASVEL Lyon-Villeurbanne,Digbeu,Alain
-489,1997,2,50,SF,Marquette,Crawford,Chris
-490,1997,2,51,PG,Louisville,Wheat,DeJuan
-491,1997,2,52,PG/SG,Indian Hills CC,Bruton,C.J.
-492,1997,2,53,C,Gonzaga,Rogers,Paul
-493,1997,2,54,C,Pittsburgh,Blount,Mark
-494,1997,2,55,C,Newcastle Falcons,Pepper,Ben
-495,1997,2,56,SG,Oklahoma,Erdmann,Nate
-496,1997,2,57,C,FC Barcelona,Dueñas,Roberto
-497,1998,1,1,C,Pacific,Olowokandi,Michael
-498,1998,1,2,PG,Arizona,Bibby,Mike
-499,1998,1,3,C/F,Kansas,LaFrentz,Raef
-500,1998,1,4,F,North Carolina,Jamison,Antawn
-501,1998,1,5,G/F,North Carolina,Carter,Vince
-502,1998,1,6,F/C,Michigan,Traylor,Robert
-503,1998,1,7,PG,Florida,Williams,Jason
-504,1998,1,8,SG,Saint Louis,Hughes,Larry
-505,1998,1,9,PF,DJK Würzburg,Nowitzki,Dirk
-506,1998,1,10,G/F,Kansas,Pierce,Paul
-507,1998,1,11,G/F,Ball State,Wells,Bonzi
-508,1998,1,12,C,Utah,Doleac,Michael
-509,1998,1,13,F/C,UNLV,Clark,Keon
-510,1998,1,14,SG,Arizona,Dickerson,Michael
-511,1998,1,15,F/G,Georgia Tech,Harpring,Matt
-512,1998,1,16,PG,Valparaíso,Drew,Bryce
-513,1998,1,17,C,Kinder Bologna,Nesterovič,Radoslav
-514,1998,1,18,PF,Efes Pilsen,Türkcan,Mirsad
-515,1998,1,19,PF,Notre Dame,Garrity,Pat
-516,1998,1,20,SF,Duke,McLeod,Roshown
-517,1998,1,21,G/F,Iowa,Davis,Ricky
-518,1998,1,22,F/C,Baylor,Skinner,Brian
-519,1998,1,23,PG,Nebraska,Lue,Tyronn
-520,1998,1,24,SG,St. John's,López,Felipe
-521,1998,1,25,F,St. Patrick's High School,Harrington,Al
-522,1998,1,26,SG,Minnesota,Jacobson,Sam
-523,1998,1,27,C,Olimpija Ljubljana,Stepania,Vladimir
-524,1998,1,28,SG,Oregon State,Benjamin,Corey
-525,1998,1,29,C/F,Kentucky,Mohammed,Nazr
-526,1998,2,30,SF,Mississippi,Sesay,Ansu
-527,1998,2,31,SF,Cincinnati,Patterson,Ruben
-528,1998,2,32,PF,Alief Elsik HS,Lewis,Rashard
-529,1998,2,33,F/C,UCLA,McCoy,Jelani
-530,1998,2,34,PG,North Carolina,Williams,Shammond
-531,1998,2,35,C,Split,Šundov,Bruno
-532,1998,2,36,C,Florida A&M,James,Jerome
-533,1998,2,37,C,Toledo,Shaw,Casey
-534,1998,2,38,PF,Charlotte,Johnson,DeMarco
-535,1998,2,39,PG,Fresno State,Alston,Rafer
-536,1998,2,40,SF,Hargrave Military Academy,Young,Korleone
-537,1998,2,41,SG,Rhode Island,Mobley,Cuttino
-538,1998,2,42,SG,Arizona,Simon,Miles
-539,1998,2,43,F/C,Georgetown,White,Jahidi
-540,1998,2,44,PF,California,Marks,Sean
-541,1998,2,45,SG,UCLA,Bailey,Toby
-542,1998,2,46,SF,Indiana,Patterson,Andrae
-543,1998,2,47,PG,Rhode Island,Wheeler,Tyson
-544,1998,2,48,C,South Carolina,Stack,Ryan
-545,1998,2,49,SG,Texas Tech,Carr,Cory
-546,1998,2,50,C,Long Beach State,Betts,Andrew
-547,1998,2,51,PG,Oklahoma,Brewer,Corey
-548,1998,2,52,SG,Eastern Michigan,Dial,Derrick
-549,1998,2,53,SG,Clemson,Buckner,Greg
-550,1998,2,54,SF,Fresno State,Fowlkes,Tremaine
-551,1998,2,55,SF,Iowa,Bowen,Ryan
-552,1998,2,56,SF,UCLA,Henderson,J. R.
-553,1998,2,57,PF,Xavier,Braggs,Torraye
-554,1998,2,58,PF,Michigan,Baston,Maceo
-555,1999,1,1,PF/C,Duke,Brand,Elton
-556,1999,1,2,PG,Maryland,Francis,Steve
-557,1999,1,3,PG,UCLA,Davis,Baron
-558,1999,1,4,PF/SF,Rhode Island,Odom,Lamar
-559,1999,1,5,PF,Picayune Memorial HS,Bender,Jonathan
-560,1999,1,6,SG/SF,Miami (OH),Szczerbiak,Wally
-561,1999,1,7,SG/SF,Connecticut,Hamilton,Richard
-562,1999,1,8,PG,Utah,Miller,Andre
-563,1999,1,9,SF/PF,UNLV,Marion,Shawn
-564,1999,1,10,SG/PG,Arizona,Terry,Jason
-565,1999,1,11,SG,Duke,Langdon,Trajan
-566,1999,1,12,C,Barton County CC,Radojević,Aleksandar
-567,1999,1,13,SF/SG,Duke,Maggette,Corey
-568,1999,1,14,PG,Duke,Avery,William
-569,1999,1,15,C,Limoges,Weis,Frédéric
-570,1999,1,16,SF,St. John's,Artest,Ron
-571,1999,1,17,PF,Old Dominion,Bowdler,Cal
-572,1999,1,18,SG/SF,Xavier,Posey,James
-573,1999,1,19,SF,Minnesota,Lewis,Quincy
-574,1999,1,20,SG,Georgia Tech,Glover,Dion
-575,1999,1,21,PF,Southwest Texas State,Foster,Jeff
-576,1999,1,22,PF,New Mexico,Thomas,Kenny
-577,1999,1,23,SF,Augsburg,George,Devean
-578,1999,1,24,SF,CSKA Moscow,Kirilenko,Andrei
-579,1999,1,25,SF,Miami,James,Tim
-580,1999,1,26,PG,Pittsburgh,Cummings,Vonteego
-581,1999,1,27,SF,Georgia,Jones,Jumaine
-582,1999,1,28,PF,Kentucky,Padgett,Scott
-583,1999,1,29,PF,King College Prep HS,Smith,Leon
-584,1999,2,30,PG,Villanova,Celestand,John
-585,1999,2,31,F,Illinois State,Hill,Rico
-586,1999,2,32,PF,Tulsa,Ruffin,Michael
-587,1999,2,33,G,Fresno State,Herren,Chris
-588,1999,2,34,C,Northwestern,Eschmeyer,Evan
-589,1999,2,35,C,Penn State,Booth,Calvin
-590,1999,2,36,C,Bayi Rockets,Wang,"Zhizhi,"
-591,1999,2,37,C,Maryland,Ekezie,Obinna
-592,1999,2,38,SG/SF,Maryland,Profit,Laron
-593,1999,2,39,C,Arizona,Bramlett,A. J.
-594,1999,2,40,G/F,CSKA Moscow,Giriček,Gordan
-595,1999,2,41,C,California,Elson,Francisco
-596,1999,2,42,G,Michigan,Bullock,Louis
-597,1999,2,43,SF,TCU,Nailon,Lee
-598,1999,2,44,C,Mississippi State,Washington,Tyrone
-599,1999,2,45,G,Kansas,Robertson,Ryan
-600,1999,2,46,F,Iowa,Koch,J. R.
-601,1999,2,47,C,Washington,Macculloch,Todd
-602,1999,2,48,G,Charlotte,Young,Galen
-603,1999,2,49,C,UMass,Ketner,Lari
-604,1999,2,50,C,Nebraska,Hamilton,Venson
-605,1999,2,51,F,Saint Paul's,Smith,Antwain
-606,1999,2,52,G,Boise State,Bergersen,Roberto
-607,1999,2,53,SG,Creighton,Buford,Rodney
-608,1999,2,54,SG,Cincinnati,Levett,Melvin
-609,1999,2,55,G,Texas,Clack,Kris
-610,1999,2,56,C,Stanford,Young,Tim
-611,1999,2,57,SG,Viola Reggio Calabria,Ginóbili,Manu
-612,1999,2,58,G,Virginia Tech,Lucas,Eddie
-613,2000,1,1,PF,Cincinnato (Sr.),Martin,Kenyon
-614,2000,1,2,PF/C,LSU,Swift,Stromile
-615,2000,1,3,SF/PF,East St. Louis HS (Illinois),Miles,Darius
-616,2000,1,4,PF/SF,Iowa State,Fizer,Marcus
-617,2000,1,5,SF/SG,Florida,Miller,Mike
-618,2000,1,6,SG/SF,Cincinnati,Johnson,DerMarr
-619,2000,1,7,C/PF,Texas,Mihm,Chris
-620,2000,1,8,SG,Michigan,Crawford,Jamal
-621,2000,1,9,C,Minnesota,Przybilla,Joel
-622,2000,1,10,SG,Missouri,Dooling,Keyon
-623,2000,1,11,PF,UCLA,Moiso,Jerome
-624,2000,1,12,PF/C,Syracuse,Thomas,Etan
-625,2000,1,13,SG,Fresno State,Alexander,Courtney
-626,2000,1,14,PG,Michigan State,Cleaves,Mateen
-627,2000,1,15,C,Georgia Tech,Collier,Jason
-628,2000,1,16,SF/PF,Efes Pilsen,Turkoglu,Hedo
-629,2000,1,17,SF/SG,Oklahoma State,Mason,Desmond
-630,2000,1,18,SF/SG,DePaul,Richardson,Quentin
-631,2000,1,19,PF/C,Kentucky,Magloire,Jamaal
-632,2000,1,20,PG,Hofstra,Claxton,Speedy
-633,2000,1,21,SF/SG,Michigan State,Peterson,Morris
-634,2000,1,22,SF,Florida,Harvey,Donnell
-635,2000,1,23,SG,Washington Union HS,Stevenson,DeShawn
-636,2000,1,24,C,Benston Zagreb,Bagarić,Dalibor
-637,2000,1,25,C,AEK,Tsakalidis,"Iakovos ""Jake"""
-638,2000,1,26,C,Auburn,N'Diaye,Mamadou
-639,2000,1,27,C,Union Olimpija,Brezec,Primož
-640,2000,1,28,PG,St. John's,Barkley,Erick
-641,2000,1,29,PF,Stanford,Madsen,Mark
-642,2000,2,30,G,Paf Bologna,Jarić,Marko
-643,2000,2,31,PF,Vanderbilt,Langhi,Dan
-644,2000,2,32,PG,Indiana,Guyton,A.J.
-645,2000,2,33,C,Connecticut,Voskuhl,Jake
-646,2000,2,34,PG,Connecticut,El-Amin,Khalid
-647,2000,2,35,F,Louisiana-Monroe,Smith,Mike
-648,2000,2,36,C,Cincinnati Stuff,Samake,Soumaila
-649,2000,2,37,SG,Arizona State,House,Eddie
-650,2000,2,38,PF,Oklahoma,Nájera,Eduardo
-651,2000,2,39,SG,St. John's,Postell,Lavor
-652,2000,2,40,SF/PF,Utah,Mottola,Hanno
-653,2000,2,41,SG,Duke,Carrawell,Chris
-654,2000,2,42,PF,Würzburg,Oyedeji,Olumide
-655,2000,2,43,SG,Ohio State,Redd,Michael
-656,2000,2,44,PF,Purdue,Cardinal,Brian
-657,2000,2,45,C,LSU,Smith,Jabari
-658,2000,2,46,G,COS,Hulett,DeeAndre
-659,2000,2,47,G,Cibona Zagreb,Sesar,Josip
-660,2000,2,48,PG,Temple,Karcher,Mark
-661,2000,2,49,PG,Syracuse,Hart,Jason
-662,2000,2,50,F,Idaho,Dickens,Kaniel
-663,2000,2,51,G,Red Star Belgrade,Rakočević,Igor
-664,2000,2,52,C,Indian Hills CC,Brown,Ernest
-665,2000,2,53,C,Northern Arizona,McClintock,Dan
-666,2000,2,54,G,Indian Hills CC,Hightower,Cory
-667,2000,2,55,F,Auburn,Porter,Chris
-668,2000,2,56,G,Colorado,Walls,Jaquay
-669,2000,2,57,G,Ohio State,Penn,Scoonie
-670,2000,2,58,F,Cincinnati,Mickeal,Pete
-671,2001,1,1,C,Glynn Academy,Brown,Kwame
-672,2001,1,2,C,Dominguez HS,Chandler,Tyson
-673,2001,1,3,PF/C,FC Barcelona,Gasol,Pau
-674,2001,1,4,C,Thornwood HS,Curry,Eddy
-675,2001,1,5,SG,Michigan State,Richardson,Jason
-676,2001,1,6,SF,Duke,Battier,Shane
-677,2001,1,7,PF,Seton Hall,Griffin,Eddie
-678,2001,1,8,C,Oak Hill Academy,Diop,DeSagana
-679,2001,1,9,SF/PF,Charlotte,White,Rodney
-680,2001,1,10,SG,Arkansas,Johnson,Joe
-681,2001,1,11,SF,Okaloosa-Walton CC,Brown,Kedrick
-682,2001,1,12,PF,Red Star Belgrade,Radmanović,Vladimir
-683,2001,1,13,SF,Arizona,Jefferson,Richard
-684,2001,1,14,PF,Notre Dame,Murphy,Troy
-685,2001,1,15,C,DePaul,Hunter,Steven
-686,2001,1,16,PF,Indiana,Haston,Kirk
-687,2001,1,17,PF,Villanova,Bradley,Michael
-688,2001,1,18,C,Stanford,Collins,Jason
-689,2001,1,19,PF,Michigan State,Randolph,Zach
-690,2001,1,20,C,North Carolina,Haywood,Brendan
-691,2001,1,21,SG,North Carolina,Forte,Joseph
-692,2001,1,22,SG,SMU,Sasser,Jeryl
-693,2001,1,23,SG,Pepperdine,Armstrong,Brandon
-694,2001,1,24,PG,Real Madrid,López,Raúl
-695,2001,1,25,SF,Alabama,Wallace,Gerald
-696,2001,1,26,C,Seton Hall,Dalembert,Samuel
-697,2001,1,27,PG,Iowa State,Tinsley,Jamaal
-698,2001,1,28,PG,Paris Basket Racing,Parker,Tony
-699,2001,1,29,None,None,Forfeited,pick
-700,2001,2,30,SG,Austin Peay,Hassell,Trenton
-701,2001,2,31,PG,Arizona,Arenas,Gilbert
-702,2001,2,32,PG,St. John's,Cook,Omar
-703,2001,2,33,PG,Clemson,Solomon,Will
-704,2001,2,34,SF,Maryland,Morris,Terence
-705,2001,2,35,PF,USC,Scalabrine,Brian
-706,2001,2,36,SG,USC,Trepagnier,Jeff
-707,2001,2,37,SF,Syracuse,Brown,Damone
-708,2001,2,38,C,Efes Pilsen,Okur,Mehmet
-709,2001,2,39,PF,Arizona,Wright,Michael
-710,2001,2,40,PG,UCLA,Watson,Earl
-711,2001,2,41,PG,Auburn,Brewer,Jamison
-712,2001,2,42,F/G,DePaul,Simmons,Bobby
-713,2001,2,43,C,Kansas,Chenowith,Eric
-714,2001,2,44,PG,Eastern Illinois,Hill,Kyle
-715,2001,2,45,SF,California,Lampley,Sean
-716,2001,2,46,C,Arizona,Woods,Loren
-717,2001,2,47,PF,St. Jude HS,Cisse,Ousmane
-718,2001,2,48,SF,Panathinaikos,Fotsis,Antonis
-719,2001,2,49,C,Ohio State,Johnson,Ken
-720,2001,2,50,C,Georgetown,Boumtje-Boumtje,Ruben
-721,2001,2,51,PF,Houston,Ford,Alton
-722,2001,2,52,PF,Michigan State,Hutson,Andre
-723,2001,2,53,F/C,Stanford,Collins,Jarron
-724,2001,2,54,PG,Cincinnati,Satterfield,Kenny
-725,2001,2,55,SG,Saint Louis,Jeffers,Maurice
-726,2001,2,56,C,Lietuvos rytas Vilnius,Javtokas,Robertas
-727,2001,2,57,C,Georgia Tech,Jones,Alvin
-728,2001,2,58,SF,Oregon,Bracey,Bryan
+216,1993,1,1,PF/C,Michigan,Chris,Webber
+217,1993,1,2,C,BYU,Shawn,Bradley
+218,1993,1,3,PG/SG,Memphis State,Penny,Hardaway
+219,1993,1,4,SF,Kentucky,Jamal,Mashburn
+220,1993,1,5,SG,UNLV,Isaiah,Rider
+221,1993,1,6,SG/SF,Indiana,Calbert,Cheaney
+222,1993,1,7,PG,Duke,Bobby,Hurley
+223,1993,1,8,PF,Hartford,Vin,Baker
+224,1993,1,9,PF,Wake Forest,Rodney,Rogers
+225,1993,1,10,PG,Jackson State,Lindsey,Hunter
+226,1993,1,11,SG,Tennessee,Allan,Houston
+227,1993,1,12,SF,North Carolina,George,Lynch
+228,1993,1,13,SG,Seton Hall,Terry,Dehere
+229,1993,1,14,PF,Oregon State,Scott,Haskin
+230,1993,1,15,SF,Florida State,Doug,Edwards
+231,1993,1,16,SG,Kansas,Rex,Walters
+232,1993,1,17,SG,Indiana,Greg,Graham
+233,1993,1,18,C,Seton Hall,Luther,Wright
+234,1993,1,19,C,Iowa,Acie,Earl
+235,1993,1,20,SF,Connecticut,Scott,Burrell
+236,1993,1,21,SG,Alabama,James,Robinson
+237,1993,1,22,SF,Arizona,Chris,Mills
+238,1993,1,23,C,New Orleans,Ervin,Johnson
+239,1993,1,24,PG,Florida State,Sam,Cassell
+240,1993,1,25,PF,Cincinnati,Corie,Blount
+241,1993,1,26,C,LSU,Geert,Hammink
+242,1993,1,27,PF,Georgia Tech,Malcolm,Mackey
+243,1993,2,28,PG,Long Beach State,Lucious,Harris
+244,1993,2,29,F/C,VCU,Sherron,Mills
+245,1993,2,30,C,Pau-Orthez,Gheorghe,Mureșan
+246,1993,2,31,F,Maryland,Evers,Burns
+247,1993,2,32,SG,Mississippi Valley State,Alphonso,Ford
+248,1993,2,33,C,Michigan,Eric,Riley
+249,1993,2,34,SG,Western Kentucky,Darnell,Mee
+250,1993,2,35,C,Arizona,Ed,Stokes
+251,1993,2,36,F/C,Tennessee Tech,John,Best
+252,1993,2,37,PG,Cincinnati,Exel Nick,Van
+253,1993,2,38,PF,Syracuse,Conrad,McRae
+254,1993,2,39,SG/SF,Duke,Thomas,Hill
+255,1993,2,40,C,Washington,Rich,Manning
+256,1993,2,41,F,Tulane,Anthony,Reed
+257,1993,2,42,PG,Kansas,Adonis,Jordan
+258,1993,2,43,PF,Utah,Josh,Grant
+259,1993,2,44,C,Baylor,Alex,Holcombe
+260,1993,2,45,SF,Long Beach State,Bryon,Russell
+261,1993,2,46,C,UCLA,Richard,Petruška
+262,1993,2,47,PG,Clemson,Chris,Whitney
+263,1993,2,48,C,NC State,Kevin,Thompson
+264,1993,2,49,C,Mississippi Valley State,Mark,Buford
+265,1993,2,50,PF,Taugres,Marcelo,Nicola
+266,1993,2,51,C,Delaware,Spencer,Dunkley
+267,1993,2,52,C,Michigan State,Mike,Peplowski
+268,1993,2,53,F,Southern,Leonard,White
+269,1993,2,54,SG/SF,Utah,Byron,Wilson
+270,1994,1,1,SF,Purdue,Glenn,Robinson
+271,1994,1,2,PG,California,Jason,Kidd
+272,1994,1,3,SF,Duke,Grant,Hill
+273,1994,1,4,SF,Connecticut,Donyell,Marshall
+274,1994,1,5,PF,Michigan,Juwan,Howard
+275,1994,1,6,PF/C,Clemson,Sharone,Wright
+276,1994,1,7,SF,California,Lamond,Murray
+277,1994,1,8,PF,Xavier,Brian,Grant
+278,1994,1,9,C,North Carolina,Eric,Montross
+279,1994,1,10,SG,Temple,Eddie,Jones
+280,1994,1,11,SF,Tennessee State,Carlos,Rogers
+281,1994,1,12,PG,Arizona,Khalid,Reeves
+282,1994,1,13,G/F,Michigan,Jalen,Rose
+283,1994,1,14,C,George Washington,Yinka,Dare
+284,1994,1,15,SG,Nebraska,Eric,Piatkowski
+285,1994,1,16,PF,Louisville,Clifford,Rozier
+286,1994,1,17,SG,Temple,Aaron,McKie
+287,1994,1,18,PF,Pittsburgh,Eric,Mobley
+288,1994,1,19,SG,UMKC,Tony,Dumas
+289,1994,1,20,PG,Texas,B.J.,Tyler
+290,1994,1,21,PF,Providence,Dickey,Simpkins
+291,1994,1,22,PF,Boston College,Bill,Curley
+292,1994,1,23,SG,Auburn,Wesley,Person
+293,1994,1,24,SF,Notre Dame,Monty,Williams
+294,1994,1,25,SG,Louisville,Greg,Minor
+295,1994,1,26,PG,Florida State,Charlie,Ward
+296,1994,1,27,PG,Oklahoma State,Brooks,Thompson
+297,1994,2,28,F/C,Illinois,Deon,Thomas
+298,1994,2,29,F/G,Duke,Antonio,Lang
+299,1994,2,30,PG,Boston College,Howard,Eisley
+300,1994,2,31,F/C,Kentucky,Rodney,Dent
+301,1994,2,32,C,Marquette,Jim,McIlvaine
+302,1994,2,33,F,Duquesne,Derrick,Alston
+303,1994,2,34,G,Northwestern Oklahoma State,Gaylon,Nickerson
+304,1994,2,35,F,Providence,Michael,Smith
+305,1994,2,36,F,Forum Valladolid,Andrei,Fetisov
+306,1994,2,37,F,Cincinnati,Dontonio,Wingfield
+307,1994,2,38,G/F,Kansas,Darrin,Hancock
+308,1994,2,39,F,Michigan State,Anthony,Miller
+309,1994,2,40,F,Oklahoma,Jeff,Webster
+310,1994,2,41,PF,St. Mary's (Canada),William,Njoku
+311,1994,2,42,SF,Tulsa,Gary,Collier
+312,1994,2,43,C,St. John's,Shawnelle,Scott
+313,1994,2,44,G,Indiana,Damon,Bailey
+314,1994,2,45,F,Louisville,Dwayne,Morton
+315,1994,2,46,SG,Minnesota,Voshon,Lenard
+316,1994,2,47,F,South Carolina,Jamie,Watson
+317,1994,2,48,F/C,Missouri,Jevon,Crudup
+318,1994,2,49,SF,Benedict,Kris,Bruton
+319,1994,2,50,C,Georgia,Charles,Claxton
+320,1994,2,51,PF,Ohio State,Lawrence,Funderburke
+321,1994,2,52,PG,Houston,Anthony,Goldwire
+322,1994,2,53,PF,Texas,Albert,Burditt
+323,1994,2,54,C,KK Partizan,Željko,Rebrača
+324,1995,1,1,PF,Maryland,Joe,Smith
+325,1995,1,2,PF,Alabama,Antonio,McDyess
+326,1995,1,3,SG,North Carolina,Jerry,Stackhouse
+327,1995,1,4,PF,North Carolina,Rasheed,Wallace
+328,1995,1,5,PF,Farragut Academy HS,Kevin,Garnett
+329,1995,1,6,C,Oklahoma State,Bryant,Reeves
+330,1995,1,7,PG,Arizona,Damon,Stoudamire
+331,1995,1,8,SG,Michigan State,Shawn,Respert
+332,1995,1,9,SF,UCLA,Ed,O'Bannon
+333,1995,1,10,PF/C,TCU,Kurt,Thomas
+334,1995,1,11,PF,Ohio,Gary,Trent
+335,1995,1,12,C,Duke,Cherokee,Parks
+336,1995,1,13,PF,Arkansas,Corliss,Williamson
+337,1995,1,14,SF,Providence,Eric,Williams
+338,1995,1,15,SG,Oregon State,Brent,Barry
+339,1995,1,16,PF,Indiana,Alan,Henderson
+340,1995,1,17,SG,Florida State,Bob,Sura
+341,1995,1,18,PF/C,Wyoming,Theo,Ratliff
+342,1995,1,19,PG,Wake Forest,Randolph,Childress
+343,1995,1,20,PF,Alabama,Jason,Caffey
+344,1995,1,21,SF/SG,Wisconsin,Michael,Finley
+345,1995,1,22,C,UCLA,George,Zidek
+346,1995,1,23,PG,Georgia Tech,Travis,Best
+347,1995,1,24,PF,Iowa State,Loren,Meyer
+348,1995,1,25,PF/C,Memphis,David,Vaughn
+349,1995,1,26,PF,UIC,Sherell,Ford
+350,1995,1,27,PF,Arizona State,Mario,Bennett
+351,1995,1,28,C,Kansas,Greg,Ostertag
+352,1995,1,29,PG,Virginia,Cory,Alexander
+353,1995,2,30,F,UMass,Lou,Roe
+354,1995,2,31,C,Olympiakos,Dragan,Tarlać
+355,1995,2,32,G,Texas,Terrence,Rencher
+356,1995,2,33,F,Virginia,Junior,Burrough
+357,1995,2,34,PF/C,Florida,Andrew,DeClercq
+358,1995,2,35,G,Michigan,Jimmy,King
+359,1995,2,36,G,Syracuse,Lawrence,Moten
+360,1995,2,37,G,Western Carolina,Frankie,King
+361,1995,2,38,C,Wisconsin,Rashard,Griffith
+362,1995,2,39,F,Connecticut,Donny,Marshall
+363,1995,2,40,F,Jackson State,Dwayne,Whitfield
+364,1995,2,41,C,Duke,Erik,Meek
+365,1995,2,42,G,Colorado,Donnie,Boyce
+366,1995,2,43,PG,Michigan State,Eric,Snow
+367,1995,2,44,C,Fresno State,Anthony,Pelle
+368,1995,2,45,F/C,Providence,Troy,Brown
+369,1995,2,46,F,UTEP,George,Banks
+370,1995,2,47,PG,UCLA,Tyus,Edney
+371,1995,2,48,G/F,Texas Tech,Mark,Davis
+372,1995,2,49,G,Pennsylvania,Jerome,Allen
+373,1995,2,50,F,Seward County,Martin,Lewis
+374,1995,2,51,SF,Olimpia (Stefanel) Milano,Dejan,Bodiroga
+375,1995,2,52,SG,Iowa State,Fred,Hoiberg
+376,1995,2,53,C,Miami (Florida),Constantin,Popa
+377,1995,2,54,C,Neptūnas Klaipėda,Eurelijus,Zukauskas
+378,1995,2,55,C,New Orleans,Michael,McDonald
+379,1995,2,56,G,Southern Illinois,Chris,Carr
+380,1995,2,57,G/F,Purdue,Cuonzo,Martin
+381,1995,2,58,F,Georgetown,Don,Reid
+382,1996,1,1,G,Georgetown,Allen,Iverson
+383,1996,1,2,C,Massachusetts,Marcus,Camby
+384,1996,1,3,F,California,Shareef,Abdur-Rahim
+385,1996,1,4,G,Georgia Tech,Stephon,Marbury
+386,1996,1,5,G,Connecticut,Ray,Allen
+387,1996,1,6,F,Kentucky,Antoine,Walker
+388,1996,1,7,C,Memphis,Lorenzen,Wright
+389,1996,1,8,G,Villanova,Kerry,Kittles
+390,1996,1,9,F,Louisville,Samaki,Walker
+391,1996,1,10,C,Mississippi State,Erick,Dampier
+392,1996,1,11,C,NC State,Todd,Fuller
+393,1996,1,12,C,Wright State,Vitaly,Potapenko
+394,1996,1,13,G,Lower Merion HS,Kobe,Bryant
+395,1996,1,14,F,PAOK,Peja,Stojaković
+396,1996,1,15,G,Santa Clara,Steve,Nash
+397,1996,1,16,G,Kentucky,Tony,Delk
+398,1996,1,17,F/C,Eau Claire HS ,Jermaine,O'Neal
+399,1996,1,18,F,Syracuse,John,Wallace
+400,1996,1,19,F,Kentucky,Walter,McCarty
+401,1996,1,20,C,Atletas Kaunas,Žydrūnas,Ilgauskas
+402,1996,1,21,F,Mississippi State,Dontae,Jones
+403,1996,1,22,F,Alabama,Roy,Rogers
+404,1996,1,23,C,PAOK,Efthimios,Rentzias
+405,1996,1,24,G,Arkansas-Little Rock,Derek,Fisher
+406,1996,1,25,F,Tallinna Kalev,Martin,Müürsepp
+407,1996,1,26,F,Georgetown,Jerome,Williams
+408,1996,1,27,F,Indiana,Brian,Evans
+409,1996,1,28,C,Peristeri,Priest,Lauderdale
+410,1996,1,29,C,Connecticut,Travis,Knight
+411,1996,2,30,F/C,Georgetown,Othella,Harrington
+412,1996,2,31,G,Washington State,Mark,Hendrickson
+413,1996,2,32,G,Oklahoma,Ryan,Minor
+414,1996,2,33,G,West Florida,Moochie,Norris
+415,1996,2,34,G,West Virginia State,Shawn,Harvey
+416,1996,2,35,C,Arizona,Joseph,Blair
+417,1996,2,36,G,Connecticut,Doron,Sheffer
+418,1996,2,37,G,North Carolina,Jeff,McInnis
+419,1996,2,38,C,Tennessee,Steve,Hamer
+420,1996,2,39,F,Iowa,Russ,Millard
+421,1996,2,40,F,Mississippi Valley State,Marcus,Mann
+422,1996,2,41,F,Texas Tech,Jason,Sasser
+423,1996,2,42,G,LSU,Randy,Livingston
+424,1996,2,43,F,Arizona,Ben,Davis
+425,1996,2,44,F,Drexel,Malik,Rose
+426,1996,2,45,C,Colorado State,Joe,Vogel
+427,1996,2,46,G,Murray State,Marcus,Brown
+428,1996,2,47,G/F,Arizona State,Ron,Riley
+429,1996,2,48,F,Michigan State,Jamie,Feick
+430,1996,2,49,C,Marquette,Amal,McCaskill
+431,1996,2,50,C,Georgia,Terrell,Bell
+432,1996,2,51,G,Western Kentucky,Chris,Robinson
+433,1996,2,52,F,Kentucky,Mark,Pope
+434,1996,2,53,F,Wisconsin–Green Bay,Jeff,Nordgaard
+435,1996,2,54,F,Georgia,Shandon,Anderson
+436,1996,2,55,G,LSU,Ronnie,Henderson
+437,1996,2,56,G,Arizona,Reggie,Geary
+438,1996,2,57,G,Georgia Tech,Drew,Barry
+439,1996,2,58,F,Arkansas,Darnell,Robinson
+440,1997,1,1,PF/C,Wake Forest,Duncan,Tim
+441,1997,1,2,PF,Utah,Horn Keith,Van
+442,1997,1,3,PG,Colorado,Chauncey,Billups
+443,1997,1,4,PG,Bowling Green,Antonio,Daniels
+444,1997,1,5,C/F,Texas Tech,Tony,Battie
+445,1997,1,6,SF,Kentucky,Ron,Mercer
+446,1997,1,7,SF,Villanova,Tim,Thomas
+447,1997,1,8,C,Colgate,Adonal,Foyle
+448,1997,1,9,SG/SF,Mt. Zion Christian Academy,Tracy,McGrady
+449,1997,1,10,PF,Cincinnati,Danny,Fortson
+450,1997,1,11,SF,San Jose State,Tariq,Abdul-Wahad
+451,1997,1,12,PF,Providence,Austin,Croshere
+452,1997,1,13,SG,Kentucky,Derek,Anderson
+453,1997,1,14,PF,Michigan,Maurice,Taylor
+454,1997,1,15,C,Iowa State,Kelvin,Cato
+455,1997,1,16,PG,Stanford,Brevin,Knight
+456,1997,1,17,PF,Chattanooga,Johnny,Taylor
+457,1997,1,18,PF,SE Melbourne Magic,Chris,Anstey
+458,1997,1,19,C,Kansas,Scot,Pollard
+459,1997,1,20,C,Wisconsin,Paul,Grant
+460,1997,1,21,SG,Bradley,Anthony,Parker
+461,1997,1,22,PG/SG,California,Ed,Gray
+462,1997,1,23,PG,Minnesota,Bobby,Jackson
+463,1997,1,24,SG,USC,Rodrick,Rhodes
+464,1997,1,25,C,Minnesota,John,Thomas
+465,1997,1,26,SG,New Mexico,Charles,Smith
+466,1997,1,27,PG,Kansas,Jacque,Vaughn
+467,1997,1,28,SF,Maryland,Keith,Booth
+468,1997,2,29,C,North Carolina,Serge,Zwikker
+469,1997,2,30,SF/PF,Washington,Mark,Sanford
+470,1997,2,31,PG,UCLA,Charles,O'Bannon
+471,1997,2,32,SF,Long Beach State,James,Cotton
+472,1997,2,33,PG/SG,Smelt Olimpija,Marko,Milič
+473,1997,2,34,SF/PF,Austin Peay,Bubba,Wells
+474,1997,2,35,SF/PF,Cal State Bakersfield,Kebu,Stewart
+475,1997,2,36,PG/SG,Florida State,James,Collins
+476,1997,2,37,SF/PF,Temple,Marc,Jackson
+477,1997,2,38,PF,Tulane,Jerald,Honeycutt
+478,1997,2,39,PG/SG,College of Charleston,Anthony,Johnson
+479,1997,2,40,SF,Georgia Tech,Ed,Elisma
+480,1997,2,41,C,Villanova,Jason,Lawson
+481,1997,2,42,SG,Butler CC,Stephen,Jackson
+482,1997,2,43,SF,West Virginia,Gordon,Malone
+483,1997,2,44,PF,Memphis,Cedric,Henderson
+484,1997,2,45,PG,Providence,God,Shammgod
+485,1997,2,46,SG,Alabama,Eric,Washington
+486,1997,2,47,PG,Villanova,Alvin,Williams
+487,1997,2,48,C,KK Partizan,Predrag,Drobnjak
+488,1997,2,49,SG,ASVEL Lyon-Villeurbanne,Alain,Digbeu
+489,1997,2,50,SF,Marquette,Chris,Crawford
+490,1997,2,51,PG,Louisville,DeJuan,Wheat
+491,1997,2,52,PG/SG,Indian Hills CC,C.J.,Bruton
+492,1997,2,53,C,Gonzaga,Paul,Rogers
+493,1997,2,54,C,Pittsburgh,Mark,Blount
+494,1997,2,55,C,Newcastle Falcons,Ben,Pepper
+495,1997,2,56,SG,Oklahoma,Nate,Erdmann
+496,1997,2,57,C,FC Barcelona,Roberto,Dueñas
+497,1998,1,1,C,Pacific,Michael,Olowokandi
+498,1998,1,2,PG,Arizona,Mike,Bibby
+499,1998,1,3,C/F,Kansas,Raef,LaFrentz
+500,1998,1,4,F,North Carolina,Antawn,Jamison
+501,1998,1,5,G/F,North Carolina,Vince,Carter
+502,1998,1,6,F/C,Michigan,Robert,Traylor
+503,1998,1,7,PG,Florida,Jason,Williams
+504,1998,1,8,SG,Saint Louis,Larry,Hughes
+505,1998,1,9,PF,DJK Würzburg,Dirk,Nowitzki
+506,1998,1,10,G/F,Kansas,Paul,Pierce
+507,1998,1,11,G/F,Ball State,Bonzi,Wells
+508,1998,1,12,C,Utah,Michael,Doleac
+509,1998,1,13,F/C,UNLV,Keon,Clark
+510,1998,1,14,SG,Arizona,Michael,Dickerson
+511,1998,1,15,F/G,Georgia Tech,Matt,Harpring
+512,1998,1,16,PG,Valparaíso,Bryce,Drew
+513,1998,1,17,C,Kinder Bologna,Radoslav,Nesterovič
+514,1998,1,18,PF,Efes Pilsen,Mirsad,Türkcan
+515,1998,1,19,PF,Notre Dame,Pat,Garrity
+516,1998,1,20,SF,Duke,Roshown,McLeod
+517,1998,1,21,G/F,Iowa,Ricky,Davis
+518,1998,1,22,F/C,Baylor,Brian,Skinner
+519,1998,1,23,PG,Nebraska,Tyronn,Lue
+520,1998,1,24,SG,St. John's,Felipe,López
+521,1998,1,25,F,St. Patrick's High School,Al,Harrington
+522,1998,1,26,SG,Minnesota,Sam,Jacobson
+523,1998,1,27,C,Olimpija Ljubljana,Vladimir,Stepania
+524,1998,1,28,SG,Oregon State,Corey,Benjamin
+525,1998,1,29,C/F,Kentucky,Nazr,Mohammed
+526,1998,2,30,SF,Mississippi,Ansu,Sesay
+527,1998,2,31,SF,Cincinnati,Ruben,Patterson
+528,1998,2,32,PF,Alief Elsik HS,Rashard,Lewis
+529,1998,2,33,F/C,UCLA,Jelani,McCoy
+530,1998,2,34,PG,North Carolina,Shammond,Williams
+531,1998,2,35,C,Split,Bruno,Šundov
+532,1998,2,36,C,Florida A&M,Jerome,James
+533,1998,2,37,C,Toledo,Casey,Shaw
+534,1998,2,38,PF,Charlotte,DeMarco,Johnson
+535,1998,2,39,PG,Fresno State,Rafer,Alston
+536,1998,2,40,SF,Hargrave Military Academy,Korleone,Young
+537,1998,2,41,SG,Rhode Island,Cuttino,Mobley
+538,1998,2,42,SG,Arizona,Miles,Simon
+539,1998,2,43,F/C,Georgetown,Jahidi,White
+540,1998,2,44,PF,California,Sean,Marks
+541,1998,2,45,SG,UCLA,Toby,Bailey
+542,1998,2,46,SF,Indiana,Andrae,Patterson
+543,1998,2,47,PG,Rhode Island,Tyson,Wheeler
+544,1998,2,48,C,South Carolina,Ryan,Stack
+545,1998,2,49,SG,Texas Tech,Cory,Carr
+546,1998,2,50,C,Long Beach State,Andrew,Betts
+547,1998,2,51,PG,Oklahoma,Corey,Brewer
+548,1998,2,52,SG,Eastern Michigan,Derrick,Dial
+549,1998,2,53,SG,Clemson,Greg,Buckner
+550,1998,2,54,SF,Fresno State,Tremaine,Fowlkes
+551,1998,2,55,SF,Iowa,Ryan,Bowen
+552,1998,2,56,SF,UCLA,J. R.,Henderson
+553,1998,2,57,PF,Xavier,Torraye,Braggs
+554,1998,2,58,PF,Michigan,Maceo,Baston
+555,1999,1,1,PF/C,Duke,Elton,Brand
+556,1999,1,2,PG,Maryland,Steve,Francis
+557,1999,1,3,PG,UCLA,Baron,Davis
+558,1999,1,4,PF/SF,Rhode Island,Lamar,Odom
+559,1999,1,5,PF,Picayune Memorial HS,Jonathan,Bender
+560,1999,1,6,SG/SF,Miami (OH),Wally,Szczerbiak
+561,1999,1,7,SG/SF,Connecticut,Richard,Hamilton
+562,1999,1,8,PG,Utah,Andre,Miller
+563,1999,1,9,SF/PF,UNLV,Shawn,Marion
+564,1999,1,10,SG/PG,Arizona,Jason,Terry
+565,1999,1,11,SG,Duke,Trajan,Langdon
+566,1999,1,12,C,Barton County CC,Aleksandar,Radojević
+567,1999,1,13,SF/SG,Duke,Corey,Maggette
+568,1999,1,14,PG,Duke,William,Avery
+569,1999,1,15,C,Limoges,Frédéric,Weis
+570,1999,1,16,SF,St. John's,Ron,Artest
+571,1999,1,17,PF,Old Dominion,Cal,Bowdler
+572,1999,1,18,SG/SF,Xavier,James,Posey
+573,1999,1,19,SF,Minnesota,Quincy,Lewis
+574,1999,1,20,SG,Georgia Tech,Dion,Glover
+575,1999,1,21,PF,Southwest Texas State,Jeff,Foster
+576,1999,1,22,PF,New Mexico,Kenny,Thomas
+577,1999,1,23,SF,Augsburg,Devean,George
+578,1999,1,24,SF,CSKA Moscow,Andrei,Kirilenko
+579,1999,1,25,SF,Miami,Tim,James
+580,1999,1,26,PG,Pittsburgh,Vonteego,Cummings
+581,1999,1,27,SF,Georgia,Jumaine,Jones
+582,1999,1,28,PF,Kentucky,Scott,Padgett
+583,1999,1,29,PF,King College Prep HS,Leon,Smith
+584,1999,2,30,PG,Villanova,John,Celestand
+585,1999,2,31,F,Illinois State,Rico,Hill
+586,1999,2,32,PF,Tulsa,Michael,Ruffin
+587,1999,2,33,G,Fresno State,Chris,Herren
+588,1999,2,34,C,Northwestern,Evan,Eschmeyer
+589,1999,2,35,C,Penn State,Calvin,Booth
+590,1999,2,36,C,Bayi Rockets,Zhizhi,Wang
+591,1999,2,37,C,Maryland,Obinna,Ekezie
+592,1999,2,38,SG/SF,Maryland,Laron,Profit
+593,1999,2,39,C,Arizona,A. J.,Bramlett
+594,1999,2,40,G/F,CSKA Moscow,Gordan,Giriček
+595,1999,2,41,C,California,Francisco,Elson
+596,1999,2,42,G,Michigan,Louis,Bullock
+597,1999,2,43,SF,TCU,Lee,Nailon
+598,1999,2,44,C,Mississippi State,Tyrone,Washington
+599,1999,2,45,G,Kansas,Ryan,Robertson
+600,1999,2,46,F,Iowa,J. R.,Koch
+601,1999,2,47,C,Washington,Todd,Macculloch
+602,1999,2,48,G,Charlotte,Galen,Young
+603,1999,2,49,C,UMass,Lari,Ketner
+604,1999,2,50,C,Nebraska,Venson,Hamilton
+605,1999,2,51,F,Saint Paul's,Antwain,Smith
+606,1999,2,52,G,Boise State,Roberto,Bergersen
+607,1999,2,53,SG,Creighton,Rodney,Buford
+608,1999,2,54,SG,Cincinnati,Melvin,Levett
+609,1999,2,55,G,Texas,Kris,Clack
+610,1999,2,56,C,Stanford,Tim,Young
+611,1999,2,57,SG,Viola Reggio Calabria,Manu,Ginóbili
+612,1999,2,58,G,Virginia Tech,Eddie,Lucas
+613,2000,1,1,PF,Cincinnato (Sr.),Kenyon,Martin
+614,2000,1,2,PF/C,LSU,Stromile,Swift
+615,2000,1,3,SF/PF,East St. Louis HS (Illinois),Darius,Miles
+616,2000,1,4,PF/SF,Iowa State,Marcus,Fizer
+617,2000,1,5,SF/SG,Florida,Mike,Miller
+618,2000,1,6,SG/SF,Cincinnati,DerMarr,Johnson
+619,2000,1,7,C/PF,Texas,Chris,Mihm
+620,2000,1,8,SG,Michigan,Jamal,Crawford
+621,2000,1,9,C,Minnesota,Joel,Przybilla
+622,2000,1,10,SG,Missouri,Keyon,Dooling
+623,2000,1,11,PF,UCLA,Jerome,Moiso
+624,2000,1,12,PF/C,Syracuse,Etan,Thomas
+625,2000,1,13,SG,Fresno State,Courtney,Alexander
+626,2000,1,14,PG,Michigan State,Mateen,Cleaves
+627,2000,1,15,C,Georgia Tech,Jason,Collier
+628,2000,1,16,SF/PF,Efes Pilsen,Hedo,Turkoglu
+629,2000,1,17,SF/SG,Oklahoma State,Desmond,Mason
+630,2000,1,18,SF/SG,DePaul,Quentin,Richardson
+631,2000,1,19,PF/C,Kentucky,Jamaal,Magloire
+632,2000,1,20,PG,Hofstra,Speedy,Claxton
+633,2000,1,21,SF/SG,Michigan State,Morris,Peterson
+634,2000,1,22,SF,Florida,Donnell,Harvey
+635,2000,1,23,SG,Washington Union HS,DeShawn,Stevenson
+636,2000,1,24,C,Benston Zagreb,Dalibor,Bagarić
+637,2000,1,25,C,AEK,"Iakovos ""Jake""",Tsakalidis
+638,2000,1,26,C,Auburn,Mamadou,N'Diaye
+639,2000,1,27,C,Union Olimpija,Primož,Brezec
+640,2000,1,28,PG,St. John's,Erick,Barkley
+641,2000,1,29,PF,Stanford,Mark,Madsen
+642,2000,2,30,G,Paf Bologna,Marko,Jarić
+643,2000,2,31,PF,Vanderbilt,Dan,Langhi
+644,2000,2,32,PG,Indiana,A.J.,Guyton
+645,2000,2,33,C,Connecticut,Jake,Voskuhl
+646,2000,2,34,PG,Connecticut,Khalid,El-Amin
+647,2000,2,35,F,Louisiana-Monroe,Mike,Smith
+648,2000,2,36,C,Cincinnati Stuff,Soumaila,Samake
+649,2000,2,37,SG,Arizona State,Eddie,House
+650,2000,2,38,PF,Oklahoma,Eduardo,Nájera
+651,2000,2,39,SG,St. John's,Lavor,Postell
+652,2000,2,40,SF/PF,Utah,Hanno,Mottola
+653,2000,2,41,SG,Duke,Chris,Carrawell
+654,2000,2,42,PF,Würzburg,Olumide,Oyedeji
+655,2000,2,43,SG,Ohio State,Michael,Redd
+656,2000,2,44,PF,Purdue,Brian,Cardinal
+657,2000,2,45,C,LSU,Jabari,Smith
+658,2000,2,46,G,COS,DeeAndre,Hulett
+659,2000,2,47,G,Cibona Zagreb,Josip,Sesar
+660,2000,2,48,PG,Temple,Mark,Karcher
+661,2000,2,49,PG,Syracuse,Jason,Hart
+662,2000,2,50,F,Idaho,Kaniel,Dickens
+663,2000,2,51,G,Red Star Belgrade,Igor,Rakočević
+664,2000,2,52,C,Indian Hills CC,Ernest,Brown
+665,2000,2,53,C,Northern Arizona,Dan,McClintock
+666,2000,2,54,G,Indian Hills CC,Cory,Hightower
+667,2000,2,55,F,Auburn,Chris,Porter
+668,2000,2,56,G,Colorado,Jaquay,Walls
+669,2000,2,57,G,Ohio State,Scoonie,Penn
+670,2000,2,58,F,Cincinnati,Pete,Mickeal
+671,2001,1,1,C,Glynn Academy,Kwame,Brown
+672,2001,1,2,C,Dominguez HS,Tyson,Chandler
+673,2001,1,3,PF/C,FC Barcelona,Pau,Gasol
+674,2001,1,4,C,Thornwood HS,Eddy,Curry
+675,2001,1,5,SG,Michigan State,Jason,Richardson
+676,2001,1,6,SF,Duke,Shane,Battier
+677,2001,1,7,PF,Seton Hall,Eddie,Griffin
+678,2001,1,8,C,Oak Hill Academy,DeSagana,Diop
+679,2001,1,9,SF/PF,Charlotte,Rodney,White
+680,2001,1,10,SG,Arkansas,Joe,Johnson
+681,2001,1,11,SF,Okaloosa-Walton CC,Kedrick,Brown
+682,2001,1,12,PF,Red Star Belgrade,Vladimir,Radmanović
+683,2001,1,13,SF,Arizona,Richard,Jefferson
+684,2001,1,14,PF,Notre Dame,Troy,Murphy
+685,2001,1,15,C,DePaul,Steven,Hunter
+686,2001,1,16,PF,Indiana,Kirk,Haston
+687,2001,1,17,PF,Villanova,Michael,Bradley
+688,2001,1,18,C,Stanford,Jason,Collins
+689,2001,1,19,PF,Michigan State,Zach,Randolph
+690,2001,1,20,C,North Carolina,Brendan,Haywood
+691,2001,1,21,SG,North Carolina,Joseph,Forte
+692,2001,1,22,SG,SMU,Jeryl,Sasser
+693,2001,1,23,SG,Pepperdine,Brandon,Armstrong
+694,2001,1,24,PG,Real Madrid,Raúl,López
+695,2001,1,25,SF,Alabama,Gerald,Wallace
+696,2001,1,26,C,Seton Hall,Samuel,Dalembert
+697,2001,1,27,PG,Iowa State,Jamaal,Tinsley
+698,2001,1,28,PG,Paris Basket Racing,Tony,Parker
+699,2001,1,29,None,None,pick,Forfeited
+700,2001,2,30,SG,Austin Peay,Trenton,Hassell
+701,2001,2,31,PG,Arizona,Gilbert,Arenas
+702,2001,2,32,PG,St. John's,Omar,Cook
+703,2001,2,33,PG,Clemson,Will,Solomon
+704,2001,2,34,SF,Maryland,Terence,Morris
+705,2001,2,35,PF,USC,Brian,Scalabrine
+706,2001,2,36,SG,USC,Jeff,Trepagnier
+707,2001,2,37,SF,Syracuse,Damone,Brown
+708,2001,2,38,C,Efes Pilsen,Mehmet,Okur
+709,2001,2,39,PF,Arizona,Michael,Wright
+710,2001,2,40,PG,UCLA,Earl,Watson
+711,2001,2,41,PG,Auburn,Jamison,Brewer
+712,2001,2,42,F/G,DePaul,Bobby,Simmons
+713,2001,2,43,C,Kansas,Eric,Chenowith
+714,2001,2,44,PG,Eastern Illinois,Kyle,Hill
+715,2001,2,45,SF,California,Sean,Lampley
+716,2001,2,46,C,Arizona,Loren,Woods
+717,2001,2,47,PF,St. Jude HS,Ousmane,Cisse
+718,2001,2,48,SF,Panathinaikos,Antonis,Fotsis
+719,2001,2,49,C,Ohio State,Ken,Johnson
+720,2001,2,50,C,Georgetown,Ruben,Boumtje-Boumtje
+721,2001,2,51,PF,Houston,Alton,Ford
+722,2001,2,52,PF,Michigan State,Andre,Hutson
+723,2001,2,53,F/C,Stanford,Jarron,Collins
+724,2001,2,54,PG,Cincinnati,Kenny,Satterfield
+725,2001,2,55,SG,Saint Louis,Maurice,Jeffers
+726,2001,2,56,C,Lietuvos rytas Vilnius,Robertas,Javtokas
+727,2001,2,57,C,Georgia Tech,Alvin,Jones
+728,2001,2,58,SF,Oregon,Bryan,Bracey
 729,2002,1,1,C,Shanghai Sharks,Ming,Yao
-730,2002,1,2,PG,Duke,Williams,Jay
-731,2002,1,3,SF/SG,Duke,Dunleavy,"Jr., Mike"
-732,2002,1,4,PF/C,Kansas,Gooden,Drew
-733,2002,1,5,PF/C,Benetton Treviso,Tskitishvili,Nikoloz
-734,2002,1,6,PG,Memphis,Wagner,Dajuan
-735,2002,1,7,C/PF,Vasco da Gama,,Nenê
-736,2002,1,8,PF/C,Maryland,Wilcox,Chris
-737,2002,1,9,PF/C,Cypress Creek HS,Stoudemire,Amar'e
-738,2002,1,10,SF,Connecticut,Butler,Caron
-739,2002,1,11,PF/C,Indiana,Jeffries,Jared
-740,2002,1,12,C/PF,Fresno State,Ely,Melvin
-741,2002,1,13,PF,Tennessee,Haislip,Marcus
-742,2002,1,14,SG,Oregon,Jones,Fred
-743,2002,1,15,SF/PF,Benetton Treviso,Nachbar,Boštjan
-744,2002,1,16,SG/SF,Union Olimpija,Welsch,Jiří
-745,2002,1,17,PG,Maryland,Dixon,Juan
-746,2002,1,18,C,Stanford,Borchardt,Curtis
-747,2002,1,19,PF,Notre Dame,Humphrey,Ryan
-748,2002,1,20,SG,Missouri,Rush,Kareem
-749,2002,1,21,SF,Northeast Mississippi CC,Woods,Qyntel
-750,2002,1,22,SG,Stanford,Jacobsen,Casey
-751,2002,1,23,SF,Kentucky,Prince,Tayshaun
-752,2002,1,24,C/PF,Partizan Belgrade,Krstić,Nenad
-753,2002,1,25,PG,Illinois,Williams,Frank
-754,2002,1,26,SF/SG,Miami,Salmons,John
-755,2002,1,27,SF,Fresno State,Jefferies,Chris
-756,2002,1,28,PG,Gonzaga,Dickau,Dan
-757,2002,1,29,None,None,Forfeited,pick
-758,2002,2,30,PG,Cincinnati,Logan,Steve
-759,2002,2,31,SG,Virginia,Mason,"Jr., Roger"
-760,2002,2,32,PF,Illinois,Archibald,Robert
-761,2002,2,33,SF,Tennessee,Yarbrough,Vincent
-762,2002,2,34,C,UCLA,Gadzuric,Dan
-763,2002,2,35,PF,Duke,Boozer,Carlos
-764,2002,2,36,PG,Partizan Belgrade,Vujanić,Miloš
-765,2002,2,37,C,Virtus Bologna,Andersen,David
-766,2002,2,38,PG,Fresno State,Maddox,Tito
-767,2002,2,39,SG,Alabama,Grizzard,Rod
-768,2002,2,40,PG,FC Barcelona,Navarro,Juan Carlos
-769,2002,2,41,C,Opel Skyliners,Kasun,Mario
-770,2002,2,42,SG,Shaw,Murray,Ronald
-771,2002,2,43,C,Arkansas State,Jennings,Jason
-772,2002,2,44,PF,Maryland,Baxter,Lonny
-773,2002,2,45,PF,USC,Clancy,Sam
-774,2002,2,46,SF,UCLA,Barnes,Matt
-775,2002,2,47,C,California,Sampson,Jamal
-776,2002,2,48,PF,Texas,Owens,Chris
-777,2002,2,49,PF,Halle,Fehse,Peter
-778,2002,2,50,PF,Wake Forest,Songaila,Darius
-779,2002,2,51,SF,Ourense,Kammerichs,Federico
-780,2002,2,52,PG,Michigan State,Taylor,Marcus
-781,2002,2,53,SF,La Salle,Butler,Rasual
-782,2002,2,54,SG,Marshall,Slay,Tamar
-783,2002,2,55,SG,FMP Železnik,Šekularac,Mladen
-784,2002,2,56,PF,TAU Cerámica,Scola,Luis
-785,2002,2,57,PF,San Diego State,Holcomb,Randy
-786,2002,2,58,PF,Central Connecticut,Edwards,Corsley
+730,2002,1,2,PG,Duke,Jay,Williams
+731,2002,1,3,SF/SG,Duke,Jr. Mike,Dunleavy
+732,2002,1,4,PF/C,Kansas,Drew,Gooden
+733,2002,1,5,PF/C,Benetton Treviso,Nikoloz,Tskitishvili
+734,2002,1,6,PG,Memphis,Dajuan,Wagner
+735,2002,1,7,C/PF,Vasco da Gama,Nenê,
+736,2002,1,8,PF/C,Maryland,Chris,Wilcox
+737,2002,1,9,PF/C,Cypress Creek HS,Amar'e,Stoudemire
+738,2002,1,10,SF,Connecticut,Caron,Butler
+739,2002,1,11,PF/C,Indiana,Jared,Jeffries
+740,2002,1,12,C/PF,Fresno State,Melvin,Ely
+741,2002,1,13,PF,Tennessee,Marcus,Haislip
+742,2002,1,14,SG,Oregon,Fred,Jones
+743,2002,1,15,SF/PF,Benetton Treviso,Boštjan,Nachbar
+744,2002,1,16,SG/SF,Union Olimpija,Jiří,Welsch
+745,2002,1,17,PG,Maryland,Juan,Dixon
+746,2002,1,18,C,Stanford,Curtis,Borchardt
+747,2002,1,19,PF,Notre Dame,Ryan,Humphrey
+748,2002,1,20,SG,Missouri,Kareem,Rush
+749,2002,1,21,SF,Northeast Mississippi CC,Qyntel,Woods
+750,2002,1,22,SG,Stanford,Casey,Jacobsen
+751,2002,1,23,SF,Kentucky,Tayshaun,Prince
+752,2002,1,24,C/PF,Partizan Belgrade,Nenad,Krstić
+753,2002,1,25,PG,Illinois,Frank,Williams
+754,2002,1,26,SF/SG,Miami,John,Salmons
+755,2002,1,27,SF,Fresno State,Chris,Jefferies
+756,2002,1,28,PG,Gonzaga,Dan,Dickau
+757,2002,1,29,None,None,pick,Forfeited
+758,2002,2,30,PG,Cincinnati,Steve,Logan
+759,2002,2,31,SG,Virginia,Jr. Roger,Mason
+760,2002,2,32,PF,Illinois,Robert,Archibald
+761,2002,2,33,SF,Tennessee,Vincent,Yarbrough
+762,2002,2,34,C,UCLA,Dan,Gadzuric
+763,2002,2,35,PF,Duke,Carlos,Boozer
+764,2002,2,36,PG,Partizan Belgrade,Miloš,Vujanić
+765,2002,2,37,C,Virtus Bologna,David,Andersen
+766,2002,2,38,PG,Fresno State,Tito,Maddox
+767,2002,2,39,SG,Alabama,Rod,Grizzard
+768,2002,2,40,PG,FC Barcelona,Juan Carlos,Navarro
+769,2002,2,41,C,Opel Skyliners,Mario,Kasun
+770,2002,2,42,SG,Shaw,Ronald,Murray
+771,2002,2,43,C,Arkansas State,Jason,Jennings
+772,2002,2,44,PF,Maryland,Lonny,Baxter
+773,2002,2,45,PF,USC,Sam,Clancy
+774,2002,2,46,SF,UCLA,Matt,Barnes
+775,2002,2,47,C,California,Jamal,Sampson
+776,2002,2,48,PF,Texas,Chris,Owens
+777,2002,2,49,PF,Halle,Peter,Fehse
+778,2002,2,50,PF,Wake Forest,Darius,Songaila
+779,2002,2,51,SF,Ourense,Federico,Kammerichs
+780,2002,2,52,PG,Michigan State,Marcus,Taylor
+781,2002,2,53,SF,La Salle,Rasual,Butler
+782,2002,2,54,SG,Marshall,Tamar,Slay
+783,2002,2,55,SG,FMP Železnik,Mladen,Šekularac
+784,2002,2,56,PF,TAU Cerámica,Luis,Scola
+785,2002,2,57,PF,San Diego State,Randy,Holcomb
+786,2002,2,58,PF,Central Connecticut,Corsley,Edwards
 787,2003,1,1,SF,St. Vincent–St. Mary HS,LeBron,James
 788,2003,1,2,C,Hemofarm Vršac,Miličić,Darko
 789,2003,1,3,SF,Syracuse,Anthony,Carmelo
@@ -837,852 +837,852 @@
 835,2003,2,49,SF,Miami (Florida),Jones,James
 836,2003,2,50,PG,Dijon,Morlende,Paccelis
 837,2003,2,51,SG,Creighton,Korver,Kyle
-838,2003,2,52,C,FC Barcelona,van,"de Hare, Remon"
+838,2003,2,52,C,FC Barcelona,van,de Hare Remon
 839,2003,2,53,PF,Arizona State,Smith,Tommy
 840,2003,2,54,C,Brotnjo,Sinanović,Nedžad
 841,2003,2,55,PF,Minnesota,Rickert,Rick
 842,2003,2,56,PF,Ohio,Hunter,Brandon
 843,2003,2,57,C,Hong Kong Flying Dragons,Yuyang,Xue
 844,2003,2,58,C,AEK,Glyniadakis,Andreas
-845,2004,1,1,C,Southwest Atlanta Christian Academy,Howard,Dwight
-846,2004,1,2,PF/C,Connecticut,Okafor,Emeka
-847,2004,1,3,SG,Connecticut,Gordon,Ben
-848,2004,1,4,PG,Peoria HS,Livingston,Shaun
-849,2004,1,5,PG,Wisconsin,Harris,Devin
-850,2004,1,6,G/F,Stanford,Childress,Josh
-851,2004,1,7,SF,Duke,Deng,Luol
-852,2004,1,8,C,BYU,Araújo,Rafael
-853,2004,1,9,SF,Arizona,Iguodala,Andre
-854,2004,1,10,SF,Oregon,Jackson,Luke
-855,2004,1,11,F/C,Skonto,Biedriņš,Andris
-856,2004,1,12,C,Bakersfield HS,Swift,Robert
-857,2004,1,13,PG,Lincoln HS,Telfair,Sebastian
-858,2004,1,14,PF,Minnesota,Humphries,Kris
-859,2004,1,15,PF/C,Prentiss HS ,Jefferson,Al
-860,2004,1,16,SG,Nevada,Snyder,Kirk
-861,2004,1,17,SF,Oak Hill Academy,Smith,Josh
-862,2004,1,18,SG,St. Benedict's Prep,Smith,J. R.
-863,2004,1,19,SF,South Kent School,Wright,Dorell
-864,2004,1,20,PG,Saint Joseph's,Nelson,Jameer
-865,2004,1,21,C,Metis Varese,Podkolzin,Pavel
-866,2004,1,22,SF,CSKA Moscow,Khryapa,Viktor
-867,2004,1,23,SG,CSKA Moscow,Monia,Sergei
-868,2004,1,24,PG,Saint Joseph's,West,Delonte
-869,2004,1,25,SG,Oklahoma State,Allen,Tony
-870,2004,1,26,SG,Western Carolina,Martin,Kevin
-871,2004,1,27,SG,Snaidero Udine,Vujačić,Saša
-872,2004,1,28,PG,Breil Milano,Udrih,Beno
-873,2004,1,29,C,Colorado,Harrison,David
-874,2004,2,30,C,FC Barcelona,Varejão,Anderson
-875,2004,2,31,C,Iowa State,Vroman,Jackson
-876,2004,2,32,C,Caguas,Ramos,Peter John
-877,2004,2,33,PG,Xavier,Chalmers,Lionel
-878,2004,2,34,SF,Southeastern Illinois,Smith,Donta
-879,2004,2,35,F/G,Texas Tech,Emmett,Andre
-880,2004,2,36,PG,Memphis,Burks,Antonio
-881,2004,2,37,PG,Texas,Ivey,Royal
-882,2004,2,38,PG,Duke,Duhon,Chris
-883,2004,2,39,PF,Roseto Basket,Miralles,Albert
-884,2004,2,40,SF,Mississippi,Reed,Justin
-885,2004,2,41,G,North Carolina Central,Young,David
-886,2004,2,42,SF,Dijon,Sanikidze,Viktor
-887,2004,2,43,SF,UCLA,Ariza,Trevor
-888,2004,2,44,SG,Florida State,Pickett,Tim
-889,2004,2,45,SF,Michigan,Robinson,Bernard
-890,2004,2,46,C,Yonsei University,Seung-Jin,Ha
-891,2004,2,47,PF,Cal State Fullerton,Sow,Pape
-892,2004,2,48,SG,Morehead State,Minard,Ricky
-893,2004,2,49,PF,Khimik Yuzhny,Lishouk,Sergei
-894,2004,2,50,PG,Maroussi,Spanoulis,Vassilis
-895,2004,2,51,SF,FC Barcelona,Drejer,Christian
-896,2004,2,52,SG,Xavier,Sato,Romain
-897,2004,2,53,SF,Vanderbilt,Freije,Matt
-898,2004,2,54,SG,Missouri,Paulding,Rickey
-899,2004,2,55,PG,Manhattan,Flores,Luis
-900,2004,2,56,PF,Providence,Douthit,Marcus
-901,2004,2,57,G,Skha Jakutia Yakutsk ,Karaulov,Sergei
-902,2004,2,58,PG,Gonzaga,Stepp,Blake
-903,2004,2,59,G,Georgia,Wright,Rashad
-904,2005,1,1,C,Utah,Bogut,Andrew
-905,2005,1,2,F,North Carolina,Williams,Marvin
-906,2005,1,3,PG,Illinois,Williams,Deron
-907,2005,1,4,PG,Wake Forest,Paul,Chris
-908,2005,1,5,G,North Carolina,Felton,Raymond
-909,2005,1,6,G/F,Seattle Prep. School,Webster,Martell
-910,2005,1,7,F,Connecticut,Villanueva,Charlie
-911,2005,1,8,C,Arizona,Frye,Channing
-912,2005,1,9,F,Arizona State,Diogu,Ike
-913,2005,1,10,C,St. Joseph HS,Bynum,Andrew
-914,2005,1,11,F/C,Unicaja Málaga,Vázquez,Fran
-915,2005,1,12,F,CSKA Moscow,Korolev,Yaroslav
-916,2005,1,13,F,North Carolina,May,Sean
-917,2005,1,14,G,North Carolina,McCants,Rashad
-918,2005,1,15,G/F,Texas A&M,Wright,Antoine
-919,2005,1,16,F,Oklahoma State,Graham,Joey
-920,2005,1,17,SF,New Mexico,Granger,Danny
-921,2005,1,18,G/F,Gulf Shores Academy,Green,Gerald
-922,2005,1,19,F,Syracuse,Warrick,Hakim
-923,2005,1,20,G,NC State,Hodge,Julius
-924,2005,1,21,G,Washington,Robinson,Nate
-925,2005,1,22,G,Georgia Tech,Jack,Jarrett
-926,2005,1,23,G/F,Louisville,García,Francisco
-927,2005,1,24,G,Illinois,Head,Luther
-928,2005,1,25,C,Pau-Orthez,Petro,Johan
-929,2005,1,26,F,Cincinnati,Maxiell,Jason
-930,2005,1,27,F,Missouri,Kleiza,Linas
-931,2005,1,28,F/C,Le Havre,Mahinmi,Ian
-932,2005,1,29,F,Kansas,Simien,Wayne
-933,2005,1,30,PF,Florida,Lee,David
-934,2005,2,31,G,Arizona,Stoudamire,Salim
-935,2005,2,32,G,Duke,Ewing,Daniel
-936,2005,2,33,F,LSU,Bass,Brandon
-937,2005,2,34,G,Skyline HS,Miles,C. J.
-938,2005,2,35,F,IMG Academy,Sánchez,Ricky
-939,2005,2,36,F,Ülkerspor,İlyasova,Ersan
-940,2005,2,37,F,Gonzaga,Turiaf,Ronny
-941,2005,2,38,G,Marquette,Diener,Travis
-942,2005,2,39,G,Florida State,Wafer,Von
-943,2005,2,40,SG,Lanier HS,Ellis,Monta
-944,2005,2,41,G,KK Split,Ukić,Roko
-945,2005,2,42,F,Pittsburgh,Taft,Chris
-946,2005,2,43,C,KK Reflex,Ilić,Mile
-947,2005,2,44,C,Žalgiris Kaunas,Andriuškevičius,Martynas
-948,2005,2,45,SG,South Gwinnett HS,Williams,Louis
-949,2005,2,46,F,Climamio Bologna,Lorbek,Erazem
-950,2005,2,47,G,Indiana,Wright,Bracey
-951,2005,2,48,F,Real Madrid,Gelabale,Mickaël
-952,2005,2,49,F,South Kent School,Blatche,Andray
-953,2005,2,50,F,Providence,Gomes,Ryan
-954,2005,2,51,C,Walsh,Whaley,Robert
-955,2005,2,52,F,Real Madrid,Hervelle,Axel
-956,2005,2,53,G,Louisiana-Lafayette,Greene,Orien
-957,2005,2,54,G/F,UCLA,Thompson,Dijon
-958,2005,2,55,F,Mississippi State,Roberts,Lawrence
-959,2005,2,56,F,Westchester HS,Johnson,Amir
-960,2005,2,57,F/C,RheinEnergie Köln,Gortat,Marcin
-961,2005,2,58,F,Snaidero Udine,Slokar,Uroš
-962,2005,2,59,G,Efes Pilsen,Akyol,Cenk
-963,2005,2,60,G,Pepperdine,Acker,Alex
-964,2006,1,1,PF,Benetton Treviso,Bargnani,Andrea
-965,2006,1,2,PF,Texas,Aldridge,LaMarcus
-966,2006,1,3,SF,Gonzaga,Morrison,Adam
-967,2006,1,4,PF,LSU,Thomas,Tyrus
-968,2006,1,5,PF,Duke,Williams,Shelden
-969,2006,1,6,SG,Washington,Roy,Brandon
-970,2006,1,7,SG,Villanova,Foye,Randy
-971,2006,1,8,SF,Connecticut,Gay,Rudy
-972,2006,1,9,C,Bradley,O'Bryant,Patrick
-973,2006,1,10,C,Verviers-Pepinster,Sene,Mouhamed
-974,2006,1,11,SG,Duke,Redick,J. J.
-975,2006,1,12,C,Connecticut,Armstrong,Hilton
-976,2006,1,13,SG,Angelico Biella,Sefolosha,Thabo
-977,2006,1,14,SG,Arkansas,Brewer,Ronnie
-978,2006,1,15,SF,NC State,Simmons,Cedric
-979,2006,1,16,SF,Memphis,Carney,Rodney
-980,2006,1,17,PF,Memphis,Williams,Shawne
-981,2006,1,18,C,BC Kyiv,Pecherov,Oleksiy
-982,2006,1,19,G,Rutgers,Douby,Quincy
-983,2006,1,20,F,South Carolina,Balkman,Renaldo
-984,2006,1,21,PG,Kentucky,Rondo,Rajon
-985,2006,1,22,G,Connecticut,Williams,Marcus
-986,2006,1,23,F,Connecticut,Boone,Josh
-987,2006,1,24,PG,Villanova,Lowry,Kyle
-988,2006,1,25,G,Michigan State,Brown,Shannon
-989,2006,1,26,G,UCLA,Farmar,Jordan
-990,2006,1,27,G,Adecco Estudiantes,Rodríguez,Sergio
-991,2006,1,28,G,Michigan State,Ager,Maurice
-992,2006,1,29,G,Temple,Collins,Mardy
-993,2006,1,30,F,Gran Canaria,Freeland,Joel
-994,2006,2,31,G,Cincinnati,White,James
-995,2006,2,32,SF,Marquette,Novak,Steve
-996,2006,2,33,F,South Florida,Jones,Solomon
-997,2006,2,34,C,Michigan State,Davis,Paul
-998,2006,2,35,F,Texas,Tucker,P.J.
-999,2006,2,36,F,Boston College,Smith,Craig
-1000,2006,2,37,F,Washington,Jones,Bobby
-1001,2006,2,38,C,Partizan Belgrade,Perović,Kosta
-1002,2006,2,39,F,North Carolina,Noel,David
-1003,2006,2,40,G,Connecticut,Brown,Denham
-1004,2006,2,41,F,Illinois,Augustine,James
-1005,2006,2,42,G,Texas,Gibson,Daniel
-1006,2006,2,43,F,Objetivo São Carlos,Vinicius,Marcus
-1007,2006,2,44,F,Hapoel Galil Elyon,Eliyahu,Lior
-1008,2006,2,45,F,Florida State,Johnson,Alexander
-1009,2006,2,46,G,Illinois,Brown,Dee
-1010,2006,2,47,PF,Louisiana Tech,Millsap,Paul
-1011,2006,2,48,F,Dynamo St. Petersburg,Veremeenko,Vladimir
-1012,2006,2,49,F,California,Powe,Leon
-1013,2006,2,50,C,UCLA,Hollins,Ryan
-1014,2006,2,51,C,WTC Cornellà,Samb,Cheikh
-1015,2006,2,52,G,Miami (FL),Diaz,Guillermo
-1016,2006,2,53,G,Union Olimpija,Halperin,Yotam
-1017,2006,2,54,G,Arizona,Adams,Hassan
-1018,2006,2,55,F,Union Bank Lagos,Ugboaja,Ejike
-1019,2006,2,56,F,ASA BH Telecom,Bavčić,Edin
-1020,2006,2,57,C,PAOK,Mavrokefalidis,Loukas
-1021,2006,2,58,G,George Washington,Pinnock,J. R.
-1022,2006,2,59,F,Cibona Zagreb,Markota,Damir
-1023,2006,2,60,G,Iowa State,Blalock,Will
-1024,2007,1,1,C,Ohio State,Oden,Greg
-1025,2007,1,2,SF,Texas,Durant,Kevin
-1026,2007,1,3,C,Florida,Horford,Al
-1027,2007,1,4,PG,Ohio State,Conley,Mike
-1028,2007,1,5,SF,Georgetown,Green,Jeff
-1029,2007,1,6,PF,Guangdong Southern Tigers,Yi,Jianlian
-1030,2007,1,7,SF,Florida,Brewer,Corey
-1031,2007,1,8,PF,North Carolina,Wright,Brandan
-1032,2007,1,9,C,Florida,Noah,Joakim
-1033,2007,1,10,C,Washington,Hawes,Spencer
-1034,2007,1,11,PG,Texas A&M,Law,Acie
-1035,2007,1,12,PF,Georgia Tech,Young,Thaddeus
-1036,2007,1,13,SF,Kansas,Wright,Julian
-1037,2007,1,14,SF,Florida State,Thornton,Al
-1038,2007,1,15,SG,Eastern Washington,Stuckey,Rodney
-1039,2007,1,16,SG,USC,Young,Nick
-1040,2007,1,17,PF,Boston College,Williams,Sean
-1041,2007,1,18,SG,Fortitudo Bologna,Belinelli,Marco
-1042,2007,1,19,PG,Georgia Tech,Crittenton,Javaris
-1043,2007,1,20,PF,Colorado State,Smith,Jason
-1044,2007,1,21,SG,Ohio State,Cook,Daequan
-1045,2007,1,22,SF,Boston College,Dudley,Jared
-1046,2007,1,23,SF,DePaul,Chandler,Wilson
-1047,2007,1,24,SG,Joventut Badalona,Fernández,Rudy
-1048,2007,1,25,SG,Rice,Almond,Morris
-1049,2007,1,26,PG,Oregon,Brooks,Aaron
-1050,2007,1,27,SG,UCLA,Afflalo,Arron
-1051,2007,1,28,C,TAU Cerámica,Splitter,Tiago
-1052,2007,1,29,SF,Wisconsin,Tucker,Alando
-1053,2007,1,30,SG,Tapiolan Honka,Koponen,Petteri
-1054,2007,2,31,PF,Purdue,Landry,Carl
-1055,2007,2,32,PG,USC,Pruitt,Gabe
-1056,2007,2,33,SF,Arizona,Williams,Marcus
-1057,2007,2,34,PF,Nevada,Fazekas,Nick
-1058,2007,2,35,PF,LSU,Davis,Glen
-1059,2007,2,36,PF,Alabama,Davidson,Jermareo
-1060,2007,2,37,PF,Duke,McRoberts,Josh
-1061,2007,2,38,C,SK Cherkassy,Fesenko,Kyrylo
-1062,2007,2,39,C,Široki Brijeg,Barać,Stanko
-1063,2007,2,40,SF,Beijing Olympians,Sun,Yue
-1064,2007,2,41,PF,Florida,Richard,Chris
-1065,2007,2,42,SG,Vanderbilt,Byars,Derrick
-1066,2007,2,43,SG,Iowa,Haluska,Adam
-1067,2007,2,44,SF,North Carolina,Terry,Reyshawn
-1068,2007,2,45,PG,Marist,Jordan,Jared
-1069,2007,2,46,PF,Massachusetts,Lasme,Stephane
-1070,2007,2,47,SF,Fresno State,McGuire,Dominic
-1071,2007,2,48,C,Akasvayu Girona,Gasol,Marc
-1072,2007,2,49,C,Pittsburgh,Gray,Aaron
-1073,2007,2,50,SG,Maroussi,Seibutis,Renaldas
-1074,2007,2,51,PG,Oklahoma State,Curry,JamesOn
-1075,2007,2,52,PG,Florida,Green,Taurean
-1076,2007,2,53,SF,Syracuse,Nichols,Demetris
-1077,2007,2,54,SF,Townsville Crocodiles,Newley,Brad
-1078,2007,2,55,PF,Providence,Hill,Herbert
-1079,2007,2,56,PG,Nevada,Sessions,Ramon
-1080,2007,2,57,SG,DePaul,Mejia,Sammy
-1081,2007,2,58,PF,Olympia Larissa,Printezis,Giorgos
-1082,2007,2,59,PG,Maryland,Strawberry,D.J.
-1083,2007,2,60,C,Mega Ishrana,Raković,Milovan
-1084,2008,1,1,PG,Memphis,Rose,Derrick
-1085,2008,1,2,PF,Kansas State,Beasley,Michael
-1086,2008,1,3,SG,USC,Mayo,O. J.
-1087,2008,1,4,PG,UCLA,Westbrook,Russell
-1088,2008,1,5,PF,UCLA,Love,Kevin
-1089,2008,1,6,SF,Olimpia Milano,Gallinari,Danilo
-1090,2008,1,7,SG,Indiana,Gordon,Eric
-1091,2008,1,8,SF,West Virginia,Alexander,Joe
-1092,2008,1,9,PG,Texas,Augustin,D. J.
-1093,2008,1,10,C,Stanford,Lopez,Brook
-1094,2008,1,11,PG,Arizona,Bayless,Jerryd
-1095,2008,1,12,PF,Rider,Thompson,Jason
-1096,2008,1,13,SG,Kansas,Rush,Brandon
-1097,2008,1,14,PF,LSU,Randolph,Anthony
-1098,2008,1,15,C,Stanford,Lopez,Robin
-1099,2008,1,16,PF,Florida,Speights,Marreese
-1100,2008,1,17,C,Georgetown,Hibbert,Roy
-1101,2008,1,18,C,Nevada,McGee,Javale
-1102,2008,1,19,PF,NC State,Hickson,J. J.
-1103,2008,1,20,C,Hyères-Toulon,Ajinça,Alexis
-1104,2008,1,21,PF,California,Anderson,Ryan
-1105,2008,1,22,SG,Western Kentucky,Lee,Courtney
-1106,2008,1,23,C,Ohio State,Koufos,Kosta
-1107,2008,1,24,PF,L'Hospitalet,Ibaka,Serge
-1108,2008,1,25,SF,Le Mans,Batum,Nicolas
-1109,2008,1,26,PG,IUPUI,Hill,George
-1110,2008,1,27,PF,Kansas,Arthur,Darrell
-1111,2008,1,28,SF,Syracuse,Greene,Donté
-1112,2008,1,29,PF,Indiana,White,D. J.
-1113,2008,1,30,SG,New Mexico,Giddens,J. R.
-1114,2008,2,31,C,Panathinaikos,Peković,Nikola
-1115,2008,2,32,PF,UAB,Sharpe,Walter
-1116,2008,2,33,PF,Memphis,Dorsey,Joey
-1117,2008,2,34,PG,Kansas,Chalmers,Mario
-1118,2008,2,35,C,Texas A&M,Jordan,DeAndre
-1119,2008,2,36,C,Fenerbahçe Ülker,Aşık,Ömer
-1120,2008,2,37,SF,UCLA,Mbah,"a Moute, Luc"
-1121,2008,2,38,SG,Washington State,Weaver,Kyle
-1122,2008,2,39,SG,Arkansas,Weems,Sonny
-1123,2008,2,40,SG,Memphis,Douglas-Roberts,Chris
-1124,2008,2,41,PF,Cairns Taipans,Jawai,Nathan
-1125,2008,2,42,PG,Virginia,Singletary,Sean
-1126,2008,2,43,SF,Georgetown,Ewing,"Jr., Patrick"
-1127,2008,2,44,C,KK Zagreb,Tomić,Ante
-1128,2008,2,45,PG,Union Olimpija,Dragić,Goran
-1129,2008,2,46,PF,BYU,Plaisted,Trent
-1130,2008,2,47,SG,Kansas State,Walker,Bill
-1131,2008,2,48,SG,Oregon,Hairston,Malik
-1132,2008,2,49,PF,Alabama,Hendrix,Richard
-1133,2008,2,50,C,California,Hardin,DeVon
-1134,2008,2,51,SG,Vanderbilt,Foster,Shan
-1135,2008,2,52,PF,Kansas,Jackson,Darnell
-1136,2008,2,53,PF,Red Star Belgrade,Dragićević,Tadija
-1137,2008,2,54,PF,Oregon,Leunen,Maarty
-1138,2008,2,55,PG,Idaho Stampede,Taylor,Mike
-1139,2008,2,56,C,Kansas,Kaun,Sasha
-1140,2008,2,57,PF,Maryland,Gist,James
-1141,2008,2,58,SG,Kentucky,Crawford,Joe
-1142,2008,2,59,SF,Virginia Tech,Washington,Deron
-1143,2008,2,60,C,Fenerbahçe Ülker,Erden,Semih
-1144,2009,1,1,PF,Oklahoma,Griffin,Blake
-1145,2009,1,2,C,Connecticut,Thabeet,Hasheem
-1146,2009,1,3,SG,Arizona State,Harden,James
-1147,2009,1,4,SG,Memphis,Evans,Tyreke
-1148,2009,1,5,PG,DKV Joventut,Rubio,Ricky
-1149,2009,1,6,PG,Syracuse,Flynn,Jonny
-1150,2009,1,7,PG,Davidson,Curry,Stephen
-1151,2009,1,8,PF,Arizona,Hill,Jordan
-1152,2009,1,9,SG,USC,DeRozan,DeMar
-1153,2009,1,10,PG,Lottomatica Roma,Jennings,Brandon
-1154,2009,1,11,SG,Louisville,Williams,Terrence
-1155,2009,1,12,SG,Duke,Henderson,Gerald
-1156,2009,1,13,PF,North Carolina,Hansbrough,Tyler
-1157,2009,1,14,SF,Louisville,Clark,Earl
-1158,2009,1,15,SF,Gonzaga,Daye,Austin
-1159,2009,1,16,SF,Wake Forest,Johnson,James
-1160,2009,1,17,PG,UCLA,Holiday,Jrue
-1161,2009,1,18,PG,North Carolina,Lawson,Ty
-1162,2009,1,19,PG,Wake Forest,Teague,Jeff
-1163,2009,1,20,PG,VCU,Maynor,Eric
-1164,2009,1,21,PG,UCLA,Collison,Darren
-1165,2009,1,22,SF,Pamesa Valencia,Claver,Víctor
-1166,2009,1,23,SF,Maccabi Tel Aviv,Casspi,Omri
-1167,2009,1,24,C,Ohio State,Mullens,Byron
-1168,2009,1,25,PG,Cholet,Beaubois,Rodrigue
-1169,2009,1,26,PF,USC,Gibson,Taj
-1170,2009,1,27,SF,Missouri,Carroll,DeMarre
-1171,2009,1,28,SG,North Carolina,Ellington,Wayne
-1172,2009,1,29,PG,Florida State,Douglas,Toney
-1173,2009,1,30,SF,CB Prat,Eyenga,Christian
-1174,2009,2,31,PF,Arizona State,Pendergraph,Jeff
-1175,2009,2,32,SG,Central Florida,Taylor,Jermaine
-1176,2009,2,33,PF,Villanova,Cunningham,Dante
-1177,2009,2,34,PG,Real Madrid,Llull,Sergio
-1178,2009,2,35,PF,Georgetown,Summers,DaJuan
-1179,2009,2,36,SF,Pittsburgh,Young,Sam
-1180,2009,2,37,PF,Pittsburgh,Blair,DeJuan
-1181,2009,2,38,PF,Washington,Brockman,Jon
-1182,2009,2,39,PF,Angelico Biella,Jerebko,Jonas
-1183,2009,2,40,SF,Xavier,Brown,Derrick
-1184,2009,2,41,SG,Kentucky,Meeks,Jodie
-1185,2009,2,42,PG,Arkansas,Beverley,Patrick
-1186,2009,2,43,SG,LSU,Thornton,Marcus
-1187,2009,2,44,SF,Arizona,Budinger,Chase
-1188,2009,2,45,PG,Florida,Calathes,Nick
-1189,2009,2,46,SF,North Carolina,Green,Danny
-1190,2009,2,47,PF,DKV Joventut,Norel,Henk
-1191,2009,2,48,SF,Oklahoma,Griffin,Taylor
-1192,2009,2,49,SG,MBC Mykolaiv,Gladyr,Sergiy
-1193,2009,2,50,C,Michigan State,Suton,Goran
-1194,2009,2,51,SG,Miami (FL),McClinton,Jack
-1195,2009,2,52,PG,Connecticut,Price,A. J.
-1196,2009,2,53,PG,Cholet,de,"Colo, Nando"
-1197,2009,2,54,SG,UAB,Vaden,Robert
-1198,2009,2,55,PG,Saint Mary's,Mills,Patty
-1199,2009,2,56,PF,Saint Joseph's,Nivins,Ahmad
-1200,2009,2,57,PF,Fenerbahçe Ülker,Preldžič,Emir
-1201,2009,2,58,PG,Tennessee-Martin,Hudson,Lester
-1202,2009,2,59,PF,Texas A&M,Elonu,Chinemelu
-1203,2009,2,60,SF,Memphis,Dozier,Robert
-1204,2010,1,1,PG,Kentucky,Wall,John
-1205,2010,1,2,SF/SG,Ohio State,Turner,Evan
-1206,2010,1,3,PF,Georgia Tech,Favors,Derrick
-1207,2010,1,4,SF,Syracuse,Johnson,Wesley
-1208,2010,1,5,C,Kentucky,Cousins,DeMarcus
-1209,2010,1,6,C,Baylor,Udoh,Ekpe
-1210,2010,1,7,PF,Georgetown,Monroe,Greg
-1211,2010,1,8,SF,Wake Forest,Aminu,Al-Farouq
-1212,2010,1,9,SF,Butler,Hayward,Gordon
-1213,2010,1,10,SF,Fresno State,George,Paul
-1214,2010,1,11,C,Kansas,Aldrich,Cole
-1215,2010,1,12,SG,Kansas,Henry,Xavier
-1216,2010,1,13,PF,North Carolina,Davis,Ed
-1217,2010,1,14,PF,Kentucky,Patterson,Patrick
-1218,2010,1,15,C,VCU,Sanders,Larry
-1219,2010,1,16,SF,Nevada,Babbitt,Luke
-1220,2010,1,17,PF,Cholet Basket,Séraphin,Kévin
-1221,2010,1,18,PG,Kentucky,Bledsoe,Eric
-1222,2010,1,19,SG,Texas,Bradley,Avery
-1223,2010,1,20,SG,Oklahoma State,Anderson,James
-1224,2010,1,21,PF,Iowa State,Brackins,Craig
-1225,2010,1,22,SG,Memphis,Williams,Elliot
-1226,2010,1,23,PF,Clemson,Booker,Trevor
-1227,2010,1,24,SF,Texas,James,Damion
-1228,2010,1,25,SG,USF,Jones,Dominique
-1229,2010,1,26,SF,Washington,Pondexter,Quincy
-1230,2010,1,27,SG,Xavier,Crawford,Jordan
-1231,2010,1,28,PG,Maryland,Vásquez,Greivis
-1232,2010,1,29,C,Kentucky,Orton,Daniel
-1233,2010,1,30,SF,Marquette,Hayward,Lazar
-1234,2010,2,31,C,Brose Bamberg,Pleiß,Tibor
-1235,2010,2,32,C,Texas,Pittman,Dexter
-1236,2010,2,33,C,Marshall,Whiteside,Hassan
-1237,2010,2,34,PG,Nevada,Johnson,Armon
-1238,2010,2,35,SF,Red Star Belgrade,Bjelica,Nemanja
-1239,2010,2,36,SG,Ole Miss,White,Terrico
-1240,2010,2,37,SF,New Mexico,Hobson,Darington
-1241,2010,2,38,SG,Syracuse,Rautins,Andy
-1242,2010,2,39,SG,Stanford,Fields,Landry
-1243,2010,2,40,SG,Cincinnati,Stephenson,Lance
-1244,2010,2,41,PF,Mississippi State,Varnado,Jarvis
-1245,2010,2,42,SF,West Virginia,Butler,Da'Sean
-1246,2010,2,43,SF,West Virginia,Ebanks,Devin
-1247,2010,2,44,C,Tulsa,Jordan,Jerome
-1248,2010,2,45,C,CB Murcia,Prestes,Paulão
-1249,2010,2,46,PF,Georgia Tech,Lawal,Gani
-1250,2010,2,47,PF,Oklahoma,Gallon,Tiny
-1251,2010,2,48,SF,Tulsa 66ers,Williams,Latavious
-1252,2010,2,49,PF,CB Gran Canaria,Richards,Ryan
-1253,2010,2,50,C,Florida State,Alabi,Solomon
-1254,2010,2,51,PF,Louisiana Tech,Rolle,Magnum
-1255,2010,2,52,PF,Notre Dame,Harangody,Luke
-1256,2010,2,53,SF,STB Le Havre,Sy,Pape
-1257,2010,2,54,PG,Oklahoma,Warren,Willie
-1258,2010,2,55,PF,WKU,Evans,Jeremy
-1259,2010,2,56,C,Rutgers,Ndiaye,Hamady
-1260,2010,2,57,PF,Florida State,Reid,Ryan
-1261,2010,2,58,PF,UTEP,Caracter,Derrick
-1262,2010,2,59,SF,Connecticut,Robinson,Stanley
-1263,2010,2,60,PF,Miami,Collins,Dwayne
-1264,2011,1,1,PG,Duke,Irving,Kyrie
-1265,2011,1,2,SF/PF,Arizona,Williams,Derrick
-1266,2011,1,3,C,Kentucky,Kanter,Enes
-1267,2011,1,4,C/PF,Texas,Thompson,Tristan
-1268,2011,1,5,C,Lietuvos rytas Vilnius,Valančiūnas,Jonas
-1269,2011,1,6,PF,Partizan Belgrade,Veselý,Jan
-1270,2011,1,7,C,Fuenlabrada,Biyombo,Bismack
-1271,2011,1,8,PG,Kentucky,Knight,Brandon
-1272,2011,1,9,PG,Connecticut,Walker,Kemba
-1273,2011,1,10,PG/SG,BYU,Fredette,Jimmer
-1274,2011,1,11,SG,Washington State,Thompson,Klay
-1275,2011,1,12,SG,Colorado,Burks,Alec
-1276,2011,1,13,PF,Kansas,Morris,Markieff
-1277,2011,1,14,PF/SF,Kansas,Morris,Marcus
-1278,2011,1,15,SF,San Diego State,Leonard,Kawhi
-1279,2011,1,16,C,USC,Vučević,Nikola
-1280,2011,1,17,SG,Georgia Tech,Shumpert,Iman
-1281,2011,1,18,SF,Florida State,Singleton,Chris
-1282,2011,1,19,SF,Tennessee,Harris,Tobias
-1283,2011,1,20,PF,Benetton Treviso,Motiejūnas,Donatas
-1284,2011,1,21,PG,Duke,Smith,Nolan
-1285,2011,1,22,PF,Morehead State,Faried,Kenneth
-1286,2011,1,23,PF,Real Madrid,Mirotić,Nikola
-1287,2011,1,24,PG,Boston College,Jackson,Reggie
-1288,2011,1,25,SG,Providence,Brooks,MarShon
-1289,2011,1,26,SG,Texas,Hamilton,Jordan
-1290,2011,1,27,PF,Purdue,Johnson,JaJuan
-1291,2011,1,28,PG,Cleveland State,Cole,Norris
-1292,2011,1,29,PG,Texas,Joseph,Cory
-1293,2011,1,30,SG,Marquette,Butler,Jimmy
-1294,2011,2,31,SF/SG,Cibona Zagreb,Bogdanović,Bojan
-1295,2011,2,32,PF,Richmond,Harper,Justin
-1296,2011,2,33,SF,Duke,Singler,Kyle
-1297,2011,2,34,PG,Butler,Mack,Shelvin
-1298,2011,2,35,SF,UCLA,Honeycutt,Tyler
-1299,2011,2,36,PF,Maryland,Williams,Jordan
-1300,2011,2,37,PF,Georgia,Thompkins,Trey
-1301,2011,2,38,SF,Florida,Parsons,Chandler
-1302,2011,2,39,PF,Tokyo Apache,Tyler,Jeremy
-1303,2011,2,40,PF,Wisconsin,Leuer,Jon
-1304,2011,2,41,PG,Michigan,Morris,Darius
-1305,2011,2,42,SF,Union Olimpija,Bertāns,Dāvis
-1306,2011,2,43,SG,UCLA,Lee,Malcolm
-1307,2011,2,44,PG,Hofstra,Jenkins,Charles
-1308,2011,2,45,C,Kentucky,Harrellson,Josh
-1309,2011,2,46,PG,College of Charleston,Goudelock,Andrew
-1310,2011,2,47,SG,Georgia,Leslie,Travis
-1311,2011,2,48,C,Oakland,Benson,Keith
-1312,2011,2,49,PG,Kansas,Selby,Josh
-1313,2011,2,50,PF,Temple,Allen,Lavoy
-1314,2011,2,51,SG,Ohio State,Diebler,Jon
-1315,2011,2,52,PF,Florida,Macklin,Vernon
-1316,2011,2,53,SG,Kentucky,Liggins,DeAndre
-1317,2011,2,54,PF,Maccabi Tel Aviv,Macvan,Milan
-1318,2011,2,55,SG,Purdue,Moore,Etwaun
-1319,2011,2,56,PF,Bakersfield Jam,Maduabum,Chukwudiebere
-1320,2011,2,57,SF,Al Rayyan,Ngombo,Tanguy
-1321,2011,2,58,PF,Gold Coast Blaze,Majok,Ater
-1322,2011,2,59,SG,Albacomp,Hanga,Ádám
-1323,2011,2,60,PG,Washington,Thomas,Isaiah
-1324,2012,1,1,PF/C,Kentucky,Davis,Anthony
-1325,2012,1,2,SF,Kentucky,Kidd-Gilchrist,Michael
-1326,2012,1,3,SG,Florida,Beal,Bradley
-1327,2012,1,4,SG,Syracuse,Waiters,Dion
-1328,2012,1,5,PF,Kansas,Robinson,Thomas
-1329,2012,1,6,PG,Weber St.,Lillard,Damian
-1330,2012,1,7,SF,North Carolina,Barnes,Harrison
-1331,2012,1,8,SG,Washington,Ross,Terrence
-1332,2012,1,9,C,Connecticut,Drummond,Andre
-1333,2012,1,10,SG,Duke,Rivers,Austin
-1334,2012,1,11,C,Illinois,Leonard,Meyers
-1335,2012,1,12,SG,Connecticut,Lamb,Jeremy
-1336,2012,1,13,PG,North Carolina,Marshall,Kendall
-1337,2012,1,14,PF,North Carolina,Henson,John
-1338,2012,1,15,SF,St. John's,Harkless,Maurice
-1339,2012,1,16,PF,Iowa St.,White,Royce
-1340,2012,1,17,C,North Carolina,Zeller,Tyler
-1341,2012,1,18,PF,Kentucky,Jones,Terrence
-1342,2012,1,19,PF,St. Bonaventure,Nicholson,Andrew
-1343,2012,1,20,SG,Poitiers Basket,Fournier,Evan
-1344,2012,1,21,PF,Ohio St.,Sullinger,Jared
-1345,2012,1,22,C,Syracuse,Melo,Fab
-1346,2012,1,23,SG,Vanderbilt,Jenkins,John
-1347,2012,1,24,SG,Oregon St.,Cunningham,Jared
-1348,2012,1,25,PG,Washington,Wroten,Tony
-1349,2012,1,26,C,Duke,Plumlee,Miles
-1350,2012,1,27,PF,Mississippi St.,Moultrie,Arnett
-1351,2012,1,28,SF,Baylor,Jones,"III, Perry"
-1352,2012,1,29,PG,Kentucky,Teague,Marquis
-1353,2012,1,30,C,Vanderbilt,Ezeli,Festus
-1354,2012,2,31,SF,Vanderbilt,Taylor,Jeffery
-1355,2012,2,32,SG,Banca Cívica Sevilla,Satoranský,Tomáš
-1356,2012,2,33,C,Florida St.,James,Bernard
-1357,2012,2,34,SF,Marquette,Crowder,Jae
-1358,2012,2,35,PF,Michigan St.,Green,Draymond
-1359,2012,2,36,SG,UC Santa Barbara,Johnson,Orlando
-1360,2012,2,37,PF,Baylor,Acy,Quincy
-1361,2012,2,38,SF,Baylor,Miller,Quincy
-1362,2012,2,39,SF,Texas A&M,Middleton,Khris
-1363,2012,2,40,SG,Memphis,Barton,Will
-1364,2012,2,41,PG,Kansas,Taylor,Tyshawn
-1365,2012,2,42,SG,Kentucky,Lamb,Doron
-1366,2012,2,43,PF,Virginia,Scott,Mike
-1367,2012,2,44,SG,Missouri,English,Kim
-1368,2012,2,45,C,LSU,Hamilton,Justin
-1369,2012,2,46,SF,Kentucky,Miller,Darius
-1370,2012,2,47,SG,Tennessee Tech,Murphy,Kevin
-1371,2012,2,48,SF,Olympiacos,Papanikolaou,Kostas
-1372,2012,2,49,PF,Norfolk St.,O'Quinn,Kyle
-1373,2012,2,50,PF,Banvit,Turkyilmaz,Izzet
-1374,2012,2,51,SF,Syracuse,Joseph,Kris
-1375,2012,2,52,C,Clinicas Rincón,Kuzmić,Ognjen
-1376,2012,2,53,PF,Galatasaray,Aldemir,Furkan
-1377,2012,2,54,SF,Spirou Charleroi,Shengelia,Tornike
-1378,2012,2,55,SG,Marquette,Johnson-Odom,Darius
-1379,2012,2,56,PF,Cibona Zagreb,Zubčić,Tomislav
-1380,2012,2,57,PF,Pınar Karşıyaka,Karaman,İlkan
-1381,2012,2,58,SF,Purdue,Hummel,Robbie
-1382,2012,2,59,PG,Missouri,Denmon,Marcus
-1383,2012,2,60,C,Gonzaga,Sacre,Robert
-1384,2013,1,1,PF/SF,UNLV,Bennett,Anthony
-1385,2013,1,2,SG/PG,Indiana,Oladipo,Victor
-1386,2013,1,3,SF,Georgetown,Porter,Otto
-1387,2013,1,4,C/PF,Indiana,Zeller,Cody
-1388,2013,1,5,C,Maryland,Len,Alex
-1389,2013,1,6,C,Kentucky,Noel,Nerlens
-1390,2013,1,7,SG,Kansas,McLemore,Ben
-1391,2013,1,8,SG,Georgia,Caldwell-Pope,Kentavious
-1392,2013,1,9,PG,Michigan,Burke,Trey
-1393,2013,1,10,SG,Lehigh,McCollum,C. J.
-1394,2013,1,11,PG,Syracuse,Carter-Williams,Michael
-1395,2013,1,12,C,Pittsburgh,Adams,Steven
-1396,2013,1,13,C,Gonzaga,Olynyk,Kelly
-1397,2013,1,14,SG/SF,UCLA,Muhammad,Shabazz
-1398,2013,1,15,SF/PF,Filathlitikos,Antetokounmpo,Giannis
-1399,2013,1,16,C,Estudiantes,Nogueira,Lucas
-1400,2013,1,17,PG,Phantoms Braunschweig,Schröder,Dennis
-1401,2013,1,18,PG,Miami (FL),Larkin,Shane
-1402,2013,1,19,SG/SF,Triumph Lyubertsy,Karasev,Sergey
-1403,2013,1,20,SF,New Mexico,Snell,Tony
-1404,2013,1,21,C,Louisville,Dieng,Gorgui
-1405,2013,1,22,C,Duke,Plumlee,Mason
-1406,2013,1,23,SF,Arizona,Hill,Solomon
-1407,2013,1,24,SG,Michigan,Hardaway,"Jr., Tim"
-1408,2013,1,25,SF,North Carolina,Bullock,Reggie
-1409,2013,1,26,SG/SF,Colorado,Roberson,André
-1410,2013,1,27,C,Cholet Basket,Gobert,Rudy
-1411,2013,1,28,SF,ASVEL Basket,Jean-Charles,Livio
-1412,2013,1,29,SG,Kentucky,Goodwin,Archie
-1413,2013,1,30,PG,Lietuvos Rytas,Nedović,Nemanja
-1414,2013,2,31,SG,California,Crabbe,Allen
-1415,2013,2,32,SG/SF,FC Barcelona,Abrines,Álex
-1416,2013,2,33,SG,Arizona State,Felix,Carrick
-1417,2013,2,34,PG,Murray State,Canaan,Isaiah
-1418,2013,2,35,SG,Rio Grande Valley Vipers,Rice,"Jr., Glen"
-1419,2013,2,36,PG,Detroit,McCallum,"Jr., Ray"
-1420,2013,2,37,PF,North Texas,Mitchell,Tony
-1421,2013,2,38,PG,South Dakota State,Wolters,Nate
-1422,2013,2,39,C,Kansas,Withey,Jeff
-1423,2013,2,40,PF,Arizona,Jerrett,Grant
-1424,2013,2,41,SG,San Diego State,Franklin,Jamaal
-1425,2013,2,42,PG,Baylor,Jackson,Pierre
-1426,2013,2,43,SG,Providence,Ledo,Ricky
-1427,2013,2,44,C,Bucknell,Muscala,Mike
-1428,2013,2,45,PF/C,FC Barcelona,Todorović,Marko
-1429,2013,2,46,PG,Virginia Tech,Green,Erick
-1430,2013,2,47,PG,Gipuzkoa Basket,Neto,Raul
-1431,2013,2,48,PF,Duke,Kelly,Ryan
-1432,2013,2,49,PF,Florida,Murphy,Erik
-1433,2013,2,50,SF,Long Beach State,Ennis,James
-1434,2013,2,51,PF,Oklahoma,Osby,Romero
-1435,2013,2,52,PG,NC State,Brown,Lorenzo
-1436,2013,2,53,C,Colorado State,Iverson,Colton
-1437,2013,2,54,PF,Oregon,Kazemi,Arsalan
-1438,2013,2,55,C,Partizan Belgrade,Lauvergne,Joffrey
-1439,2013,2,56,PG,Louisville,Siva,Peyton
-1440,2013,2,57,C,Missouri,Oriakhi,Alex
-1441,2013,2,58,SF,Ohio State,Thomas,Deshaun
-1442,2013,2,59,PF,Valencia Basket,Dubljević,Bojan
-1443,2013,2,60,SF,BK Ventspils,Timma,Jānis
-1444,2014,1,1,SF/SG,Kansas,Wiggins,Andrew
-1445,2014,1,2,SF/PF,Duke,Parker,Jabari
-1446,2014,1,3,C,Kansas,Embiid,Joel
-1447,2014,1,4,PF,Arizona,Gordon,Aaron
-1448,2014,1,5,PG/SG,Australian Institute of Sport,Exum,Dante
-1449,2014,1,6,PG,Oklahoma State,Smart,Marcus
-1450,2014,1,7,PF,Kentucky,Randle,Julius
-1451,2014,1,8,SG,Michigan,Stauskas,Nik
-1452,2014,1,9,PF,Indiana,Vonleh,Noah
-1453,2014,1,10,PG,Louisiana–Lafayette,Payton,Elfrid
-1454,2014,1,11,SF,Creighton,McDermott,Doug
-1455,2014,1,12,SF/PF,Cibona Zagreb,Saric,Dario
-1456,2014,1,13,SG,UCLA,LaVine,Zach
-1457,2014,1,14,SF,North Carolina State,Warren,T. J.
-1458,2014,1,15,PF,Michigan State,Payne,Adreian
-1459,2014,1,16,C,Cedevita Zagreb,Nurkić,Jusuf
-1460,2014,1,17,SG/SF,Kentucky,Young,James
-1461,2014,1,18,PG,Syracuse,Ennis,Tyler
-1462,2014,1,19,SG,Michigan State,Harris,Gary
-1463,2014,1,20,SF,EC Pinheiros,Caboclo,Bruno
-1464,2014,1,21,PF,Michigan,McGary,Mitch
-1465,2014,1,22,SG,UCLA,Adams,Jordan
-1466,2014,1,23,SG,Duke,Hood,Rodney
-1467,2014,1,24,PG,Connecticut,Napier,Shabazz
-1468,2014,1,25,C,Élan Chalon,Capela,Clint
-1469,2014,1,26,SG,Texas Legends,Hairston,P. J.
-1470,2014,1,27,SG,Partizan Belgrade,Bogdanović,Bogdan
-1471,2014,1,28,SG,Washington,Wilcox,C. J.
-1472,2014,1,29,SF/PF,Stanford,Huestis,Josh
-1473,2014,1,30,SF,UCLA,Anderson,Kyle
-1474,2014,2,31,SF,Chorale Roanne,Inglis,Damien
-1475,2014,2,32,SF,Clemson,McDaniels,K. J.
-1476,2014,2,33,SG,Virginia,Harris,Joe
-1477,2014,2,34,SF,Wichita State,Early,Cleanthony
-1478,2014,2,35,PF,Tennessee,Stokes,Jarnell
-1479,2014,2,36,PF,Louisiana State,O'Bryant,"III, Johnny"
-1480,2014,2,37,SF,Connecticut,Daniels,DeAndre
-1481,2014,2,38,PG/SG,Colorado,Dinwiddie,Spencer
-1482,2014,2,39,SF,Syracuse,Grant,Jerami
-1483,2014,2,40,SF,Michigan,Robinson,"III, Glenn"
-1484,2014,2,41,PF/C,Mega Vizura,Jokić,Nikola
-1485,2014,2,42,PG/SG,Arizona,Johnson,Nick
-1486,2014,2,43,C,CB Gran Canaria,Tavares,Walter
-1487,2014,2,44,SG,Oklahoma State,Brown,Markel
-1488,2014,2,45,PF,Stanford,Powell,Dwight
-1489,2014,2,46,PG,Missouri,Clarkson,Jordan
-1490,2014,2,47,PG/SG,Louisville,Smith,Russ
-1491,2014,2,48,SG/SF,Pittsburgh,Patterson,Lamar
-1492,2014,2,49,PF/C,New Mexico,Bairstow,Cameron
-1493,2014,2,50,C,Green Bay,Brown,Alec
-1494,2014,2,51,SF,Delaware 87ers,Antetokounmpo,Thanasis
-1495,2014,2,52,PG,Mega Vizura,Micić,Vasilije
-1496,2014,2,53,SF,Olimpia Milano,Gentile,Alessandro
-1497,2014,2,54,SG,Mega Vizura,Dangubić,Nemanja
-1498,2014,2,55,PG,Xavier,Christon,Semaj
-1499,2014,2,56,SG/SF,Iowa,Marble,Devyn
-1500,2014,2,57,PF/C,Paris-Levallois Basket,Labeyrie,Louis
-1501,2014,2,58,SG,Tennessee,McRae,Jordan
-1502,2014,2,59,PG/SG,San Diego State,Thames,Xavier
-1503,2014,2,60,PF,Baylor,Jefferson,Cory
-1504,2015,1,1,C,Kentucky,Towns,Karl-Anthony
-1505,2015,1,2,PG,Ohio State,Russell,D'Angelo
-1506,2015,1,3,C,Duke,Okafor,Jahlil
-1507,2015,1,4,PF/C,Baloncesto Sevilla,Porziņģis,Kristaps
-1508,2015,1,5,SG/SF,FC Barcelona,Hezonja,Mario
-1509,2015,1,6,C,Kentucky,Cauley-Stein,Willie
-1510,2015,1,7,PG,Guangdong Southern Tigers,Mudiay,Emmanuel
-1511,2015,1,8,SF,Arizona,Johnson,Stanley
-1512,2015,1,9,C,Wisconsin,Kaminsky,Frank
-1513,2015,1,10,SF,Duke,Winslow,Justise
-1514,2015,1,11,C,Texas,Turner,Myles
-1515,2015,1,12,PF,Kentucky,Lyles,Trey
-1516,2015,1,13,SG,Kentucky,Booker,Devin
-1517,2015,1,14,PG,Murray State,Payne,Cameron
-1518,2015,1,15,SG,Kansas,Oubre,"Jr., Kelly"
-1519,2015,1,16,PG,Louisville,Rozier,Terry
-1520,2015,1,17,SG,UNLV,Vaughn,Rashad
-1521,2015,1,18,SF,Wisconsin,Dekker,Sam
-1522,2015,1,19,PG,Notre Dame,Grant,Jerian
-1523,2015,1,20,PG,Utah,Wright,Delon
-1524,2015,1,21,SF,Virginia,Anderson,Justin
-1525,2015,1,22,PF,Arkansas,Portis,Bobby
-1526,2015,1,23,SF,Arizona,Hollis-Jefferson,Rondae
-1527,2015,1,24,PG,Duke,Jones,Tyus
-1528,2015,1,25,PF,LSU,Martin,Jarell
-1529,2015,1,26,C,Partizan Belgrade,Milutinov,Nikola
-1530,2015,1,27,PF,Wyoming,Nance,"Jr., Larry"
-1531,2015,1,28,SG,Georgia State,Hunter,R. J.
-1532,2015,1,29,PF,Syracuse,McCullough,Chris
-1533,2015,1,30,PF,UCLA,Looney,Kevon
-1534,2015,2,31,SG/SF,Anadolu Efes,Osman,Cedi
-1535,2015,2,32,PF,Louisville,Harrell,Montrezl
-1536,2015,2,33,PF,LSU,Mickey,Jordan
-1537,2015,2,34,SF,Stanford,Brown,Anthony
-1538,2015,2,35,C,Baloncesto Sevilla,Hernangómez,Willy
-1539,2015,2,36,PF/C,Syracuse,Christmas,Rakeem
-1540,2015,2,37,SF/PF,Bowling Green,Holmes,Richaun
-1541,2015,2,38,SG,Villanova,Hilliard,Darrun
-1542,2015,2,39,SF,Estudiantes de Bahía,Vaulet,Juan Pablo
-1543,2015,2,40,SG,Tennessee,Richardson,Josh
-1544,2015,2,41,SF,Notre Dame,Connaughton,Pat
-1545,2015,2,42,PG,Boston College,Hanlan,Olivier
-1546,2015,2,43,PG,Oregon,Young,Joseph
-1547,2015,2,44,PG,Kentucky,Harrison,Andrew
-1548,2015,2,45,PG,William & Mary,Thornton,Marcus
-1549,2015,2,46,SG,UCLA,Powell,Norman
-1550,2015,2,47,C,Žalgiris Kaunas,Gudaitis,Artūras
-1551,2015,2,48,C,Kentucky,Johnson,Dakari
-1552,2015,2,49,PF,Iowa,White,Aaron
-1553,2015,2,50,SG,FC Barcelona,Eriksson,Marcus
-1554,2015,2,51,PG,Eastern Washington,Harvey,Tyler
-1555,2015,2,52,C,IMG Academy,Bhamara,Satnam Singh
-1556,2015,2,53,SF,St. John's,Pointer,Sir'Dominic
-1557,2015,2,54,SF,Gipuzkoa Basket,Díez,Dani
-1558,2015,2,55,PF,Massachusetts,Lalanne,Cady
-1559,2015,2,56,SF,Michigan State,Dawson,Branden
-1560,2015,2,57,PG,Baloncesto Sevilla,Radičević,Nikola
-1561,2015,2,58,SG/SF,North Carolina,Tokoto,J. P.
-1562,2015,2,59,PF,Olympiacos,Agravanis,Dimitrios
-1563,2015,2,60,PF,Red Star Belgrade,Mitrović,Luka
-1564,2016,1,1,PF/PG,LSU,Simmons,Ben
-1565,2016,1,2,SF,Duke,Ingram,Brandon
-1566,2016,1,3,SF/SG,California,Brown,Jaylen
-1567,2016,1,4,PF/C,Maccabi FOX Tel Aviv,Bender,Dragan
-1568,2016,1,5,PG,Providence,Dunn,Kris
-1569,2016,1,6,SG,Oklahoma,Hield,Buddy
-1570,2016,1,7,SG/PG,Kentucky,Murray,Jamal
-1571,2016,1,8,PF,Washington,Chriss,Marquese
-1572,2016,1,9,C,Utah,Poeltl,Jakob
-1573,2016,1,10,PF,Orangeville Prep,Maker,Thon
-1574,2016,1,11,PF/C,Gonzaga,Sabonis,Domantas
-1575,2016,1,12,PF,Baylor,Prince,Taurean
-1576,2016,1,13,C,Panathinaikos,Papagiannis,Georgios
-1577,2016,1,14,SG/SF,Michigan State,Valentine,Denzel
-1578,2016,1,15,SF/PF,Movistar Estudiantes,Hernangómez,Juan
-1579,2016,1,16,PF,Rouen Métropole,Yabusele,Guerschon
-1580,2016,1,17,PG,Vanderbilt,Baldwin,"IV, Wade"
-1581,2016,1,18,PF,Marquette,Ellenson,Henry
-1582,2016,1,19,SG,Florida State,Beasley,Malik
-1583,2016,1,20,SG,Michigan,LeVert,Caris
-1584,2016,1,21,SF,Saint Joseph's,Bembry,DeAndre'
-1585,2016,1,22,SG,Syracuse,Richardson,Malachi
-1586,2016,1,23,C,KK Cibona,Žižić,Ante
-1587,2016,1,24,SG/SF,Mega Leks,Luwawu-Cabarrot,Timothé
-1588,2016,1,25,PF,North Carolina,Johnson,Brice
-1589,2016,1,26,SG/SF,Anadolu Efes,Korkmaz,Furkan
-1590,2016,1,27,PF,New Mexico State,Siakam,Pascal
-1591,2016,1,28,PF/C,Kentucky,Labissière,Skal
-1592,2016,1,29,PG/SG,Washington,Murray,Dejounte
-1593,2016,1,30,C,Vanderbilt,Jones,Damian
-1594,2016,2,31,PF/C,Michigan State,Davis,Deyonta
-1595,2016,2,32,C,Mega Leks,Zubac,Ivica
-1596,2016,2,33,PF/C,Kansas,Diallo,Cheick
-1597,2016,2,34,PG,Kentucky,Ulis,Tyler
-1598,2016,2,35,SG/SF,Mega Leks,Zagorac,Rade
-1599,2016,2,36,PG/SG,Virginia,Brogdon,Malcolm
-1600,2016,2,37,PF/C,Louisville,Onuaku,Chinanu
-1601,2016,2,38,SG/SF,UNLV,McCaw,Patrick
-1602,2016,2,39,PG,Elan !,Michineau,David
-1603,2016,2,40,C,Maryland,Stone,Diamond
-1604,2016,2,41,PF/C,UNLV,Zimmerman,Stephen
-1605,2016,2,42,PG/SG,Seton Hall,Whitehead,Isaiah
-1606,2016,2,43,C,Xinjiang Flying Tigers,Zhou,"Qi,"
-1607,2016,2,44,SG,ASC Denain-Voltaire,Cordinier,Isaia
-1608,2016,2,45,PG,Notre Dame,Jackson,Demetrius
-1609,2016,2,46,C,Purdue,Hammons,A. J.
-1610,2016,2,47,SF,Maryland,Layman,Jake
-1611,2016,2,48,SG/SF,FC Bayern Munich,Zipser,Paul
-1612,2016,2,49,SF,Syracuse,Gbinije,Michael
-1613,2016,2,50,PF,Iowa State,Niang,Georges
-1614,2016,2,51,PF,Providence,Bentil,Ben
-1615,2016,2,52,PF/C,Weber State,Bolomboy,Joel
-1616,2016,2,53,PF,Le Mans Sarthe,Cornelie,Petr
-1617,2016,2,54,PG,Oakland,Felder,Kay
-1618,2016,2,55,PG,North Carolina,Paige,Marcus
-1619,2016,2,56,SG/SF,Connecticut,Hamilton,Daniel
-1620,2016,2,57,C,Fujian Sturgeons,Wang,"Zhelin,"
-1621,2016,2,58,SF,Iowa State,Nader,Abdel
-1622,2016,2,59,PG/SG,Oklahoma,Cousins,Isaiah
-1623,2016,2,60,PG,California,Wallace,Tyrone
-1624,2017,1,1,PG/SG,Washington,Fultz,Markelle
-1625,2017,1,2,PG,UCLA,Ball,Lonzo
-1626,2017,1,3,SF,Duke,Tatum,Jayson
-1627,2017,1,4,SF,Kansas,Jackson,Josh
-1628,2017,1,5,PG,Kentucky,Fox,De'Aaron
-1629,2017,1,6,SF/PF,Florida State,Isaac,Jonathan
-1630,2017,1,7,PF,Arizona,Markkanen,Lauri
-1631,2017,1,8,PG,SIG Strasbourg,Ntilikina,Frank
-1632,2017,1,9,PG,NC State,Smith,"Jr., Dennis"
-1633,2017,1,10,C/PF,Gonzaga,Collins,Zach
-1634,2017,1,11,SG,Kentucky,Monk,Malik
-1635,2017,1,12,SG,Duke,Kennard,Luke
-1636,2017,1,13,SG,Louisville,Mitchell,Donovan
-1637,2017,1,14,PF/C,Kentucky,Adebayo,Bam
-1638,2017,1,15,SF,North Carolina,Jackson,Justin
-1639,2017,1,16,C,Creighton,Patton,Justin
-1640,2017,1,17,PF/SF,Michigan,Wilson,D. J.
-1641,2017,1,18,PF,UCLA,Leaf,T. J.
-1642,2017,1,19,PF,Wake Forest,Collins,John
-1643,2017,1,20,PF/C,Duke,Giles,Harry
-1644,2017,1,21,SG,Adelaide 36ers,Ferguson,Terrance
-1645,2017,1,22,C,Texas,Allen,Jarrett
-1646,2017,1,23,SF,Indiana,Anunoby,OG
-1647,2017,1,24,PF,Syracuse,Lydon,Tyler
-1648,2017,1,25,C,Herbalife Gran Canaria,Pasečņiks,Anžejs
-1649,2017,1,26,PF,Purdue,Swanigan,Caleb
-1650,2017,1,27,PF,Utah,Kuzma,Kyle
-1651,2017,1,28,PF/C,North Carolina,Bradley,Tony
-1652,2017,1,29,PG/SG,Colorado,White,Derrick
-1653,2017,1,30,SG,Villanova,Hart,Josh
-1654,2017,2,31,PG,Duke,Jackson,Frank
-1655,2017,2,32,SG,Miami,Reed,Davon
-1656,2017,2,33,SF,Kansas State,Iwundu,Wes
-1657,2017,2,34,PG,Kansas,Mason,"III, Frank"
-1658,2017,2,35,PF,California,Rabb,Ivan
-1659,2017,2,36,PF,FMP Beograd,Bolden,Jonah
-1660,2017,2,37,SF/PF,SMU,Ojeleye,Semi
-1661,2017,2,38,PF,Oregon,Bell,Jordan
-1662,2017,2,39,PG,Oklahoma State,Evans,Jawun
-1663,2017,2,40,SG,Florida State,Bacon,Dwayne
-1664,2017,2,41,SG,Oregon,Dorsey,Tyler
-1665,2017,2,42,PF,Indiana,Bryant,Thomas
-1666,2017,2,43,PF/C,Žalgiris Kaunas,Hartenstein,Isaiah
-1667,2017,2,44,SG,Houston,Dotson,Damyean
-1668,2017,2,45,SF,Oregon,Brooks,Dillon
-1669,2017,2,46,SG,SMU,Brown,Sterling
-1670,2017,2,47,C,UCLA,Anigbogu,Ike
-1671,2017,2,48,SG,South Carolina,Thornwell,Sindarius
-1672,2017,2,49,SF,Mega Leks,Čančar,Vlatko
-1673,2017,2,50,PF/C,Nanterre 92,Lessort,Mathias
-1674,2017,2,51,PG,Iowa State,Morris,Monté
-1675,2017,2,52,PG,Xavier,Sumner,Edmond
-1676,2017,2,53,SG,Arizona,Allen,Kadeem
-1677,2017,2,54,SF,Valparaiso,Peters,Alec
-1678,2017,2,55,PG,Gonzaga,Williams-Goss,Nigel
-1679,2017,2,56,SG,California,Bird,Jabari
-1680,2017,2,57,PF,FC Barcelona Lassa,Vezenkov,Sasha
-1681,2017,2,58,PG,Mega Leks,Jaramaz,Ognjen
-1682,2017,2,59,SF,Clemson,Blossomgame,Jaron
-1683,2017,2,60,PF/C,Mega Leks,Kaba,Alpha
+845,2004,1,1,C,Southwest Atlanta Christian Academy,Dwight,Howard
+846,2004,1,2,PF/C,Connecticut,Emeka,Okafor
+847,2004,1,3,SG,Connecticut,Ben,Gordon
+848,2004,1,4,PG,Peoria HS,Shaun,Livingston
+849,2004,1,5,PG,Wisconsin,Devin,Harris
+850,2004,1,6,G/F,Stanford,Josh,Childress
+851,2004,1,7,SF,Duke,Luol,Deng
+852,2004,1,8,C,BYU,Rafael,Araújo
+853,2004,1,9,SF,Arizona,Andre,Iguodala
+854,2004,1,10,SF,Oregon,Luke,Jackson
+855,2004,1,11,F/C,Skonto,Andris,Biedriņš
+856,2004,1,12,C,Bakersfield HS,Robert,Swift
+857,2004,1,13,PG,Lincoln HS,Sebastian,Telfair
+858,2004,1,14,PF,Minnesota,Kris,Humphries
+859,2004,1,15,PF/C,Prentiss HS ,Al,Jefferson
+860,2004,1,16,SG,Nevada,Kirk,Snyder
+861,2004,1,17,SF,Oak Hill Academy,Josh,Smith
+862,2004,1,18,SG,St. Benedict's Prep,J. R.,Smith
+863,2004,1,19,SF,South Kent School,Dorell,Wright
+864,2004,1,20,PG,Saint Joseph's,Jameer,Nelson
+865,2004,1,21,C,Metis Varese,Pavel,Podkolzin
+866,2004,1,22,SF,CSKA Moscow,Viktor,Khryapa
+867,2004,1,23,SG,CSKA Moscow,Sergei,Monia
+868,2004,1,24,PG,Saint Joseph's,Delonte,West
+869,2004,1,25,SG,Oklahoma State,Tony,Allen
+870,2004,1,26,SG,Western Carolina,Kevin,Martin
+871,2004,1,27,SG,Snaidero Udine,Saša,Vujačić
+872,2004,1,28,PG,Breil Milano,Beno,Udrih
+873,2004,1,29,C,Colorado,David,Harrison
+874,2004,2,30,C,FC Barcelona,Anderson,Varejão
+875,2004,2,31,C,Iowa State,Jackson,Vroman
+876,2004,2,32,C,Caguas,Peter John,Ramos
+877,2004,2,33,PG,Xavier,Lionel,Chalmers
+878,2004,2,34,SF,Southeastern Illinois,Donta,Smith
+879,2004,2,35,F/G,Texas Tech,Andre,Emmett
+880,2004,2,36,PG,Memphis,Antonio,Burks
+881,2004,2,37,PG,Texas,Royal,Ivey
+882,2004,2,38,PG,Duke,Chris,Duhon
+883,2004,2,39,PF,Roseto Basket,Albert,Miralles
+884,2004,2,40,SF,Mississippi,Justin,Reed
+885,2004,2,41,G,North Carolina Central,David,Young
+886,2004,2,42,SF,Dijon,Viktor,Sanikidze
+887,2004,2,43,SF,UCLA,Trevor,Ariza
+888,2004,2,44,SG,Florida State,Tim,Pickett
+889,2004,2,45,SF,Michigan,Bernard,Robinson
+890,2004,2,46,C,Yonsei University,Ha,Seung-Jin
+891,2004,2,47,PF,Cal State Fullerton,Pape,Sow
+892,2004,2,48,SG,Morehead State,Ricky,Minard
+893,2004,2,49,PF,Khimik Yuzhny,Sergei,Lishouk
+894,2004,2,50,PG,Maroussi,Vassilis,Spanoulis
+895,2004,2,51,SF,FC Barcelona,Christian,Drejer
+896,2004,2,52,SG,Xavier,Romain,Sato
+897,2004,2,53,SF,Vanderbilt,Matt,Freije
+898,2004,2,54,SG,Missouri,Rickey,Paulding
+899,2004,2,55,PG,Manhattan,Luis,Flores
+900,2004,2,56,PF,Providence,Marcus,Douthit
+901,2004,2,57,G,Skha Jakutia Yakutsk ,Sergei,Karaulov
+902,2004,2,58,PG,Gonzaga,Blake,Stepp
+903,2004,2,59,G,Georgia,Rashad,Wright
+904,2005,1,1,C,Utah,Andrew,Bogut
+905,2005,1,2,F,North Carolina,Marvin,Williams
+906,2005,1,3,PG,Illinois,Deron,Williams
+907,2005,1,4,PG,Wake Forest,Chris,Paul
+908,2005,1,5,G,North Carolina,Raymond,Felton
+909,2005,1,6,G/F,Seattle Prep. School,Martell,Webster
+910,2005,1,7,F,Connecticut,Charlie,Villanueva
+911,2005,1,8,C,Arizona,Channing,Frye
+912,2005,1,9,F,Arizona State,Ike,Diogu
+913,2005,1,10,C,St. Joseph HS,Andrew,Bynum
+914,2005,1,11,F/C,Unicaja Málaga,Fran,Vázquez
+915,2005,1,12,F,CSKA Moscow,Yaroslav,Korolev
+916,2005,1,13,F,North Carolina,Sean,May
+917,2005,1,14,G,North Carolina,Rashad,McCants
+918,2005,1,15,G/F,Texas A&M,Antoine,Wright
+919,2005,1,16,F,Oklahoma State,Joey,Graham
+920,2005,1,17,SF,New Mexico,Danny,Granger
+921,2005,1,18,G/F,Gulf Shores Academy,Gerald,Green
+922,2005,1,19,F,Syracuse,Hakim,Warrick
+923,2005,1,20,G,NC State,Julius,Hodge
+924,2005,1,21,G,Washington,Nate,Robinson
+925,2005,1,22,G,Georgia Tech,Jarrett,Jack
+926,2005,1,23,G/F,Louisville,Francisco,García
+927,2005,1,24,G,Illinois,Luther,Head
+928,2005,1,25,C,Pau-Orthez,Johan,Petro
+929,2005,1,26,F,Cincinnati,Jason,Maxiell
+930,2005,1,27,F,Missouri,Linas,Kleiza
+931,2005,1,28,F/C,Le Havre,Ian,Mahinmi
+932,2005,1,29,F,Kansas,Wayne,Simien
+933,2005,1,30,PF,Florida,David,Lee
+934,2005,2,31,G,Arizona,Salim,Stoudamire
+935,2005,2,32,G,Duke,Daniel,Ewing
+936,2005,2,33,F,LSU,Brandon,Bass
+937,2005,2,34,G,Skyline HS,C. J.,Miles
+938,2005,2,35,F,IMG Academy,Ricky,Sánchez
+939,2005,2,36,F,Ülkerspor,Ersan,İlyasova
+940,2005,2,37,F,Gonzaga,Ronny,Turiaf
+941,2005,2,38,G,Marquette,Travis,Diener
+942,2005,2,39,G,Florida State,Von,Wafer
+943,2005,2,40,SG,Lanier HS,Monta,Ellis
+944,2005,2,41,G,KK Split,Roko,Ukić
+945,2005,2,42,F,Pittsburgh,Chris,Taft
+946,2005,2,43,C,KK Reflex,Mile,Ilić
+947,2005,2,44,C,Žalgiris Kaunas,Martynas,Andriuškevičius
+948,2005,2,45,SG,South Gwinnett HS,Louis,Williams
+949,2005,2,46,F,Climamio Bologna,Erazem,Lorbek
+950,2005,2,47,G,Indiana,Bracey,Wright
+951,2005,2,48,F,Real Madrid,Mickaël,Gelabale
+952,2005,2,49,F,South Kent School,Andray,Blatche
+953,2005,2,50,F,Providence,Ryan,Gomes
+954,2005,2,51,C,Walsh,Robert,Whaley
+955,2005,2,52,F,Real Madrid,Axel,Hervelle
+956,2005,2,53,G,Louisiana-Lafayette,Orien,Greene
+957,2005,2,54,G/F,UCLA,Dijon,Thompson
+958,2005,2,55,F,Mississippi State,Lawrence,Roberts
+959,2005,2,56,F,Westchester HS,Amir,Johnson
+960,2005,2,57,F/C,RheinEnergie Köln,Marcin,Gortat
+961,2005,2,58,F,Snaidero Udine,Uroš,Slokar
+962,2005,2,59,G,Efes Pilsen,Cenk,Akyol
+963,2005,2,60,G,Pepperdine,Alex,Acker
+964,2006,1,1,PF,Benetton Treviso,Andrea,Bargnani
+965,2006,1,2,PF,Texas,LaMarcus,Aldridge
+966,2006,1,3,SF,Gonzaga,Adam,Morrison
+967,2006,1,4,PF,LSU,Tyrus,Thomas
+968,2006,1,5,PF,Duke,Shelden,Williams
+969,2006,1,6,SG,Washington,Brandon,Roy
+970,2006,1,7,SG,Villanova,Randy,Foye
+971,2006,1,8,SF,Connecticut,Rudy,Gay
+972,2006,1,9,C,Bradley,Patrick,O'Bryant
+973,2006,1,10,C,Verviers-Pepinster,Mouhamed,Sene
+974,2006,1,11,SG,Duke,J. J.,Redick
+975,2006,1,12,C,Connecticut,Hilton,Armstrong
+976,2006,1,13,SG,Angelico Biella,Thabo,Sefolosha
+977,2006,1,14,SG,Arkansas,Ronnie,Brewer
+978,2006,1,15,SF,NC State,Cedric,Simmons
+979,2006,1,16,SF,Memphis,Rodney,Carney
+980,2006,1,17,PF,Memphis,Shawne,Williams
+981,2006,1,18,C,BC Kyiv,Oleksiy,Pecherov
+982,2006,1,19,G,Rutgers,Quincy,Douby
+983,2006,1,20,F,South Carolina,Renaldo,Balkman
+984,2006,1,21,PG,Kentucky,Rajon,Rondo
+985,2006,1,22,G,Connecticut,Marcus,Williams
+986,2006,1,23,F,Connecticut,Josh,Boone
+987,2006,1,24,PG,Villanova,Kyle,Lowry
+988,2006,1,25,G,Michigan State,Shannon,Brown
+989,2006,1,26,G,UCLA,Jordan,Farmar
+990,2006,1,27,G,Adecco Estudiantes,Sergio,Rodríguez
+991,2006,1,28,G,Michigan State,Maurice,Ager
+992,2006,1,29,G,Temple,Mardy,Collins
+993,2006,1,30,F,Gran Canaria,Joel,Freeland
+994,2006,2,31,G,Cincinnati,James,White
+995,2006,2,32,SF,Marquette,Steve,Novak
+996,2006,2,33,F,South Florida,Solomon,Jones
+997,2006,2,34,C,Michigan State,Paul,Davis
+998,2006,2,35,F,Texas,P.J.,Tucker
+999,2006,2,36,F,Boston College,Craig,Smith
+1000,2006,2,37,F,Washington,Bobby,Jones
+1001,2006,2,38,C,Partizan Belgrade,Kosta,Perović
+1002,2006,2,39,F,North Carolina,David,Noel
+1003,2006,2,40,G,Connecticut,Denham,Brown
+1004,2006,2,41,F,Illinois,James,Augustine
+1005,2006,2,42,G,Texas,Daniel,Gibson
+1006,2006,2,43,F,Objetivo São Carlos,Marcus,Vinicius
+1007,2006,2,44,F,Hapoel Galil Elyon,Lior,Eliyahu
+1008,2006,2,45,F,Florida State,Alexander,Johnson
+1009,2006,2,46,G,Illinois,Dee,Brown
+1010,2006,2,47,PF,Louisiana Tech,Paul,Millsap
+1011,2006,2,48,F,Dynamo St. Petersburg,Vladimir,Veremeenko
+1012,2006,2,49,F,California,Leon,Powe
+1013,2006,2,50,C,UCLA,Ryan,Hollins
+1014,2006,2,51,C,WTC Cornellà,Cheikh,Samb
+1015,2006,2,52,G,Miami (FL),Guillermo,Diaz
+1016,2006,2,53,G,Union Olimpija,Yotam,Halperin
+1017,2006,2,54,G,Arizona,Hassan,Adams
+1018,2006,2,55,F,Union Bank Lagos,Ejike,Ugboaja
+1019,2006,2,56,F,ASA BH Telecom,Edin,Bavčić
+1020,2006,2,57,C,PAOK,Loukas,Mavrokefalidis
+1021,2006,2,58,G,George Washington,J. R.,Pinnock
+1022,2006,2,59,F,Cibona Zagreb,Damir,Markota
+1023,2006,2,60,G,Iowa State,Will,Blalock
+1024,2007,1,1,C,Ohio State,Greg,Oden
+1025,2007,1,2,SF,Texas,Kevin,Durant
+1026,2007,1,3,C,Florida,Al,Horford
+1027,2007,1,4,PG,Ohio State,Mike,Conley
+1028,2007,1,5,SF,Georgetown,Jeff,Green
+1029,2007,1,6,PF,Guangdong Southern Tigers,Jianlian,Yi
+1030,2007,1,7,SF,Florida,Corey,Brewer
+1031,2007,1,8,PF,North Carolina,Brandan,Wright
+1032,2007,1,9,C,Florida,Joakim,Noah
+1033,2007,1,10,C,Washington,Spencer,Hawes
+1034,2007,1,11,PG,Texas A&M,Acie,Law
+1035,2007,1,12,PF,Georgia Tech,Thaddeus,Young
+1036,2007,1,13,SF,Kansas,Julian,Wright
+1037,2007,1,14,SF,Florida State,Al,Thornton
+1038,2007,1,15,SG,Eastern Washington,Rodney,Stuckey
+1039,2007,1,16,SG,USC,Nick,Young
+1040,2007,1,17,PF,Boston College,Sean,Williams
+1041,2007,1,18,SG,Fortitudo Bologna,Marco,Belinelli
+1042,2007,1,19,PG,Georgia Tech,Javaris,Crittenton
+1043,2007,1,20,PF,Colorado State,Jason,Smith
+1044,2007,1,21,SG,Ohio State,Daequan,Cook
+1045,2007,1,22,SF,Boston College,Jared,Dudley
+1046,2007,1,23,SF,DePaul,Wilson,Chandler
+1047,2007,1,24,SG,Joventut Badalona,Rudy,Fernández
+1048,2007,1,25,SG,Rice,Morris,Almond
+1049,2007,1,26,PG,Oregon,Aaron,Brooks
+1050,2007,1,27,SG,UCLA,Arron,Afflalo
+1051,2007,1,28,C,TAU Cerámica,Tiago,Splitter
+1052,2007,1,29,SF,Wisconsin,Alando,Tucker
+1053,2007,1,30,SG,Tapiolan Honka,Petteri,Koponen
+1054,2007,2,31,PF,Purdue,Carl,Landry
+1055,2007,2,32,PG,USC,Gabe,Pruitt
+1056,2007,2,33,SF,Arizona,Marcus,Williams
+1057,2007,2,34,PF,Nevada,Nick,Fazekas
+1058,2007,2,35,PF,LSU,Glen,Davis
+1059,2007,2,36,PF,Alabama,Jermareo,Davidson
+1060,2007,2,37,PF,Duke,Josh,McRoberts
+1061,2007,2,38,C,SK Cherkassy,Kyrylo,Fesenko
+1062,2007,2,39,C,Široki Brijeg,Stanko,Barać
+1063,2007,2,40,SF,Beijing Olympians,Yue,Sun
+1064,2007,2,41,PF,Florida,Chris,Richard
+1065,2007,2,42,SG,Vanderbilt,Derrick,Byars
+1066,2007,2,43,SG,Iowa,Adam,Haluska
+1067,2007,2,44,SF,North Carolina,Reyshawn,Terry
+1068,2007,2,45,PG,Marist,Jared,Jordan
+1069,2007,2,46,PF,Massachusetts,Stephane,Lasme
+1070,2007,2,47,SF,Fresno State,Dominic,McGuire
+1071,2007,2,48,C,Akasvayu Girona,Marc,Gasol
+1072,2007,2,49,C,Pittsburgh,Aaron,Gray
+1073,2007,2,50,SG,Maroussi,Renaldas,Seibutis
+1074,2007,2,51,PG,Oklahoma State,JamesOn,Curry
+1075,2007,2,52,PG,Florida,Taurean,Green
+1076,2007,2,53,SF,Syracuse,Demetris,Nichols
+1077,2007,2,54,SF,Townsville Crocodiles,Brad,Newley
+1078,2007,2,55,PF,Providence,Herbert,Hill
+1079,2007,2,56,PG,Nevada,Ramon,Sessions
+1080,2007,2,57,SG,DePaul,Sammy,Mejia
+1081,2007,2,58,PF,Olympia Larissa,Giorgos,Printezis
+1082,2007,2,59,PG,Maryland,D.J.,Strawberry
+1083,2007,2,60,C,Mega Ishrana,Milovan,Raković
+1084,2008,1,1,PG,Memphis,Derrick,Rose
+1085,2008,1,2,PF,Kansas State,Michael,Beasley
+1086,2008,1,3,SG,USC,O. J.,Mayo
+1087,2008,1,4,PG,UCLA,Russell,Westbrook
+1088,2008,1,5,PF,UCLA,Kevin,Love
+1089,2008,1,6,SF,Olimpia Milano,Danilo,Gallinari
+1090,2008,1,7,SG,Indiana,Eric,Gordon
+1091,2008,1,8,SF,West Virginia,Joe,Alexander
+1092,2008,1,9,PG,Texas,D. J.,Augustin
+1093,2008,1,10,C,Stanford,Brook,Lopez
+1094,2008,1,11,PG,Arizona,Jerryd,Bayless
+1095,2008,1,12,PF,Rider,Jason,Thompson
+1096,2008,1,13,SG,Kansas,Brandon,Rush
+1097,2008,1,14,PF,LSU,Anthony,Randolph
+1098,2008,1,15,C,Stanford,Robin,Lopez
+1099,2008,1,16,PF,Florida,Marreese,Speights
+1100,2008,1,17,C,Georgetown,Roy,Hibbert
+1101,2008,1,18,C,Nevada,Javale,McGee
+1102,2008,1,19,PF,NC State,J. J.,Hickson
+1103,2008,1,20,C,Hyères-Toulon,Alexis,Ajinça
+1104,2008,1,21,PF,California,Ryan,Anderson
+1105,2008,1,22,SG,Western Kentucky,Courtney,Lee
+1106,2008,1,23,C,Ohio State,Kosta,Koufos
+1107,2008,1,24,PF,L'Hospitalet,Serge,Ibaka
+1108,2008,1,25,SF,Le Mans,Nicolas,Batum
+1109,2008,1,26,PG,IUPUI,George,Hill
+1110,2008,1,27,PF,Kansas,Darrell,Arthur
+1111,2008,1,28,SF,Syracuse,Donté,Greene
+1112,2008,1,29,PF,Indiana,D. J.,White
+1113,2008,1,30,SG,New Mexico,J. R.,Giddens
+1114,2008,2,31,C,Panathinaikos,Nikola,Peković
+1115,2008,2,32,PF,UAB,Walter,Sharpe
+1116,2008,2,33,PF,Memphis,Joey,Dorsey
+1117,2008,2,34,PG,Kansas,Mario,Chalmers
+1118,2008,2,35,C,Texas A&M,DeAndre,Jordan
+1119,2008,2,36,C,Fenerbahçe Ülker,Ömer,Aşık
+1120,2008,2,37,SF,UCLA,a Moute Luc,Mbah
+1121,2008,2,38,SG,Washington State,Kyle,Weaver
+1122,2008,2,39,SG,Arkansas,Sonny,Weems
+1123,2008,2,40,SG,Memphis,Chris,Douglas-Roberts
+1124,2008,2,41,PF,Cairns Taipans,Nathan,Jawai
+1125,2008,2,42,PG,Virginia,Sean,Singletary
+1126,2008,2,43,SF,Georgetown,Jr. Patrick,Ewing
+1127,2008,2,44,C,KK Zagreb,Ante,Tomić
+1128,2008,2,45,PG,Union Olimpija,Goran,Dragić
+1129,2008,2,46,PF,BYU,Trent,Plaisted
+1130,2008,2,47,SG,Kansas State,Bill,Walker
+1131,2008,2,48,SG,Oregon,Malik,Hairston
+1132,2008,2,49,PF,Alabama,Richard,Hendrix
+1133,2008,2,50,C,California,DeVon,Hardin
+1134,2008,2,51,SG,Vanderbilt,Shan,Foster
+1135,2008,2,52,PF,Kansas,Darnell,Jackson
+1136,2008,2,53,PF,Red Star Belgrade,Tadija,Dragićević
+1137,2008,2,54,PF,Oregon,Maarty,Leunen
+1138,2008,2,55,PG,Idaho Stampede,Mike,Taylor
+1139,2008,2,56,C,Kansas,Sasha,Kaun
+1140,2008,2,57,PF,Maryland,James,Gist
+1141,2008,2,58,SG,Kentucky,Joe,Crawford
+1142,2008,2,59,SF,Virginia Tech,Deron,Washington
+1143,2008,2,60,C,Fenerbahçe Ülker,Semih,Erden
+1144,2009,1,1,PF,Oklahoma,Blake,Griffin
+1145,2009,1,2,C,Connecticut,Hasheem,Thabeet
+1146,2009,1,3,SG,Arizona State,James,Harden
+1147,2009,1,4,SG,Memphis,Tyreke,Evans
+1148,2009,1,5,PG,DKV Joventut,Ricky,Rubio
+1149,2009,1,6,PG,Syracuse,Jonny,Flynn
+1150,2009,1,7,PG,Davidson,Stephen,Curry
+1151,2009,1,8,PF,Arizona,Jordan,Hill
+1152,2009,1,9,SG,USC,DeMar,DeRozan
+1153,2009,1,10,PG,Lottomatica Roma,Brandon,Jennings
+1154,2009,1,11,SG,Louisville,Terrence,Williams
+1155,2009,1,12,SG,Duke,Gerald,Henderson
+1156,2009,1,13,PF,North Carolina,Tyler,Hansbrough
+1157,2009,1,14,SF,Louisville,Earl,Clark
+1158,2009,1,15,SF,Gonzaga,Austin,Daye
+1159,2009,1,16,SF,Wake Forest,James,Johnson
+1160,2009,1,17,PG,UCLA,Jrue,Holiday
+1161,2009,1,18,PG,North Carolina,Ty,Lawson
+1162,2009,1,19,PG,Wake Forest,Jeff,Teague
+1163,2009,1,20,PG,VCU,Eric,Maynor
+1164,2009,1,21,PG,UCLA,Darren,Collison
+1165,2009,1,22,SF,Pamesa Valencia,Víctor,Claver
+1166,2009,1,23,SF,Maccabi Tel Aviv,Omri,Casspi
+1167,2009,1,24,C,Ohio State,Byron,Mullens
+1168,2009,1,25,PG,Cholet,Rodrigue,Beaubois
+1169,2009,1,26,PF,USC,Taj,Gibson
+1170,2009,1,27,SF,Missouri,DeMarre,Carroll
+1171,2009,1,28,SG,North Carolina,Wayne,Ellington
+1172,2009,1,29,PG,Florida State,Toney,Douglas
+1173,2009,1,30,SF,CB Prat,Christian,Eyenga
+1174,2009,2,31,PF,Arizona State,Jeff,Pendergraph
+1175,2009,2,32,SG,Central Florida,Jermaine,Taylor
+1176,2009,2,33,PF,Villanova,Dante,Cunningham
+1177,2009,2,34,PG,Real Madrid,Sergio,Llull
+1178,2009,2,35,PF,Georgetown,DaJuan,Summers
+1179,2009,2,36,SF,Pittsburgh,Sam,Young
+1180,2009,2,37,PF,Pittsburgh,DeJuan,Blair
+1181,2009,2,38,PF,Washington,Jon,Brockman
+1182,2009,2,39,PF,Angelico Biella,Jonas,Jerebko
+1183,2009,2,40,SF,Xavier,Derrick,Brown
+1184,2009,2,41,SG,Kentucky,Jodie,Meeks
+1185,2009,2,42,PG,Arkansas,Patrick,Beverley
+1186,2009,2,43,SG,LSU,Marcus,Thornton
+1187,2009,2,44,SF,Arizona,Chase,Budinger
+1188,2009,2,45,PG,Florida,Nick,Calathes
+1189,2009,2,46,SF,North Carolina,Danny,Green
+1190,2009,2,47,PF,DKV Joventut,Henk,Norel
+1191,2009,2,48,SF,Oklahoma,Taylor,Griffin
+1192,2009,2,49,SG,MBC Mykolaiv,Sergiy,Gladyr
+1193,2009,2,50,C,Michigan State,Goran,Suton
+1194,2009,2,51,SG,Miami (FL),Jack,McClinton
+1195,2009,2,52,PG,Connecticut,A. J.,Price
+1196,2009,2,53,PG,Cholet,Colo Nando,de
+1197,2009,2,54,SG,UAB,Robert,Vaden
+1198,2009,2,55,PG,Saint Mary's,Patty,Mills
+1199,2009,2,56,PF,Saint Joseph's,Ahmad,Nivins
+1200,2009,2,57,PF,Fenerbahçe Ülker,Emir,Preldžič
+1201,2009,2,58,PG,Tennessee-Martin,Lester,Hudson
+1202,2009,2,59,PF,Texas A&M,Chinemelu,Elonu
+1203,2009,2,60,SF,Memphis,Robert,Dozier
+1204,2010,1,1,PG,Kentucky,John,Wall
+1205,2010,1,2,SF/SG,Ohio State,Evan,Turner
+1206,2010,1,3,PF,Georgia Tech,Derrick,Favors
+1207,2010,1,4,SF,Syracuse,Wesley,Johnson
+1208,2010,1,5,C,Kentucky,DeMarcus,Cousins
+1209,2010,1,6,C,Baylor,Ekpe,Udoh
+1210,2010,1,7,PF,Georgetown,Greg,Monroe
+1211,2010,1,8,SF,Wake Forest,Al-Farouq,Aminu
+1212,2010,1,9,SF,Butler,Gordon,Hayward
+1213,2010,1,10,SF,Fresno State,Paul,George
+1214,2010,1,11,C,Kansas,Cole,Aldrich
+1215,2010,1,12,SG,Kansas,Xavier,Henry
+1216,2010,1,13,PF,North Carolina,Ed,Davis
+1217,2010,1,14,PF,Kentucky,Patrick,Patterson
+1218,2010,1,15,C,VCU,Larry,Sanders
+1219,2010,1,16,SF,Nevada,Luke,Babbitt
+1220,2010,1,17,PF,Cholet Basket,Kévin,Séraphin
+1221,2010,1,18,PG,Kentucky,Eric,Bledsoe
+1222,2010,1,19,SG,Texas,Avery,Bradley
+1223,2010,1,20,SG,Oklahoma State,James,Anderson
+1224,2010,1,21,PF,Iowa State,Craig,Brackins
+1225,2010,1,22,SG,Memphis,Elliot,Williams
+1226,2010,1,23,PF,Clemson,Trevor,Booker
+1227,2010,1,24,SF,Texas,Damion,James
+1228,2010,1,25,SG,USF,Dominique,Jones
+1229,2010,1,26,SF,Washington,Quincy,Pondexter
+1230,2010,1,27,SG,Xavier,Jordan,Crawford
+1231,2010,1,28,PG,Maryland,Greivis,Vásquez
+1232,2010,1,29,C,Kentucky,Daniel,Orton
+1233,2010,1,30,SF,Marquette,Lazar,Hayward
+1234,2010,2,31,C,Brose Bamberg,Tibor,Pleiß
+1235,2010,2,32,C,Texas,Dexter,Pittman
+1236,2010,2,33,C,Marshall,Hassan,Whiteside
+1237,2010,2,34,PG,Nevada,Armon,Johnson
+1238,2010,2,35,SF,Red Star Belgrade,Nemanja,Bjelica
+1239,2010,2,36,SG,Ole Miss,Terrico,White
+1240,2010,2,37,SF,New Mexico,Darington,Hobson
+1241,2010,2,38,SG,Syracuse,Andy,Rautins
+1242,2010,2,39,SG,Stanford,Landry,Fields
+1243,2010,2,40,SG,Cincinnati,Lance,Stephenson
+1244,2010,2,41,PF,Mississippi State,Jarvis,Varnado
+1245,2010,2,42,SF,West Virginia,Da'Sean,Butler
+1246,2010,2,43,SF,West Virginia,Devin,Ebanks
+1247,2010,2,44,C,Tulsa,Jerome,Jordan
+1248,2010,2,45,C,CB Murcia,Paulão,Prestes
+1249,2010,2,46,PF,Georgia Tech,Gani,Lawal
+1250,2010,2,47,PF,Oklahoma,Tiny,Gallon
+1251,2010,2,48,SF,Tulsa 66ers,Latavious,Williams
+1252,2010,2,49,PF,CB Gran Canaria,Ryan,Richards
+1253,2010,2,50,C,Florida State,Solomon,Alabi
+1254,2010,2,51,PF,Louisiana Tech,Magnum,Rolle
+1255,2010,2,52,PF,Notre Dame,Luke,Harangody
+1256,2010,2,53,SF,STB Le Havre,Pape,Sy
+1257,2010,2,54,PG,Oklahoma,Willie,Warren
+1258,2010,2,55,PF,WKU,Jeremy,Evans
+1259,2010,2,56,C,Rutgers,Hamady,Ndiaye
+1260,2010,2,57,PF,Florida State,Ryan,Reid
+1261,2010,2,58,PF,UTEP,Derrick,Caracter
+1262,2010,2,59,SF,Connecticut,Stanley,Robinson
+1263,2010,2,60,PF,Miami,Dwayne,Collins
+1264,2011,1,1,PG,Duke,Kyrie,Irving
+1265,2011,1,2,SF/PF,Arizona,Derrick,Williams
+1266,2011,1,3,C,Kentucky,Enes,Kanter
+1267,2011,1,4,C/PF,Texas,Tristan,Thompson
+1268,2011,1,5,C,Lietuvos rytas Vilnius,Jonas,Valančiūnas
+1269,2011,1,6,PF,Partizan Belgrade,Jan,Veselý
+1270,2011,1,7,C,Fuenlabrada,Bismack,Biyombo
+1271,2011,1,8,PG,Kentucky,Brandon,Knight
+1272,2011,1,9,PG,Connecticut,Kemba,Walker
+1273,2011,1,10,PG/SG,BYU,Jimmer,Fredette
+1274,2011,1,11,SG,Washington State,Klay,Thompson
+1275,2011,1,12,SG,Colorado,Alec,Burks
+1276,2011,1,13,PF,Kansas,Markieff,Morris
+1277,2011,1,14,PF/SF,Kansas,Marcus,Morris
+1278,2011,1,15,SF,San Diego State,Kawhi,Leonard
+1279,2011,1,16,C,USC,Nikola,Vučević
+1280,2011,1,17,SG,Georgia Tech,Iman,Shumpert
+1281,2011,1,18,SF,Florida State,Chris,Singleton
+1282,2011,1,19,SF,Tennessee,Tobias,Harris
+1283,2011,1,20,PF,Benetton Treviso,Donatas,Motiejūnas
+1284,2011,1,21,PG,Duke,Nolan,Smith
+1285,2011,1,22,PF,Morehead State,Kenneth,Faried
+1286,2011,1,23,PF,Real Madrid,Nikola,Mirotić
+1287,2011,1,24,PG,Boston College,Reggie,Jackson
+1288,2011,1,25,SG,Providence,MarShon,Brooks
+1289,2011,1,26,SG,Texas,Jordan,Hamilton
+1290,2011,1,27,PF,Purdue,JaJuan,Johnson
+1291,2011,1,28,PG,Cleveland State,Norris,Cole
+1292,2011,1,29,PG,Texas,Cory,Joseph
+1293,2011,1,30,SG,Marquette,Jimmy,Butler
+1294,2011,2,31,SF/SG,Cibona Zagreb,Bojan,Bogdanović
+1295,2011,2,32,PF,Richmond,Justin,Harper
+1296,2011,2,33,SF,Duke,Kyle,Singler
+1297,2011,2,34,PG,Butler,Shelvin,Mack
+1298,2011,2,35,SF,UCLA,Tyler,Honeycutt
+1299,2011,2,36,PF,Maryland,Jordan,Williams
+1300,2011,2,37,PF,Georgia,Trey,Thompkins
+1301,2011,2,38,SF,Florida,Chandler,Parsons
+1302,2011,2,39,PF,Tokyo Apache,Jeremy,Tyler
+1303,2011,2,40,PF,Wisconsin,Jon,Leuer
+1304,2011,2,41,PG,Michigan,Darius,Morris
+1305,2011,2,42,SF,Union Olimpija,Dāvis,Bertāns
+1306,2011,2,43,SG,UCLA,Malcolm,Lee
+1307,2011,2,44,PG,Hofstra,Charles,Jenkins
+1308,2011,2,45,C,Kentucky,Josh,Harrellson
+1309,2011,2,46,PG,College of Charleston,Andrew,Goudelock
+1310,2011,2,47,SG,Georgia,Travis,Leslie
+1311,2011,2,48,C,Oakland,Keith,Benson
+1312,2011,2,49,PG,Kansas,Josh,Selby
+1313,2011,2,50,PF,Temple,Lavoy,Allen
+1314,2011,2,51,SG,Ohio State,Jon,Diebler
+1315,2011,2,52,PF,Florida,Vernon,Macklin
+1316,2011,2,53,SG,Kentucky,DeAndre,Liggins
+1317,2011,2,54,PF,Maccabi Tel Aviv,Milan,Macvan
+1318,2011,2,55,SG,Purdue,Etwaun,Moore
+1319,2011,2,56,PF,Bakersfield Jam,Chukwudiebere,Maduabum
+1320,2011,2,57,SF,Al Rayyan,Tanguy,Ngombo
+1321,2011,2,58,PF,Gold Coast Blaze,Ater,Majok
+1322,2011,2,59,SG,Albacomp,Ádám,Hanga
+1323,2011,2,60,PG,Washington,Isaiah,Thomas
+1324,2012,1,1,PF/C,Kentucky,Anthony,Davis
+1325,2012,1,2,SF,Kentucky,Michael,Kidd-Gilchrist
+1326,2012,1,3,SG,Florida,Bradley,Beal
+1327,2012,1,4,SG,Syracuse,Dion,Waiters
+1328,2012,1,5,PF,Kansas,Thomas,Robinson
+1329,2012,1,6,PG,Weber St.,Damian,Lillard
+1330,2012,1,7,SF,North Carolina,Harrison,Barnes
+1331,2012,1,8,SG,Washington,Terrence,Ross
+1332,2012,1,9,C,Connecticut,Andre,Drummond
+1333,2012,1,10,SG,Duke,Austin,Rivers
+1334,2012,1,11,C,Illinois,Meyers,Leonard
+1335,2012,1,12,SG,Connecticut,Jeremy,Lamb
+1336,2012,1,13,PG,North Carolina,Kendall,Marshall
+1337,2012,1,14,PF,North Carolina,John,Henson
+1338,2012,1,15,SF,St. John's,Maurice,Harkless
+1339,2012,1,16,PF,Iowa St.,Royce,White
+1340,2012,1,17,C,North Carolina,Tyler,Zeller
+1341,2012,1,18,PF,Kentucky,Terrence,Jones
+1342,2012,1,19,PF,St. Bonaventure,Andrew,Nicholson
+1343,2012,1,20,SG,Poitiers Basket,Evan,Fournier
+1344,2012,1,21,PF,Ohio St.,Jared,Sullinger
+1345,2012,1,22,C,Syracuse,Fab,Melo
+1346,2012,1,23,SG,Vanderbilt,John,Jenkins
+1347,2012,1,24,SG,Oregon St.,Jared,Cunningham
+1348,2012,1,25,PG,Washington,Tony,Wroten
+1349,2012,1,26,C,Duke,Miles,Plumlee
+1350,2012,1,27,PF,Mississippi St.,Arnett,Moultrie
+1351,2012,1,28,SF,Baylor,III Perry,Jones
+1352,2012,1,29,PG,Kentucky,Marquis,Teague
+1353,2012,1,30,C,Vanderbilt,Festus,Ezeli
+1354,2012,2,31,SF,Vanderbilt,Jeffery,Taylor
+1355,2012,2,32,SG,Banca Cívica Sevilla,Tomáš,Satoranský
+1356,2012,2,33,C,Florida St.,Bernard,James
+1357,2012,2,34,SF,Marquette,Jae,Crowder
+1358,2012,2,35,PF,Michigan St.,Draymond,Green
+1359,2012,2,36,SG,UC Santa Barbara,Orlando,Johnson
+1360,2012,2,37,PF,Baylor,Quincy,Acy
+1361,2012,2,38,SF,Baylor,Quincy,Miller
+1362,2012,2,39,SF,Texas A&M,Khris,Middleton
+1363,2012,2,40,SG,Memphis,Will,Barton
+1364,2012,2,41,PG,Kansas,Tyshawn,Taylor
+1365,2012,2,42,SG,Kentucky,Doron,Lamb
+1366,2012,2,43,PF,Virginia,Mike,Scott
+1367,2012,2,44,SG,Missouri,Kim,English
+1368,2012,2,45,C,LSU,Justin,Hamilton
+1369,2012,2,46,SF,Kentucky,Darius,Miller
+1370,2012,2,47,SG,Tennessee Tech,Kevin,Murphy
+1371,2012,2,48,SF,Olympiacos,Kostas,Papanikolaou
+1372,2012,2,49,PF,Norfolk St.,Kyle,O'Quinn
+1373,2012,2,50,PF,Banvit,Izzet,Turkyilmaz
+1374,2012,2,51,SF,Syracuse,Kris,Joseph
+1375,2012,2,52,C,Clinicas Rincón,Ognjen,Kuzmić
+1376,2012,2,53,PF,Galatasaray,Furkan,Aldemir
+1377,2012,2,54,SF,Spirou Charleroi,Tornike,Shengelia
+1378,2012,2,55,SG,Marquette,Darius,Johnson-Odom
+1379,2012,2,56,PF,Cibona Zagreb,Tomislav,Zubčić
+1380,2012,2,57,PF,Pınar Karşıyaka,İlkan,Karaman
+1381,2012,2,58,SF,Purdue,Robbie,Hummel
+1382,2012,2,59,PG,Missouri,Marcus,Denmon
+1383,2012,2,60,C,Gonzaga,Robert,Sacre
+1384,2013,1,1,PF/SF,UNLV,Anthony,Bennett
+1385,2013,1,2,SG/PG,Indiana,Victor,Oladipo
+1386,2013,1,3,SF,Georgetown,Otto,Porter
+1387,2013,1,4,C/PF,Indiana,Cody,Zeller
+1388,2013,1,5,C,Maryland,Alex,Len
+1389,2013,1,6,C,Kentucky,Nerlens,Noel
+1390,2013,1,7,SG,Kansas,Ben,McLemore
+1391,2013,1,8,SG,Georgia,Kentavious,Caldwell-Pope
+1392,2013,1,9,PG,Michigan,Trey,Burke
+1393,2013,1,10,SG,Lehigh,C. J.,McCollum
+1394,2013,1,11,PG,Syracuse,Michael,Carter-Williams
+1395,2013,1,12,C,Pittsburgh,Steven,Adams
+1396,2013,1,13,C,Gonzaga,Kelly,Olynyk
+1397,2013,1,14,SG/SF,UCLA,Shabazz,Muhammad
+1398,2013,1,15,SF/PF,Filathlitikos,Giannis,Antetokounmpo
+1399,2013,1,16,C,Estudiantes,Lucas,Nogueira
+1400,2013,1,17,PG,Phantoms Braunschweig,Dennis,Schröder
+1401,2013,1,18,PG,Miami (FL),Shane,Larkin
+1402,2013,1,19,SG/SF,Triumph Lyubertsy,Sergey,Karasev
+1403,2013,1,20,SF,New Mexico,Tony,Snell
+1404,2013,1,21,C,Louisville,Gorgui,Dieng
+1405,2013,1,22,C,Duke,Mason,Plumlee
+1406,2013,1,23,SF,Arizona,Solomon,Hill
+1407,2013,1,24,SG,Michigan,Jr. Tim,Hardaway
+1408,2013,1,25,SF,North Carolina,Reggie,Bullock
+1409,2013,1,26,SG/SF,Colorado,André,Roberson
+1410,2013,1,27,C,Cholet Basket,Rudy,Gobert
+1411,2013,1,28,SF,ASVEL Basket,Livio,Jean-Charles
+1412,2013,1,29,SG,Kentucky,Archie,Goodwin
+1413,2013,1,30,PG,Lietuvos Rytas,Nemanja,Nedović
+1414,2013,2,31,SG,California,Allen,Crabbe
+1415,2013,2,32,SG/SF,FC Barcelona,Álex,Abrines
+1416,2013,2,33,SG,Arizona State,Carrick,Felix
+1417,2013,2,34,PG,Murray State,Isaiah,Canaan
+1418,2013,2,35,SG,Rio Grande Valley Vipers,Jr. Glen,Rice
+1419,2013,2,36,PG,Detroit,Jr. Ray,McCallum
+1420,2013,2,37,PF,North Texas,Tony,Mitchell
+1421,2013,2,38,PG,South Dakota State,Nate,Wolters
+1422,2013,2,39,C,Kansas,Jeff,Withey
+1423,2013,2,40,PF,Arizona,Grant,Jerrett
+1424,2013,2,41,SG,San Diego State,Jamaal,Franklin
+1425,2013,2,42,PG,Baylor,Pierre,Jackson
+1426,2013,2,43,SG,Providence,Ricky,Ledo
+1427,2013,2,44,C,Bucknell,Mike,Muscala
+1428,2013,2,45,PF/C,FC Barcelona,Marko,Todorović
+1429,2013,2,46,PG,Virginia Tech,Erick,Green
+1430,2013,2,47,PG,Gipuzkoa Basket,Raul,Neto
+1431,2013,2,48,PF,Duke,Ryan,Kelly
+1432,2013,2,49,PF,Florida,Erik,Murphy
+1433,2013,2,50,SF,Long Beach State,James,Ennis
+1434,2013,2,51,PF,Oklahoma,Romero,Osby
+1435,2013,2,52,PG,NC State,Lorenzo,Brown
+1436,2013,2,53,C,Colorado State,Colton,Iverson
+1437,2013,2,54,PF,Oregon,Arsalan,Kazemi
+1438,2013,2,55,C,Partizan Belgrade,Joffrey,Lauvergne
+1439,2013,2,56,PG,Louisville,Peyton,Siva
+1440,2013,2,57,C,Missouri,Alex,Oriakhi
+1441,2013,2,58,SF,Ohio State,Deshaun,Thomas
+1442,2013,2,59,PF,Valencia Basket,Bojan,Dubljević
+1443,2013,2,60,SF,BK Ventspils,Jānis,Timma
+1444,2014,1,1,SF/SG,Kansas,Andrew,Wiggins
+1445,2014,1,2,SF/PF,Duke,Jabari,Parker
+1446,2014,1,3,C,Kansas,Joel,Embiid
+1447,2014,1,4,PF,Arizona,Aaron,Gordon
+1448,2014,1,5,PG/SG,Australian Institute of Sport,Dante,Exum
+1449,2014,1,6,PG,Oklahoma State,Marcus,Smart
+1450,2014,1,7,PF,Kentucky,Julius,Randle
+1451,2014,1,8,SG,Michigan,Nik,Stauskas
+1452,2014,1,9,PF,Indiana,Noah,Vonleh
+1453,2014,1,10,PG,Louisiana–Lafayette,Elfrid,Payton
+1454,2014,1,11,SF,Creighton,Doug,McDermott
+1455,2014,1,12,SF/PF,Cibona Zagreb,Dario,Saric
+1456,2014,1,13,SG,UCLA,Zach,LaVine
+1457,2014,1,14,SF,North Carolina State,T. J.,Warren
+1458,2014,1,15,PF,Michigan State,Adreian,Payne
+1459,2014,1,16,C,Cedevita Zagreb,Jusuf,Nurkić
+1460,2014,1,17,SG/SF,Kentucky,James,Young
+1461,2014,1,18,PG,Syracuse,Tyler,Ennis
+1462,2014,1,19,SG,Michigan State,Gary,Harris
+1463,2014,1,20,SF,EC Pinheiros,Bruno,Caboclo
+1464,2014,1,21,PF,Michigan,Mitch,McGary
+1465,2014,1,22,SG,UCLA,Jordan,Adams
+1466,2014,1,23,SG,Duke,Rodney,Hood
+1467,2014,1,24,PG,Connecticut,Shabazz,Napier
+1468,2014,1,25,C,Élan Chalon,Clint,Capela
+1469,2014,1,26,SG,Texas Legends,P. J.,Hairston
+1470,2014,1,27,SG,Partizan Belgrade,Bogdan,Bogdanović
+1471,2014,1,28,SG,Washington,C. J.,Wilcox
+1472,2014,1,29,SF/PF,Stanford,Josh,Huestis
+1473,2014,1,30,SF,UCLA,Kyle,Anderson
+1474,2014,2,31,SF,Chorale Roanne,Damien,Inglis
+1475,2014,2,32,SF,Clemson,K. J.,McDaniels
+1476,2014,2,33,SG,Virginia,Joe,Harris
+1477,2014,2,34,SF,Wichita State,Cleanthony,Early
+1478,2014,2,35,PF,Tennessee,Jarnell,Stokes
+1479,2014,2,36,PF,Louisiana State,III Johnny,O'Bryant
+1480,2014,2,37,SF,Connecticut,DeAndre,Daniels
+1481,2014,2,38,PG/SG,Colorado,Spencer,Dinwiddie
+1482,2014,2,39,SF,Syracuse,Jerami,Grant
+1483,2014,2,40,SF,Michigan,III Glenn,Robinson
+1484,2014,2,41,PF/C,Mega Vizura,Nikola,Jokić
+1485,2014,2,42,PG/SG,Arizona,Nick,Johnson
+1486,2014,2,43,C,CB Gran Canaria,Walter,Tavares
+1487,2014,2,44,SG,Oklahoma State,Markel,Brown
+1488,2014,2,45,PF,Stanford,Dwight,Powell
+1489,2014,2,46,PG,Missouri,Jordan,Clarkson
+1490,2014,2,47,PG/SG,Louisville,Russ,Smith
+1491,2014,2,48,SG/SF,Pittsburgh,Lamar,Patterson
+1492,2014,2,49,PF/C,New Mexico,Cameron,Bairstow
+1493,2014,2,50,C,Green Bay,Alec,Brown
+1494,2014,2,51,SF,Delaware 87ers,Thanasis,Antetokounmpo
+1495,2014,2,52,PG,Mega Vizura,Vasilije,Micić
+1496,2014,2,53,SF,Olimpia Milano,Alessandro,Gentile
+1497,2014,2,54,SG,Mega Vizura,Nemanja,Dangubić
+1498,2014,2,55,PG,Xavier,Semaj,Christon
+1499,2014,2,56,SG/SF,Iowa,Devyn,Marble
+1500,2014,2,57,PF/C,Paris-Levallois Basket,Louis,Labeyrie
+1501,2014,2,58,SG,Tennessee,Jordan,McRae
+1502,2014,2,59,PG/SG,San Diego State,Xavier,Thames
+1503,2014,2,60,PF,Baylor,Cory,Jefferson
+1504,2015,1,1,C,Kentucky,Karl-Anthony,Towns
+1505,2015,1,2,PG,Ohio State,D'Angelo,Russell
+1506,2015,1,3,C,Duke,Jahlil,Okafor
+1507,2015,1,4,PF/C,Baloncesto Sevilla,Kristaps,Porziņģis
+1508,2015,1,5,SG/SF,FC Barcelona,Mario,Hezonja
+1509,2015,1,6,C,Kentucky,Willie,Cauley-Stein
+1510,2015,1,7,PG,Guangdong Southern Tigers,Emmanuel,Mudiay
+1511,2015,1,8,SF,Arizona,Stanley,Johnson
+1512,2015,1,9,C,Wisconsin,Frank,Kaminsky
+1513,2015,1,10,SF,Duke,Justise,Winslow
+1514,2015,1,11,C,Texas,Myles,Turner
+1515,2015,1,12,PF,Kentucky,Trey,Lyles
+1516,2015,1,13,SG,Kentucky,Devin,Booker
+1517,2015,1,14,PG,Murray State,Cameron,Payne
+1518,2015,1,15,SG,Kansas,Jr. Kelly,Oubre
+1519,2015,1,16,PG,Louisville,Terry,Rozier
+1520,2015,1,17,SG,UNLV,Rashad,Vaughn
+1521,2015,1,18,SF,Wisconsin,Sam,Dekker
+1522,2015,1,19,PG,Notre Dame,Jerian,Grant
+1523,2015,1,20,PG,Utah,Delon,Wright
+1524,2015,1,21,SF,Virginia,Justin,Anderson
+1525,2015,1,22,PF,Arkansas,Bobby,Portis
+1526,2015,1,23,SF,Arizona,Rondae,Hollis-Jefferson
+1527,2015,1,24,PG,Duke,Tyus,Jones
+1528,2015,1,25,PF,LSU,Jarell,Martin
+1529,2015,1,26,C,Partizan Belgrade,Nikola,Milutinov
+1530,2015,1,27,PF,Wyoming,Jr. Larry,Nance
+1531,2015,1,28,SG,Georgia State,R. J.,Hunter
+1532,2015,1,29,PF,Syracuse,Chris,McCullough
+1533,2015,1,30,PF,UCLA,Kevon,Looney
+1534,2015,2,31,SG/SF,Anadolu Efes,Cedi,Osman
+1535,2015,2,32,PF,Louisville,Montrezl,Harrell
+1536,2015,2,33,PF,LSU,Jordan,Mickey
+1537,2015,2,34,SF,Stanford,Anthony,Brown
+1538,2015,2,35,C,Baloncesto Sevilla,Willy,Hernangómez
+1539,2015,2,36,PF/C,Syracuse,Rakeem,Christmas
+1540,2015,2,37,SF/PF,Bowling Green,Richaun,Holmes
+1541,2015,2,38,SG,Villanova,Darrun,Hilliard
+1542,2015,2,39,SF,Estudiantes de Bahía,Juan Pablo,Vaulet
+1543,2015,2,40,SG,Tennessee,Josh,Richardson
+1544,2015,2,41,SF,Notre Dame,Pat,Connaughton
+1545,2015,2,42,PG,Boston College,Olivier,Hanlan
+1546,2015,2,43,PG,Oregon,Joseph,Young
+1547,2015,2,44,PG,Kentucky,Andrew,Harrison
+1548,2015,2,45,PG,William & Mary,Marcus,Thornton
+1549,2015,2,46,SG,UCLA,Norman,Powell
+1550,2015,2,47,C,Žalgiris Kaunas,Artūras,Gudaitis
+1551,2015,2,48,C,Kentucky,Dakari,Johnson
+1552,2015,2,49,PF,Iowa,Aaron,White
+1553,2015,2,50,SG,FC Barcelona,Marcus,Eriksson
+1554,2015,2,51,PG,Eastern Washington,Tyler,Harvey
+1555,2015,2,52,C,IMG Academy,Satnam Singh,Bhamara
+1556,2015,2,53,SF,St. John's,Sir'Dominic,Pointer
+1557,2015,2,54,SF,Gipuzkoa Basket,Dani,Díez
+1558,2015,2,55,PF,Massachusetts,Cady,Lalanne
+1559,2015,2,56,SF,Michigan State,Branden,Dawson
+1560,2015,2,57,PG,Baloncesto Sevilla,Nikola,Radičević
+1561,2015,2,58,SG/SF,North Carolina,J. P.,Tokoto
+1562,2015,2,59,PF,Olympiacos,Dimitrios,Agravanis
+1563,2015,2,60,PF,Red Star Belgrade,Luka,Mitrović
+1564,2016,1,1,PF/PG,LSU,Ben,Simmons
+1565,2016,1,2,SF,Duke,Brandon,Ingram
+1566,2016,1,3,SF/SG,California,Jaylen,Brown
+1567,2016,1,4,PF/C,Maccabi FOX Tel Aviv,Dragan,Bender
+1568,2016,1,5,PG,Providence,Kris,Dunn
+1569,2016,1,6,SG,Oklahoma,Buddy,Hield
+1570,2016,1,7,SG/PG,Kentucky,Jamal,Murray
+1571,2016,1,8,PF,Washington,Marquese,Chriss
+1572,2016,1,9,C,Utah,Jakob,Poeltl
+1573,2016,1,10,PF,Orangeville Prep,Thon,Maker
+1574,2016,1,11,PF/C,Gonzaga,Domantas,Sabonis
+1575,2016,1,12,PF,Baylor,Taurean,Prince
+1576,2016,1,13,C,Panathinaikos,Georgios,Papagiannis
+1577,2016,1,14,SG/SF,Michigan State,Denzel,Valentine
+1578,2016,1,15,SF/PF,Movistar Estudiantes,Juan,Hernangómez
+1579,2016,1,16,PF,Rouen Métropole,Guerschon,Yabusele
+1580,2016,1,17,PG,Vanderbilt,IV Wade,Baldwin
+1581,2016,1,18,PF,Marquette,Henry,Ellenson
+1582,2016,1,19,SG,Florida State,Malik,Beasley
+1583,2016,1,20,SG,Michigan,Caris,LeVert
+1584,2016,1,21,SF,Saint Joseph's,DeAndre',Bembry
+1585,2016,1,22,SG,Syracuse,Malachi,Richardson
+1586,2016,1,23,C,KK Cibona,Ante,Žižić
+1587,2016,1,24,SG/SF,Mega Leks,Timothé,Luwawu-Cabarrot
+1588,2016,1,25,PF,North Carolina,Brice,Johnson
+1589,2016,1,26,SG/SF,Anadolu Efes,Furkan,Korkmaz
+1590,2016,1,27,PF,New Mexico State,Pascal,Siakam
+1591,2016,1,28,PF/C,Kentucky,Skal,Labissière
+1592,2016,1,29,PG/SG,Washington,Dejounte,Murray
+1593,2016,1,30,C,Vanderbilt,Damian,Jones
+1594,2016,2,31,PF/C,Michigan State,Deyonta,Davis
+1595,2016,2,32,C,Mega Leks,Ivica,Zubac
+1596,2016,2,33,PF/C,Kansas,Cheick,Diallo
+1597,2016,2,34,PG,Kentucky,Tyler,Ulis
+1598,2016,2,35,SG/SF,Mega Leks,Rade,Zagorac
+1599,2016,2,36,PG/SG,Virginia,Malcolm,Brogdon
+1600,2016,2,37,PF/C,Louisville,Chinanu,Onuaku
+1601,2016,2,38,SG/SF,UNLV,Patrick,McCaw
+1602,2016,2,39,PG,Elan !,David,Michineau
+1603,2016,2,40,C,Maryland,Diamond,Stone
+1604,2016,2,41,PF/C,UNLV,Stephen,Zimmerman
+1605,2016,2,42,PG/SG,Seton Hall,Isaiah,Whitehead
+1606,2016,2,43,C,Xinjiang Flying Tigers,Qi,Zhou
+1607,2016,2,44,SG,ASC Denain-Voltaire,Isaia,Cordinier
+1608,2016,2,45,PG,Notre Dame,Demetrius,Jackson
+1609,2016,2,46,C,Purdue,A. J.,Hammons
+1610,2016,2,47,SF,Maryland,Jake,Layman
+1611,2016,2,48,SG/SF,FC Bayern Munich,Paul,Zipser
+1612,2016,2,49,SF,Syracuse,Michael,Gbinije
+1613,2016,2,50,PF,Iowa State,Georges,Niang
+1614,2016,2,51,PF,Providence,Ben,Bentil
+1615,2016,2,52,PF/C,Weber State,Joel,Bolomboy
+1616,2016,2,53,PF,Le Mans Sarthe,Petr,Cornelie
+1617,2016,2,54,PG,Oakland,Kay,Felder
+1618,2016,2,55,PG,North Carolina,Marcus,Paige
+1619,2016,2,56,SG/SF,Connecticut,Daniel,Hamilton
+1620,2016,2,57,C,Fujian Sturgeons,Zhelin,Wang
+1621,2016,2,58,SF,Iowa State,Abdel,Nader
+1622,2016,2,59,PG/SG,Oklahoma,Isaiah,Cousins
+1623,2016,2,60,PG,California,Tyrone,Wallace
+1624,2017,1,1,PG/SG,Washington,Markelle,Fultz
+1625,2017,1,2,PG,UCLA,Lonzo,Ball
+1626,2017,1,3,SF,Duke,Jayson,Tatum
+1627,2017,1,4,SF,Kansas,Josh,Jackson
+1628,2017,1,5,PG,Kentucky,De'Aaron,Fox
+1629,2017,1,6,SF/PF,Florida State,Jonathan,Isaac
+1630,2017,1,7,PF,Arizona,Lauri,Markkanen
+1631,2017,1,8,PG,SIG Strasbourg,Frank,Ntilikina
+1632,2017,1,9,PG,NC State,Jr. Dennis,Smith
+1633,2017,1,10,C/PF,Gonzaga,Zach,Collins
+1634,2017,1,11,SG,Kentucky,Malik,Monk
+1635,2017,1,12,SG,Duke,Luke,Kennard
+1636,2017,1,13,SG,Louisville,Donovan,Mitchell
+1637,2017,1,14,PF/C,Kentucky,Bam,Adebayo
+1638,2017,1,15,SF,North Carolina,Justin,Jackson
+1639,2017,1,16,C,Creighton,Justin,Patton
+1640,2017,1,17,PF/SF,Michigan,D. J.,Wilson
+1641,2017,1,18,PF,UCLA,T. J.,Leaf
+1642,2017,1,19,PF,Wake Forest,John,Collins
+1643,2017,1,20,PF/C,Duke,Harry,Giles
+1644,2017,1,21,SG,Adelaide 36ers,Terrance,Ferguson
+1645,2017,1,22,C,Texas,Jarrett,Allen
+1646,2017,1,23,SF,Indiana,OG,Anunoby
+1647,2017,1,24,PF,Syracuse,Tyler,Lydon
+1648,2017,1,25,C,Herbalife Gran Canaria,Anžejs,Pasečņiks
+1649,2017,1,26,PF,Purdue,Caleb,Swanigan
+1650,2017,1,27,PF,Utah,Kyle,Kuzma
+1651,2017,1,28,PF/C,North Carolina,Tony,Bradley
+1652,2017,1,29,PG/SG,Colorado,Derrick,White
+1653,2017,1,30,SG,Villanova,Josh,Hart
+1654,2017,2,31,PG,Duke,Frank,Jackson
+1655,2017,2,32,SG,Miami,Davon,Reed
+1656,2017,2,33,SF,Kansas State,Wes,Iwundu
+1657,2017,2,34,PG,Kansas,III Frank,Mason
+1658,2017,2,35,PF,California,Ivan,Rabb
+1659,2017,2,36,PF,FMP Beograd,Jonah,Bolden
+1660,2017,2,37,SF/PF,SMU,Semi,Ojeleye
+1661,2017,2,38,PF,Oregon,Jordan,Bell
+1662,2017,2,39,PG,Oklahoma State,Jawun,Evans
+1663,2017,2,40,SG,Florida State,Dwayne,Bacon
+1664,2017,2,41,SG,Oregon,Tyler,Dorsey
+1665,2017,2,42,PF,Indiana,Thomas,Bryant
+1666,2017,2,43,PF/C,Žalgiris Kaunas,Isaiah,Hartenstein
+1667,2017,2,44,SG,Houston,Damyean,Dotson
+1668,2017,2,45,SF,Oregon,Dillon,Brooks
+1669,2017,2,46,SG,SMU,Sterling,Brown
+1670,2017,2,47,C,UCLA,Ike,Anigbogu
+1671,2017,2,48,SG,South Carolina,Sindarius,Thornwell
+1672,2017,2,49,SF,Mega Leks,Vlatko,Čančar
+1673,2017,2,50,PF/C,Nanterre 92,Mathias,Lessort
+1674,2017,2,51,PG,Iowa State,Monté,Morris
+1675,2017,2,52,PG,Xavier,Edmond,Sumner
+1676,2017,2,53,SG,Arizona,Kadeem,Allen
+1677,2017,2,54,SF,Valparaiso,Alec,Peters
+1678,2017,2,55,PG,Gonzaga,Nigel,Williams-Goss
+1679,2017,2,56,SG,California,Jabari,Bird
+1680,2017,2,57,PF,FC Barcelona Lassa,Sasha,Vezenkov
+1681,2017,2,58,PG,Mega Leks,Ognjen,Jaramaz
+1682,2017,2,59,SF,Clemson,Jaron,Blossomgame
+1683,2017,2,60,PF/C,Mega Leks,Alpha,Kaba
 1684,2018,1,1,C,Arizona,DeAndre,Ayton
 1685,2018,1,2,PF,Michigan St.,Jaren,Jackson Jr.
 1686,2018,1,3,SF,Missouri,Michael,Porter
